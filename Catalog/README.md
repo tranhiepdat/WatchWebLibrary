@@ -1,45 +1,62 @@
-# Watch Library — Catalog (PILOT)
+# Watch Library — Catalog
 
-This is a **pilot sample** demonstrating the proposed organization for the watch
-warehouse photo library, before processing all ~790 source files in `WebWatch/`.
+Organized photo library for the watch warehouse, ready for web upload.
+All 790 source files from the old flat `WebWatch/` dump have been identified by
+image, grouped per individual watch, renamed, and filed by brand and model.
 
-## Folder convention
+## Folder structure
 
 ```
 Catalog/
-  <Brand>/                e.g. Rolex, Richard Mille, Cartier
-    <Model line>/         e.g. GMT-Master II, Nautilus, Santos
-      <Watch name>/       one folder per individual watch
+  <Brand>/                 e.g. Rolex, Richard Mille, Cartier ...
+    <Model line>/          e.g. Datejust, RM 055, Santos ...
+      <Watch name>/        one folder per individual watch
         <Watch name> - 01.jpg, - 02.jpg, ...   (multi-angle shoots)
         <Watch name> - video.mp4                (if a clip exists)
-        <Watch name>.jpg                        (single-photo catalog items)
+        <Watch name> - live 01.heic             (live-photo companion, if any)
+        <Watch name>.jpg                        (when the watch has a single photo)
 ```
 
-- **Watch name** = nickname / color / material / common name (no reference codes),
-  e.g. `Submariner Date Green Bezel Black Dial`,
-  `RM 035 Americas Rose Gold Skeleton - Black Rubber`.
-- Names are **ASCII, no diacritics**, web-upload friendly.
-- Image files are renamed tidily and numbered in shot order.
+- **Watch name** = model + dial colour + case colour/material + notable bezel/strap
+  (nickname / common name, no reference numbers, no size). ASCII, web-friendly.
+- One folder per watch, even single-photo items (so each folder = one web listing).
 
 ## catalog.csv
 
-Structured metadata for every watch — ready to drive **tags** on the website
-(brand, model, dial/case color, material, bezel, bracelet/strap, gender,
-estimated size, photo count, source file IDs, confidence, notes).
+One row per watch (277 total) — structured metadata to drive **tags** on the site:
 
-## Notes on the source data (important)
+`brand, model, watch_name, dial_color, case_color, case_material, bezel,
+bracelet_strap, strap_material, gender, est_size_mm, num_photos, num_videos,
+confidence, folder, source_ids`
 
-The source dump has **two kinds** of material mixed together:
+- `est_size_mm` is an estimate (case size is rarely printed on the watch).
+- `confidence` (high / medium / low) flags how sure the identification is —
+  scan the `medium`/`low` rows first when reviewing.
+- `source_ids` lists the original filenames, so any item can be traced back.
 
-1. **Detailed shoots** — one watch with ~10–15 angle photos + a video
-   (e.g. the Richard Mille items here).
-2. **Catalog dumps** — many different watches with **only 1 photo each**
-   (e.g. the 6 single-photo items here all came from one consecutive run).
+## Inventory (277 watches)
 
-Filenames are encoded (Apple Photos export IDs, hashes) and do **not** indicate
-the watch — and a single filename "burst" often contains many different watches.
-So grouping must be done **visually**, image by image. The total number of
-distinct watches is therefore much larger than a first glance suggests.
+| Brand | Watches |  | Brand | Watches |
+|---|---|---|---|---|
+| Rolex | 81 | | Audemars Piguet | 14 |
+| Richard Mille | 53 | | Vacheron Constantin | 9 |
+| Cartier | 26 | | IWC | 8 |
+| Omega | 24 | | Breitling | 2 |
+| Patek Philippe | 24 | | Piaget | 1 |
+| Hublot | 19 | | Franck Muller | 1 |
+| Jaeger-LeCoultre | 14 | | Roger Dubuis | 1 |
 
-`est_size_mm` is an approximation (case size is rarely printed on the watch).
-`confidence` flags how sure the model/identification is.
+## _Unsorted/
+
+`_Unsorted/Live & Misc/` holds 13 live-photo (`.HEIC`) and video (`.mp4`) files
+whose original filenames gave no reliable link to a specific watch (random
+hashes, no orderable sibling). They were kept rather than guessed — place them
+manually if you can match them.
+
+## How this was built
+
+Filenames in the source dump were meaningless (Apple Photos export IDs, hashes)
+and a single filename "burst" routinely mixed many different watches, so every
+image was inspected visually, grouped into runs of the same physical watch, and
+named from what is visible. Identifications are best-effort; corrections are easy
+to make via `catalog.csv` and folder renames.
