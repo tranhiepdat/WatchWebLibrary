@@ -5,7 +5,7 @@ Controlled tag set derived from `catalog.csv` (277 watches). Each facet below ca
 ## Brand (14)
 
 - Rolex — 81
-- Richard Mille — 53
+- Richard Mille — 52
 - Cartier — 26
 - Omega — 24
 - Patek Philippe — 24
@@ -13,7 +13,7 @@ Controlled tag set derived from `catalog.csv` (277 watches). Each facet below ca
 - Audemars Piguet — 14
 - Jaeger-LeCoultre — 14
 - Vacheron Constantin — 9
-- IWC — 8
+- IWC — 7
 - Breitling — 2
 - Franck Muller — 1
 - Piaget — 1
@@ -27,24 +27,24 @@ Controlled tag set derived from `catalog.csv` (277 watches). Each facet below ca
 - Day-Date — 16
 - Nautilus — 15
 - Royal Oak — 13
-- RM 055 — 10
 - Panthere — 9
 - Santos — 9
 - Spirit of Big Bang — 9
+- RM 055 — 9
 - Overseas — 9
 - Classic Fusion — 8
-- RM 35-02 — 8
+- RM 035 — 8
 - Oyster Perpetual — 8
-- RM 035 — 7
-- Ingenieur — 6
+- RM 35-02 — 7
 - Master Ultra Thin Moon — 6
-- RM 67-01 — 6
 - Submariner — 6
 - Tank — 5
+- Ingenieur — 5
 - Master Control — 5
 - Speedmaster — 5
+- RM 35-01 — 5
 - RM 35-03 — 5
-- RM 35-01 — 4
+- RM 67-01 — 5
 - Yacht-Master — 4
 - Master Geographic — 3
 - Cubitus — 3
@@ -80,13 +80,13 @@ Controlled tag set derived from `catalog.csv` (277 watches). Each facet below ca
 
 ## Gender (3)
 
-- Men — 218
+- Men — 216
 - Women — 32
 - Unisex — 27
 
 ## Dial Color (20)
 
-- Blue — 53
+- Blue — 52
 - Black — 45
 - White — 38
 - Silver — 21
@@ -109,7 +109,7 @@ Controlled tag set derived from `catalog.csv` (277 watches). Each facet below ca
 
 ## Dial Style (5)
 
-- Skeleton — 55
+- Skeleton — 54
 - Diamond Markers — 40
 - Mother of Pearl — 5
 - Tapisserie — 2
@@ -117,28 +117,28 @@ Controlled tag set derived from `catalog.csv` (277 watches). Each facet below ca
 
 ## Case Material (12)
 
-- Stainless Steel — 147
+- Stainless Steel — 146
 - Rose Gold — 36
 - Yellow Gold — 18
-- Ceramic — 16
+- Ceramic — 15
 - White Gold — 14
 - Titanium — 14
-- Carbon TPT — 12
+- Carbon TPT — 13
 - Two-Tone — 10
 - Quartz TPT — 9
-- Carbon — 8
+- Carbon — 7
 - Sapphire Crystal — 6
 - Platinum — 3
 
 ## Strap Type (2)
 
-- Bracelet — 152
-- Strap — 125
+- Bracelet — 151
+- Strap — 124
 
 ## Strap Material (10)
 
-- Steel — 109
-- Rubber — 77
+- Steel — 108
+- Rubber — 76
 - Leather — 36
 - Rose Gold — 15
 - Yellow Gold — 13
@@ -153,15 +153,15 @@ Controlled tag set derived from `catalog.csv` (277 watches). Each facet below ca
 - Ceramic Bezel — 43
 - Fluted Bezel — 40
 - Diamond Bezel — 24
-- Tonneau Bezel — 16
 - Tachymeter Bezel — 15
+- Tonneau Bezel — 15
 - Octagonal Bezel — 12
 
 ## Complication/Style (12)
 
-- Integrated Bracelet Sport — 46
-- Skeleton — 46
+- Integrated Bracelet Sport — 45
 - Chronograph — 44
+- Skeleton — 44
 - Diamond-Set — 40
 - Date — 26
 - GMT/World Time — 17
@@ -174,8 +174,8 @@ Controlled tag set derived from `catalog.csv` (277 watches). Each facet below ca
 
 ## Size (5)
 
-- Standard (37-40mm) — 93
+- Standard (37-40mm) — 92
 - Large (41-43mm) — 75
-- Oversized (44mm+) — 55
+- Oversized (44mm+) — 54
 - Mid (33-36mm) — 33
 - Ladies (<33mm) — 21
