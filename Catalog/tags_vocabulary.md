@@ -4,16 +4,16 @@ Controlled tag set derived from `catalog.csv` (277 watches). Each facet below ca
 
 ## Brand (14)
 
-- Rolex — 81
-- Richard Mille — 52
-- Cartier — 26
-- Omega — 24
-- Patek Philippe — 24
+- Rolex — 76
+- Richard Mille — 51
+- Cartier — 25
+- Omega — 23
+- Patek Philippe — 22
 - Hublot — 19
-- Audemars Piguet — 14
-- Jaeger-LeCoultre — 14
+- Audemars Piguet — 13
+- Jaeger-LeCoultre — 11
 - Vacheron Constantin — 9
-- IWC — 7
+- IWC — 6
 - Breitling — 2
 - Franck Muller — 1
 - Piaget — 1
@@ -22,31 +22,30 @@ Controlled tag set derived from `catalog.csv` (277 watches). Each facet below ca
 ## Collection (56)
 
 - Datejust — 18
-- Seamaster Aqua Terra — 16
-- Cosmograph Daytona — 16
 - Day-Date — 16
-- Nautilus — 15
-- Royal Oak — 13
-- Panthere — 9
+- Seamaster Aqua Terra — 15
+- Nautilus — 13
+- Cosmograph Daytona — 13
+- Royal Oak — 12
 - Santos — 9
 - Spirit of Big Bang — 9
 - RM 055 — 9
 - Overseas — 9
+- Panthere — 8
 - Classic Fusion — 8
 - RM 035 — 8
-- Oyster Perpetual — 8
 - RM 35-02 — 7
+- Oyster Perpetual — 7
 - Master Ultra Thin Moon — 6
-- Submariner — 6
 - Tank — 5
 - Ingenieur — 5
-- Master Control — 5
 - Speedmaster — 5
 - RM 35-01 — 5
 - RM 35-03 — 5
-- RM 67-01 — 5
+- Submariner — 5
+- RM 67-01 — 4
 - Yacht-Master — 4
-- Master Geographic — 3
+- Master Control — 3
 - Cubitus — 3
 - RM 11-03 — 3
 - Cellini — 3
@@ -55,7 +54,7 @@ Controlled tag set derived from `catalog.csv` (277 watches). Each facet below ca
 - Navitimer — 2
 - Santos-Dumont — 2
 - Big Bang — 2
-- Pilot's Watch — 2
+- Master Geographic — 2
 - Seamaster Diver 300M — 2
 - Calatrava — 2
 - RM 27-03 — 2
@@ -66,6 +65,7 @@ Controlled tag set derived from `catalog.csv` (277 watches). Each facet below ca
 - Code 11.59 — 1
 - Ballon Bleu — 1
 - Vanguard — 1
+- Pilot's Watch — 1
 - Constellation — 1
 - Aquanaut — 1
 - Complications — 1
@@ -80,22 +80,22 @@ Controlled tag set derived from `catalog.csv` (277 watches). Each facet below ca
 
 ## Gender (3)
 
-- Men — 216
-- Women — 32
-- Unisex — 27
+- Men — 205
+- Women — 30
+- Unisex — 25
 
 ## Dial Color (20)
 
-- Blue — 52
-- Black — 45
-- White — 38
+- Blue — 47
+- Black — 43
+- White — 33
 - Silver — 21
-- Green — 14
+- Green — 13
 - Gray — 12
 - Brown — 7
 - Purple — 5
-- Turquoise — 5
 - Mother of Pearl — 5
+- Turquoise — 4
 - Light Blue — 3
 - Ice Blue — 3
 - Champagne — 3
@@ -109,20 +109,20 @@ Controlled tag set derived from `catalog.csv` (277 watches). Each facet below ca
 
 ## Dial Style (5)
 
-- Skeleton — 54
-- Diamond Markers — 40
+- Skeleton — 53
+- Diamond Markers — 39
 - Mother of Pearl — 5
-- Tapisserie — 2
+- Tapisserie — 1
 - Meteorite — 1
 
 ## Case Material (12)
 
-- Stainless Steel — 146
-- Rose Gold — 36
+- Stainless Steel — 134
+- Rose Gold — 35
 - Yellow Gold — 18
-- Ceramic — 15
 - White Gold — 14
-- Titanium — 14
+- Ceramic — 14
+- Titanium — 13
 - Carbon TPT — 13
 - Two-Tone — 10
 - Quartz TPT — 9
@@ -132,50 +132,50 @@ Controlled tag set derived from `catalog.csv` (277 watches). Each facet below ca
 
 ## Strap Type (2)
 
-- Bracelet — 151
-- Strap — 124
+- Bracelet — 142
+- Strap — 118
 
 ## Strap Material (10)
 
-- Steel — 108
-- Rubber — 76
-- Leather — 36
-- Rose Gold — 15
+- Steel — 100
+- Rubber — 75
+- Leather — 33
+- Rose Gold — 14
 - Yellow Gold — 13
-- Fabric — 11
 - White Gold — 10
+- Fabric — 9
 - Platinum — 3
 - Two-Tone — 2
 - Carbon — 1
 
 ## Bezel (6)
 
-- Ceramic Bezel — 43
 - Fluted Bezel — 40
-- Diamond Bezel — 24
-- Tachymeter Bezel — 15
+- Ceramic Bezel — 38
+- Diamond Bezel — 23
 - Tonneau Bezel — 15
-- Octagonal Bezel — 12
+- Tachymeter Bezel — 13
+- Octagonal Bezel — 11
 
 ## Complication/Style (12)
 
-- Integrated Bracelet Sport — 45
-- Chronograph — 44
-- Skeleton — 44
-- Diamond-Set — 40
-- Date — 26
-- GMT/World Time — 17
+- Skeleton — 43
+- Integrated Bracelet Sport — 42
+- Chronograph — 40
+- Diamond-Set — 39
+- Date — 25
 - Day-Date — 16
+- GMT/World Time — 15
 - Moonphase — 11
-- Diver — 9
+- Diver — 8
 - Tourbillon — 7
 - Perpetual Calendar — 3
 - Annual Calendar — 1
 
 ## Size (5)
 
-- Standard (37-40mm) — 92
-- Large (41-43mm) — 75
+- Standard (37-40mm) — 85
+- Large (41-43mm) — 69
 - Oversized (44mm+) — 54
-- Mid (33-36mm) — 33
-- Ladies (<33mm) — 21
+- Mid (33-36mm) — 32
+- Ladies (<33mm) — 20
