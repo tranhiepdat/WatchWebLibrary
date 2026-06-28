@@ -19,65 +19,54 @@ Controlled tag set derived from `catalog.csv` (277 watches). Each facet below ca
 - Piaget — 1
 - Roger Dubuis — 1
 
-## Collection (67)
+## Collection (56)
 
 - Datejust — 18
+- Seamaster Aqua Terra — 16
 - Cosmograph Daytona — 16
 - Day-Date — 16
 - Nautilus — 15
-- Seamaster Aqua Terra — 14
 - Royal Oak — 13
 - RM 055 — 10
+- Panthere — 9
+- Santos — 9
 - Spirit of Big Bang — 9
+- Overseas — 9
 - Classic Fusion — 8
 - RM 35-02 — 8
 - Oyster Perpetual — 8
 - RM 035 — 7
-- Panthere — 6
 - Ingenieur — 6
 - Master Ultra Thin Moon — 6
 - RM 67-01 — 6
 - Submariner — 6
-- Santos — 5
+- Tank — 5
 - Master Control — 5
+- Speedmaster — 5
 - RM 35-03 — 5
-- Santos de Cartier — 4
-- Tank Solo — 4
 - RM 35-01 — 4
 - Yacht-Master — 4
-- Overseas Chronograph — 4
-- Panthere de Cartier — 3
 - Master Geographic — 3
 - Cubitus — 3
 - RM 11-03 — 3
 - Cellini — 3
 - GMT-Master II — 3
 - Land-Dweller — 3
-- Overseas Dual Time — 3
 - Navitimer — 2
 - Santos-Dumont — 2
+- Big Bang — 2
 - Pilot's Watch — 2
 - Seamaster Diver 300M — 2
-- Speedmaster — 2
 - Calatrava — 2
 - RM 27-03 — 2
 - RM 27-04 — 2
 - RM 88 — 2
 - Milgauss — 2
 - Sky-Dweller — 2
-- Overseas — 2
 - Code 11.59 — 1
 - Ballon Bleu — 1
-- Tank Francaise — 1
 - Vanguard — 1
-- Big Bang — 1
-- Big Bang Sang Bleu — 1
 - Constellation — 1
-- Seamaster — 1
-- Seamaster Aqua Terra Worldtimer — 1
-- Speedmaster Moonphase — 1
-- Speedmaster Moonwatch — 1
-- Speedmaster Racing — 1
 - Aquanaut — 1
 - Complications — 1
 - Grand Complications — 1
