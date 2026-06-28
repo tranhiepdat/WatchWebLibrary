@@ -1,0 +1,43 @@
+name: Sync catalog to Shopify
+
+# Runs when the library changes on main (or manually from the Actions tab).
+on:
+  push:
+    branches: [main]
+    paths:
+      - "Catalog/catalog.csv"
+      - "Catalog/tags.csv"
+      - "scripts/sync-shopify.mjs"
+  workflow_dispatch:
+    inputs:
+      only_skus:
+        description: "Comma-separated SKUs to sync (blank = all)"
+        required: false
+      publish:
+        description: "Publish live (ACTIVE) instead of DRAFT?"
+        type: boolean
+        default: false
+
+concurrency:
+  group: shopify-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Sync to Shopify
+        env:
+          SHOPIFY_STORE: ${{ secrets.SHOPIFY_STORE }}
+          SHOPIFY_ADMIN_TOKEN: ${{ secrets.SHOPIFY_ADMIN_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GIT_REF: ${{ github.ref_name }}
+          ONLY_SKUS: ${{ github.event.inputs.only_skus }}
+          PUBLISH: ${{ github.event.inputs.publish }}
+        run: node scripts/sync-shopify.mjs
