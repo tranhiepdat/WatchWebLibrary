@@ -34,6 +34,21 @@ confidence, folder, source_ids`
   scan the `medium`/`low` rows first when reviewing.
 - `source_ids` lists the original filenames, so any item can be traced back.
 
+## tags.csv + tags_vocabulary.md  (ready for web tags/filters)
+
+`tags.csv` gives every watch a normalized, deduplicated tag set across facets —
+Brand, Collection, Gender, Dial Color, Dial Style, Case Material, Strap Type,
+Strap Material, Bezel, Complication/Style, Size — plus an `all_tags` column
+(`;`-separated) you can feed straight into a product's tags on the site.
+
+Values are normalized into a controlled vocabulary (e.g. Grey→Gray, "Steel and
+Rose Gold"→Two-Tone, "Skeleton" moved from colour to Dial Style) and extra tags
+are derived from the model/name (Chronograph, GMT/World Time, Diver, Moonphase,
+Skeleton, Tourbillon, Diamond-Set, Integrated Bracelet Sport, ...).
+
+`tags_vocabulary.md` lists every distinct tag per facet with counts — use it to
+set up the filter groups / tag taxonomy on the website.
+
 ## Inventory (277 watches)
 
 | Brand | Watches |  | Brand | Watches |
