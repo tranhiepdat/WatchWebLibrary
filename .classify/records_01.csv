@@ -1,0 +1,701 @@
+file,brand,model,watch_name,dial_color,case_color,case_material,bezel,bracelet_strap,strap_material,gender,est_size_mm,shot_type,confidence
+Update/Rolex_Batch01/IMG_0060.JPG,Rolex,Datejust,Datejust Steel Jubilee Caseback,?,steel,steel-whitegold,?,jubilee,steel,Unisex,31,caseback,medium
+Update/Rolex_Batch01/IMG_0061.JPG,Rolex,Datejust,Datejust Silver Steel Fluted Bezel Diamond Dial Jubilee,silver,steel-whitegold,steel-whitegold,fluted,jubilee,steel,Unisex,31,dial,high
+Update/Rolex_Batch01/9a375584dd03b6e250bac692d2dd3b75.JPG,Rolex,Datejust,Datejust Green Dial Steel Diamond Bezel Jubilee,green,steel,steel,diamond,jubilee,steel,Unisex,36,full,high
+Update/Rolex_Batch01/9c14f4629f2bf696dd59b758c83ab6ad.JPG,Rolex,Day-Date,Day-Date Champagne Dial Yellow Gold Fluted President,champagne,yellowgold,yellowgold,fluted,president,yellowgold,Men,40,dial,high
+Update/Rolex_Batch01/9e9f01ec500da5c670c123570d8de4bc.JPG,Rolex,Day-Date,Day-Date Champagne Diamond Dial Yellow Gold Fluted President,champagne,yellowgold,yellowgold,fluted,president,yellowgold,Men,40,dial,high
+Update/Rolex_Batch01/9f93f3d06121e810f579eed94d61b0d6.JPG,Rolex,Day-Date,Day-Date Black Diamond Dial Yellow Gold Fluted President,black,yellowgold,yellowgold,fluted,president,yellowgold,Men,40,dial,high
+Update/Rolex_Batch01/9fa10d2c23143a0eeec5e85972af49.JPG,Rolex,1908,1908 Green Guilloche Dial Yellow Gold Jubilee,green,yellowgold,yellowgold,fluted,jubilee,yellowgold,Men,39,full,medium
+Update/Rolex_Batch01/a044ae82f2a3ad03af23ba5f507a5e.JPG,Rolex,1908,1908 Movement Caseback Steel Jubilee,?,steel,platinum,?,jubilee,steel,Men,39,movement,medium
+Update/Rolex_Batch01/a3972ae30d9756b64014a1b91beb9e62.JPG,Rolex,Day-Date,Day-Date Clasp Engraving Yellow Gold President,?,yellowgold,yellowgold,?,president,yellowgold,Men,,bracelet,low
+Update/Rolex_Batch01/a5beca87a990ee4c1e412bf9ca2e285b.JPG,Rolex,Air-King,Air-King Black Dial Steel Smooth Bezel Oyster,black,steel,steel,smooth,oyster,steel,Men,40,dial,medium
+Update/Rolex_Batch01/a69fc99caa04d75c7e98801c619dc303 2.JPG,Rolex,Day-Date,Day-Date Yellow Gold Fluted Bezel President,?,yellowgold,yellowgold,fluted,president,yellowgold,Men,40,side,medium
+Update/Rolex_Batch01/a69fc99caa04d75c7e98801c619dc303.JPG,Rolex,Day-Date,Day-Date Yellow Gold Fluted Bezel President,?,yellowgold,yellowgold,fluted,president,yellowgold,Men,40,side,medium
+Update/Rolex_Batch01/a6cd8bf4e14cb6f23211f12da6aeed.JPG,Rolex,1908,1908 Turquoise Guilloche Dial Yellow Gold Jubilee,turquoise,yellowgold,yellowgold,fluted,jubilee,yellowgold,Men,39,full,medium
+Update/Rolex_Batch01/aa0059272b923eb14d90c320a4a17030.JPG,Rolex,Day-Date,Day-Date Silver Roman Dial Yellow Gold Fluted President,silver,yellowgold,yellowgold,fluted,president,yellowgold,Men,40,dial,high
+Update/Rolex_Batch01/acfdb5e5ca9bca139f92d4e2b9dc0cc5 2.JPG,Rolex,1908,1908 Clasp Engraving Yellow Gold Jubilee,?,yellowgold,yellowgold,?,jubilee,yellowgold,Men,,bracelet,low
+Update/Rolex_Batch01/acfdb5e5ca9bca139f92d4e2b9dc0cc5 3.JPG,Rolex,1908,1908 Clasp Engraving Yellow Gold Jubilee,?,yellowgold,yellowgold,?,jubilee,yellowgold,Men,,bracelet,low
+Update/Rolex_Batch01/acfdb5e5ca9bca139f92d4e2b9dc0cc5.JPG,Rolex,1908,1908 Clasp Engraving Yellow Gold Jubilee,?,yellowgold,yellowgold,?,jubilee,yellowgold,Men,,bracelet,low
+Update/Rolex_Batch01/aeb95e4b1204f8e25a70cfd460085b8e.JPG,Rolex,Day-Date,Day-Date Champagne Diamond Dial Yellow Gold Fluted President,champagne,yellowgold,yellowgold,fluted,president,yellowgold,Men,40,dial,high
+Update/Rolex_Batch01/af3744fa85cb986cda15ecd5c543628d.JPG,Rolex,Datejust,Datejust Movement Caseback Steel Caliber 3235,?,steel,steel,?,jubilee,steel,Men,41,movement,medium
+Update/Rolex_Batch01/af43c135daa9ad408787b7bcdf0e0719 2.JPG,Rolex,Day-Date,Day-Date Yellow Gold President Bracelet,?,yellowgold,yellowgold,fluted,president,yellowgold,Men,40,bracelet,medium
+Update/Rolex_Batch01/IMG_4175.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Black Mother-Of-Pearl Diamond Dial White Gold Ceramic Bezel,black-mop,white,whitegold,ceramic-tachymeter,oyster,whitegold,Men,40,full,high
+Update/Rolex_Batch01/IMG_4176.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Black Mother-Of-Pearl Diamond Dial Yellow Gold,black-mop,yellowgold,yellowgold,gold-tachymeter,oyster,yellowgold,Men,40,full,high
+Update/Rolex_Batch01/IMG_4177.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Black Dial Steel Yellow Gold Gold Bezel,black,steel-yellowgold,steel-yellowgold,gold-tachymeter,oyster,steel-yellowgold,Men,40,full,high
+Update/Rolex_Batch01/IMG_4178.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Meteorite Dial Everose Gold,meteorite,everosegold,everosegold,gold-tachymeter,oyster,everosegold,Men,40,full,high
+Update/Rolex_Batch01/IMG_4179.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Sundust Dial Everose Gold,sundust,everosegold,everosegold,gold-tachymeter,oyster,everosegold,Men,40,full,high
+Update/Rolex_Batch01/IMG_4180.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Slate Arabic Dial White Gold Rubber Strap,slate,white,whitegold,steel-tachymeter,rubber,rubber,Men,40,full,high
+Update/Rolex_Batch01/IMG_4181.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Blue Dial White Gold,blue,white,whitegold,steel-tachymeter,oyster,whitegold,Men,40,full,high
+Update/Rolex_Batch01/IMG_4182.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Meteorite Dial Yellow Gold Gold Bezel,meteorite,yellowgold,yellowgold,gold-tachymeter,oyster,yellowgold,Men,40,full,high
+Update/Rolex_Batch01/IMG_4183.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Meteorite Dial Yellow Gold Ceramic Bezel Rubber Strap,meteorite,yellowgold,yellowgold,ceramic-tachymeter,rubber,rubber,Men,40,full,high
+Update/Rolex_Batch01/IMG_4184.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona White Mother-Of-Pearl Diamond Dial White Gold Ceramic Bezel,white-mop,white,whitegold,ceramic-tachymeter,oyster,whitegold,Men,40,full,high
+Update/Rolex_Batch01/IMG_4185.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Black Dial Steel Ceramic Bezel,black,steel,steel,ceramic-tachymeter,oyster,steel,Men,40,full,high
+Update/Rolex_Batch01/IMG_4186.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Black Diamond Dial White Gold Ceramic Bezel,black,white,whitegold,ceramic-tachymeter,oyster,whitegold,Men,40,full,high
+Update/Rolex_Batch01/IMG_4187.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Black Dial Yellow Gold,black,yellowgold,yellowgold,gold-tachymeter,oyster,yellowgold,Men,40,full,high
+Update/Rolex_Batch01/IMG_4188.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Ice Blue Dial Platinum Brown Ceramic Bezel,ice-blue,platinum,platinum,brown-ceramic-tachymeter,oyster,platinum,Men,40,full,high
+Update/Rolex_Batch01/IMG_4189.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Black Dial Steel Yellow Gold Gold Bezel,black,steel-yellowgold,steel-yellowgold,gold-tachymeter,oyster,steel-yellowgold,Men,40,full,high
+Update/Rolex_Batch01/IMG_4190.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Turquoise Dial Yellow Gold Ceramic Bezel,turquoise,yellowgold,yellowgold,ceramic-tachymeter,oyster,yellowgold,Men,40,full,high
+Update/Rolex_Batch01/IMG_4192.JPG,Rolex,Submariner,Submariner No-Date Black Dial Steel Ceramic Bezel,black,steel,steel,black-ceramic,oyster,steel,Men,41,dial,high
+Update/Rolex_Batch01/IMG_4193.JPG,Rolex,Submariner,Submariner No-Date Black Dial Steel Ceramic Bezel,black,steel,steel,black-ceramic,oyster,steel,Men,41,dial,high
+Update/Rolex_Batch01/IMG_0196.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Slate Dial White Gold Diamond Bezel Oysterflex,slate,white,whitegold,diamond,strap,rubber,Men,40,full,high
+Update/Rolex_Batch01/IMG_0225.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Black And Blue Bezel Oyster,black,steel,steel,black-blue,bracelet,steel,Men,40,full,high
+Update/Rolex_Batch01/IMG_0226.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Black And Blue Bezel Oyster,black,steel,steel,black-blue,bracelet,steel,Men,40,dial,high
+Update/Rolex_Batch01/IMG_0227.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Black And Blue Bezel Oyster,black,steel,steel,black-blue,bracelet,steel,Men,40,dial,high
+Update/Rolex_Batch01/IMG_0228.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Black And Blue Bezel Oyster,black,steel,steel,black-blue,bracelet,steel,Men,40,full,high
+Update/Rolex_Batch01/IMG_0229.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Black And Blue Bezel Oyster,black,steel,steel,black-blue,bracelet,steel,Men,40,dial,high
+Update/Rolex_Batch01/IMG_0230.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Black And Blue Bezel Oyster,black,steel,steel,black-blue,bracelet,steel,Men,40,side,high
+Update/Rolex_Batch01/IMG_0231.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Black And Blue Bezel Oyster,black,steel,steel,black-blue,bracelet,steel,Men,40,bracelet,high
+Update/Rolex_Batch01/IMG_0232.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Black And Blue Bezel Oyster,black,steel,steel,black-blue,bracelet,steel,Men,40,bracelet,high
+Update/Rolex_Batch01/IMG_0233.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Black And Blue Bezel Oyster,black,steel,steel,black-blue,bracelet,steel,Men,40,bracelet,high
+Update/Rolex_Batch01/IMG_0234.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Black And Blue Bezel Oyster,black,steel,steel,black-blue,bracelet,steel,Men,40,caseback,high
+Update/Rolex_Batch01/IMG_0235.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Black And Blue Bezel Oyster,black,steel,steel,black-blue,bracelet,steel,Men,40,side,high
+Update/Rolex_Batch01/IMG_0236.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Black And Blue Bezel Oyster,black,steel,steel,black-blue,bracelet,steel,Men,40,full,high
+Update/Rolex_Batch01/IMG_0333.JPG,Rolex,Submariner,Submariner Date Black Dial Yellow Gold Black Bezel Oyster,black,yellow,yellowgold,black-ceramic,bracelet,yellowgold,Men,41,full,high
+Update/Rolex_Batch01/IMG_0334.JPG,Rolex,Submariner,Submariner Date Black Dial Yellow Gold Black Bezel Oyster,black,yellow,yellowgold,black-ceramic,bracelet,yellowgold,Men,41,side,high
+Update/Rolex_Batch01/IMG_0335.JPG,Rolex,Submariner,Submariner Date Black Dial Yellow Gold Black Bezel Oyster,black,yellow,yellowgold,black-ceramic,bracelet,yellowgold,Men,41,caseback,high
+Update/Rolex_Batch01/IMG_0336.JPG,Rolex,Submariner,Submariner Date Black Dial Yellow Gold Black Bezel Oyster,black,yellow,yellowgold,black-ceramic,bracelet,yellowgold,Men,41,bracelet,high
+Update/Rolex_Batch01/IMG_0337.JPG,Rolex,Submariner,Submariner Date Black Dial Yellow Gold Black Bezel Oyster,black,yellow,yellowgold,black-ceramic,bracelet,yellowgold,Men,41,side,high
+Update/Rolex_Batch01/8b212701d4211d441466b6465a8e38.JPG,Rolex,1908,1908 White Dial Yellow Gold,white,yellow gold,yellowgold,fluted,settimo,yellowgold,Men,39,full,high
+Update/Rolex_Batch01/8dd0054e39e35955a6d1fee348ffb184.JPG,Rolex,Day-Date,Day-Date White Dial White Gold Fluted Bezel,white,white gold,whitegold,fluted,president,whitegold,Men,40,dial,high
+Update/Rolex_Batch01/8ef7bca0129c8ff4d93adc44f4b515d6.JPG,Rolex,Day-Date,Day-Date Black Dial Yellow Gold Fluted Bezel President,black,yellow gold,yellowgold,fluted,president,yellowgold,Men,40,full,high
+Update/Rolex_Batch01/8f182157a7850325ccf4e8a21f628835.JPG,Rolex,Datejust,Datejust Silver Dial Steel Smooth Bezel Jubilee,silver,steel,steel,smooth,jubilee,steel,Men,36,full,high
+Update/Rolex_Batch01/8f419e908b76880c43d9098946743423.JPG,Rolex,Day-Date,Day-Date Champagne Dial Yellow Gold Fluted Bezel,champagne,yellow gold,yellowgold,fluted,president,yellowgold,Men,,dial,low
+Update/Rolex_Batch01/934f1101dfdc7f71f442014e57820e41 2.JPG,Rolex,Datejust,Datejust Steel Jubilee Caseback,?,steel,steel,?,jubilee,steel,Men,36,caseback,medium
+Update/Rolex_Batch01/934f1101dfdc7f71f442014e57820e41 3.JPG,Rolex,Datejust,Datejust Steel Jubilee Caseback,?,steel,steel,?,jubilee,steel,Men,36,caseback,medium
+Update/Rolex_Batch01/934f1101dfdc7f71f442014e57820e41.JPG,Rolex,Datejust,Datejust Steel Jubilee Caseback,?,steel,steel,?,jubilee,steel,Men,36,caseback,medium
+Update/Rolex_Batch01/9519e9a9f5e79b118153d725c22842d8.JPG,Rolex,Datejust,Datejust Mint Green Dial Steel Fluted Bezel Jubilee,mint green,steel,steel-whitegold,fluted,jubilee,steel,Men,36,full,high
+Update/Rolex_Batch01/96346e48a9a0cd88048f20f1703df5.JPG,Rolex,Datejust,Datejust Steel Jubilee Clasp,?,steel,steel,?,jubilee,steel,Men,,bracelet,medium
+Update/Rolex_Batch01/977e944deefc797c17483bba041987ce 2.JPG,Rolex,Datejust,Datejust Steel Diamond Bezel Side,?,steel,steel,diamond,?,steel,Men,36,side,medium
+Update/Rolex_Batch01/977e944deefc797c17483bba041987ce.JPG,Rolex,Datejust,Datejust Steel Diamond Bezel Side,?,steel,steel,diamond,?,steel,Men,36,side,medium
+Update/Rolex_Batch01/9852f9265577bc43cacca8e76297bad8.JPG,Rolex,Datejust,Datejust Black Diamond Dial Steel Diamond Bezel Jubilee,black,steel,steel,diamond,jubilee,steel,Men,36,full,high
+Update/Rolex_Batch01/99e89cb9278c7848276b05ed29538a19 2.JPG,Rolex,Datejust,Datejust Steel Jubilee Clasp,?,steel,steel,?,jubilee,steel,Men,36,bracelet,medium
+Update/Rolex_Batch01/99e89cb9278c7848276b05ed29538a19 3.JPG,Rolex,Datejust,Datejust Steel Jubilee Clasp,?,steel,steel,?,jubilee,steel,Men,36,bracelet,medium
+Update/Rolex_Batch01/99e89cb9278c7848276b05ed29538a19.JPG,Rolex,Datejust,Datejust Steel Jubilee Clasp,?,steel,steel,?,jubilee,steel,Men,36,bracelet,medium
+Update/Rolex_Batch01/9a0c406c1cdf5131f516d0375aa33ecb.JPG,Rolex,Datejust,Datejust Black Diamond Dial Steel Diamond Bezel Jubilee,black,steel,steel,diamond,jubilee,steel,Men,36,full,high
+Update/Rolex_Batch01/9a325b487d6131dbe0f2c1ac764d30f9.JPG,Rolex,Day-Date,Day-Date Green Dial Yellow Gold Fluted Bezel,green,yellow gold,yellowgold,fluted,?,yellowgold,Men,,other,low
+Update/Rolex_Batch01/IMG_4598.JPG,Rolex,Yacht-Master,Yacht-Master Black Dial Everose Gold Ceramic Bezel Oysterflex,black,rosegold,everose-gold,ceramic-bidirectional,oysterflex,rubber,Men,40,dial,high
+Update/Rolex_Batch01/IMG_4599.JPG,Rolex,Yacht-Master,Yacht-Master Black Dial Everose Gold Ceramic Bezel Oysterflex,black,rosegold,everose-gold,ceramic-bidirectional,oysterflex,rubber,Men,40,dial,high
+Update/Rolex_Batch01/IMG_4600.JPG,Rolex,Yacht-Master,Yacht-Master Black Dial Everose Gold Ceramic Bezel Oysterflex,black,rosegold,everose-gold,ceramic-bidirectional,oysterflex,rubber,Men,40,dial,high
+Update/Rolex_Batch01/IMG_4601.JPG,Rolex,Yacht-Master,Yacht-Master Everose Gold Oysterflex,?,rosegold,everose-gold,?,oysterflex,rubber,Men,40,caseback,medium
+Update/Rolex_Batch01/IMG_4725.JPG,Rolex,Datejust,Datejust Mint Green Dial Steel Fluted Bezel Jubilee,mint-green,steel,steel-whitegold,fluted,jubilee,steel,Women,31,full,high
+Update/Rolex_Batch01/IMG_4726.JPG,Rolex,Datejust,Datejust Black Roman Dial Steel Fluted Bezel Jubilee,black,steel,steel-whitegold,fluted,jubilee,steel,Women,31,full,high
+Update/Rolex_Batch01/IMG_4727.JPG,Rolex,Datejust,Datejust Mint Green Dial Steel Diamond Bezel Jubilee,mint-green,steel,steel-whitegold,diamond,jubilee,steel,Women,31,full,high
+Update/Rolex_Batch01/IMG_4728.JPG,Rolex,Datejust,Datejust Silver Diamond Dial Steel Fluted Bezel Jubilee,silver,steel,steel-whitegold,fluted,jubilee,steel,Women,31,full,high
+Update/Rolex_Batch01/IMG_4729.JPG,Rolex,Datejust,Datejust White Roman Dial Steel Fluted Bezel Jubilee,white,steel,steel-whitegold,fluted,jubilee,steel,Women,31,full,high
+Update/Rolex_Batch01/IMG_4730.JPG,Rolex,Datejust,Datejust Pink Diamond Dial Steel Everose Diamond Bezel Jubilee,pink,steel-rosegold,steel-everose,diamond,jubilee,steel-everose,Women,31,full,high
+Update/Rolex_Batch01/IMG_4731.JPG,Rolex,Datejust,Datejust Green Floral Motif Dial Steel Yellow Gold Fluted Bezel Jubilee,green-floral,steel-yellowgold,steel-yellowgold,fluted,jubilee,steel-yellowgold,Women,31,full,high
+Update/Rolex_Batch01/IMG_4732.JPG,Rolex,Datejust,Datejust Silver Diamond Dial Steel Everose Fluted Bezel Jubilee,silver,steel-rosegold,steel-everose,fluted,jubilee,steel-everose,Women,31,full,high
+Update/Rolex_Batch01/IMG_4733.JPG,Rolex,Datejust,Datejust Chocolate Roman Diamond Dial Steel Everose Diamond Bezel Jubilee,chocolate,steel-rosegold,steel-everose,diamond,jubilee,steel-everose,Women,31,full,high
+Update/Rolex_Batch01/IMG_4734.JPG,Rolex,Datejust,Datejust Silver Floral Motif Dial Steel Everose Fluted Bezel Jubilee,silver-floral,steel-rosegold,steel-everose,fluted,jubilee,steel-everose,Women,31,full,high
+Update/Rolex_Batch01/IMG_4735.JPG,Rolex,Datejust,Datejust Chocolate Roman Dial Steel Everose Fluted Bezel Jubilee,chocolate,steel-rosegold,steel-everose,fluted,jubilee,steel-everose,Women,31,full,high
+Update/Rolex_Batch01/IMG_4736.JPG,Rolex,Datejust,Datejust Silver Diamond Dial Steel Everose Diamond Bezel Jubilee,silver,steel-rosegold,steel-everose,diamond,jubilee,steel-everose,Women,31,full,high
+Update/Rolex_Batch01/IMG_4737.JPG,Rolex,Datejust,Datejust Slate Grey Dial Steel Everose Fluted Bezel Jubilee,slate-grey,steel-rosegold,steel-everose,fluted,jubilee,steel-everose,Women,31,full,high
+Update/Rolex_Batch01/IMG_4738.JPG,Rolex,Datejust,Datejust Olive Green Diamond Dial Steel Yellow Gold Diamond Bezel Jubilee,olive-green,steel-yellowgold,steel-yellowgold,diamond,jubilee,steel-yellowgold,Women,31,full,high
+Update/Rolex_Batch01/4bbb3efe5c4bc3f870989478e1ee2f05 2.JPG,Rolex,Datejust,Datejust Steel Jubilee,?,steel,steel,?,jubilee,steel,Men,41,side,medium
+Update/Rolex_Batch01/4bbb3efe5c4bc3f870989478e1ee2f05 3.JPG,Rolex,Datejust,Datejust Steel Jubilee,?,steel,steel,?,jubilee,steel,Men,41,side,medium
+Update/Rolex_Batch01/4bbb3efe5c4bc3f870989478e1ee2f05.JPG,Rolex,Datejust,Datejust Steel Jubilee,?,steel,steel,?,jubilee,steel,Men,41,side,medium
+Update/Rolex_Batch01/4ea87b534dcda5074e2cd7d649a45ca4.JPG,Rolex,Day-Date,Day-Date Silver Dial Yellow Gold Fluted President,silver,yellowgold,yellowgold,fluted,president,yellowgold,Men,40,full,high
+Update/Rolex_Batch01/51cfb6bd19a1233d16cf3c393430d0cc.JPG,Rolex,Datejust,Datejust Green Dial Steel Diamond Bezel Jubilee,green,steel,steel,diamond,jubilee,steel,Men,36,full,high
+Update/Rolex_Batch01/546fd18ab5f04333d5acf3b968591f4d.JPG,Rolex,Day-Date,Day-Date White Dial Everose Gold Fluted President,white,everose,everose-gold,fluted,president,everose-gold,Men,40,other,medium
+Update/Rolex_Batch01/56fc3e10ee0c8048e52f4601e6899f.JPG,Rolex,1908,1908 Blue Dial Yellow Gold,blue,yellowgold,yellowgold,fluted,jubilee,yellowgold,Men,39,full,medium
+Update/Rolex_Batch01/59118fc51a1f39e08bcac5b58bdecd82.JPG,Rolex,Datejust,Datejust Steel Jubilee,?,steel,steel,?,jubilee,steel,Men,41,side,medium
+Update/Rolex_Batch01/5a1f85f068d2b5e0070ff0e7731b1c.JPG,Rolex,1908,1908 Blue Dial Yellow Gold Jubilee,blue,yellowgold,yellowgold,fluted,jubilee,yellowgold,Men,39,full,medium
+Update/Rolex_Batch01/5a46d26d08996519e782cc0727bcbb06.JPG,Rolex,Day-Date,Day-Date White Dial Yellow Gold Fluted President,white,yellowgold,yellowgold,fluted,president,yellowgold,Men,40,dial,medium
+Update/Rolex_Batch01/5be6edf0fdad1f26c69fa7ee4c50671e.JPG,Rolex,Day-Date,Day-Date Black Dial Yellow Gold Diamond Markers Fluted President,black,yellowgold,yellowgold,fluted,president,yellowgold,Men,40,full,high
+Update/Rolex_Batch01/5c12de0ed2bf68b1e668b77322493b42.JPG,Rolex,Air-King,Air-King Black Dial Steel Oyster,black,steel,steel,smooth,oyster,steel,Men,40,full,high
+Update/Rolex_Batch01/5d8cc4301dfc4ea5eec598dd2da8db45.JPG,Rolex,Datejust,Datejust Green Dial Steel Fluted,green,steel,steel,fluted,?,steel,Men,36,dial,medium
+Update/Rolex_Batch01/5de699762a401dc56688801dafd6610b.JPG,Rolex,Day-Date,Day-Date White Dial Everose Gold Fluted President,white,everose,everose-gold,fluted,president,everose-gold,Men,40,full,high
+Update/Rolex_Batch01/5e507309348afc7983a1f33bb111df92.JPG,Rolex,Datejust,Datejust Green Dial Steel Diamond Bezel Jubilee,green,steel,steel,diamond,jubilee,steel,Men,36,full,high
+Update/Rolex_Batch01/5ecfe37f1ac32abc95137c5547192cec 2.JPG,Rolex,Day-Date,Day-Date Yellow Gold Clasp,?,yellowgold,yellowgold,?,president,yellowgold,Men,,bracelet,low
+Update/Rolex_Batch01/5ecfe37f1ac32abc95137c5547192cec.JPG,Rolex,Day-Date,Day-Date Yellow Gold Clasp,?,yellowgold,yellowgold,?,president,yellowgold,Men,,bracelet,low
+Update/Rolex_Batch01/61e3630ceb2dc32046c17ba41ea25916.JPG,Rolex,Day-Date,Day-Date Champagne Dial Yellow Gold Diamond Markers Fluted,champagne,yellowgold,yellowgold,fluted,?,yellowgold,Men,40,dial,medium
+Update/Rolex_Batch01/c9722272b2a8d15dec9225e9a92b1fe6.JPG,Rolex,Datejust,Datejust Steel Jubilee Movement,?,steel,steel,?,jubilee,steel,Men,41,movement,medium
+Update/Rolex_Batch01/cabf07b0afd7b6bfff789206ad12fc3a.JPG,Rolex,Day-Date,Day-Date Champagne Yellow Gold Fluted President,champagne,yellowgold,yellowgold,fluted,president,yellowgold,Men,36,other,high
+Update/Rolex_Batch01/cc7d2fe6c11a2e078a13f8e2b626ff26 2.JPG,Rolex,Day-Date,Day-Date Yellow Gold Fluted President,?,yellowgold,yellowgold,fluted,president,yellowgold,Men,40,side,medium
+Update/Rolex_Batch01/cc7d2fe6c11a2e078a13f8e2b626ff26.JPG,Rolex,Day-Date,Day-Date Yellow Gold Fluted President,?,yellowgold,yellowgold,fluted,president,yellowgold,Men,40,side,medium
+Update/Rolex_Batch01/cc8500577904c644d1a2ee1b33c0d2.JPG,Rolex,Datejust,Datejust Steel Jubilee Movement,?,steel,steel,?,jubilee,steel,Men,41,movement,medium
+Update/Rolex_Batch01/cd0d3f1f9465310ca97076c1b22556.JPG,Rolex,1908,1908 Black Yellow Gold Jubilee,black,yellowgold,yellowgold,fluted,jubilee,yellowgold,Men,39,full,medium
+Update/Rolex_Batch01/cdca6e90b0ca80c6874e063046437a7d.JPG,Rolex,Datejust,Datejust Silver Steel,silver,steel,steel,smooth,?,steel,Men,36,dial,high
+Update/Rolex_Batch01/ceb4ef634c990d98de5f4d1519b88ff4.JPG,Rolex,Datejust,Datejust Black Diamond Dial Diamond Bezel,black,steel,steel,diamond,?,steel,Unisex,36,dial,high
+Update/Rolex_Batch01/d1228d12db7e5f5f567d5ccec31e613e.JPG,Rolex,Day-Date,Day-Date Silver Yellow Gold Fluted President Roman,silver,yellowgold,yellowgold,fluted,president,yellowgold,Men,40,full,high
+Update/Rolex_Batch01/d5d59ad0c634bf9a7ed2156e755de03b.JPG,Rolex,Day-Date,Day-Date Champagne Yellow Gold Fluted President Roman,champagne,yellowgold,yellowgold,fluted,president,yellowgold,Men,40,full,high
+Update/Rolex_Batch01/d92ec161982d4f742aa2f1aa40c4cc21.JPG,Rolex,Day-Date,Day-Date Champagne Yellow Gold Fluted President Roman,champagne,yellowgold,yellowgold,fluted,president,yellowgold,Men,40,dial,high
+Update/Rolex_Batch01/d9bbcb98943696ed30a1ff8ea6b95ab6.JPG,Rolex,Day-Date,Day-Date Green Yellow Gold Fluted President Roman,green,yellowgold,yellowgold,fluted,president,yellowgold,Men,40,full,high
+Update/Rolex_Batch01/d9e4ba9e72af1e03c5770c8b4f4d43.JPG,Rolex,1908,1908 Black Steel Jubilee,black,steel,steel,fluted,jubilee,steel,Men,39,full,medium
+Update/Rolex_Batch01/daf3ca1bab20b0f4a23de1c1dc5dbbc7.JPG,Rolex,GMT-Master II,GMT-Master II Black Steel Everose Root Beer Ceramic Oyster,black,steel-everose,steel-everose,ceramic-brown-black,oyster,steel-everose,Men,40,full,high
+Update/Rolex_Batch01/db3ee434b47a5d2f85f6c020be8bc6da.JPG,Rolex,GMT-Master II,GMT-Master II Steel Everose Root Beer Oyster,?,steel-everose,steel-everose,ceramic-brown-black,oyster,steel-everose,Men,40,caseback,medium
+Update/Rolex_Batch01/dcd1b7311fb8a4f9e402dfeb4bdb63.JPG,Rolex,1908,1908 Blue Steel Jubilee,blue,steel,steel,fluted,jubilee,steel,Men,39,full,medium
+Update/Rolex_Batch01/dd1ffa3252999fac206f97d73da624e5.JPG,Rolex,Datejust,Datejust Blue Steel,blue,steel,steel,?,?,steel,Men,41,dial,high
+Update/Rolex_Batch01/dd2cfaae3796ea9930b672a8b236d9.JPG,Rolex,1908,1908 White Steel Jubilee,white,steel,steel,fluted,jubilee,steel,Men,39,full,medium
+Update/Rolex_Batch01/IMG_4317.JPG,Rolex,Day-Date,Day-Date Silver Dial Everose Gold Fluted Bezel President,silver,rose-gold,everose-gold,fluted,president,everose-gold,Men,40,full,high
+Update/Rolex_Batch01/IMG_4318.JPG,Rolex,Day-Date,Day-Date Green Dial Yellow Gold Fluted Bezel President,green,yellow-gold,yellow-gold,fluted,president,yellow-gold,Men,40,full,high
+Update/Rolex_Batch01/IMG_4319.JPG,Rolex,Day-Date,Day-Date Champagne Diamond Dial Yellow Gold Fluted Bezel President,champagne,yellow-gold,yellow-gold,fluted,president,yellow-gold,Men,36,full,high
+Update/Rolex_Batch01/IMG_4320.JPG,Rolex,Day-Date,Day-Date Green Roman Dial Yellow Gold Fluted Bezel President,green,yellow-gold,yellow-gold,fluted,president,yellow-gold,Men,36,full,high
+Update/Rolex_Batch01/IMG_4321.JPG,Rolex,Day-Date,Day-Date Green Diamond Dial Yellow Gold Fluted Bezel President,green,yellow-gold,yellow-gold,fluted,president,yellow-gold,Men,36,full,high
+Update/Rolex_Batch01/IMG_4322.JPG,Rolex,Day-Date,Day-Date Slate Diamond Dial Yellow Gold Fluted Bezel President,slate,yellow-gold,yellow-gold,fluted,president,yellow-gold,Men,36,full,high
+Update/Rolex_Batch01/IMG_4323.JPG,Rolex,Day-Date,Day-Date White Mother Of Pearl Diamond Dial Yellow Gold Fluted Bezel President,white-mop,yellow-gold,yellow-gold,fluted,president,yellow-gold,Men,36,full,high
+Update/Rolex_Batch01/IMG_4587.JPG,Rolex,Yacht-Master,Yacht-Master Black Dial Everose Gold Ceramic Bezel Oysterflex,black,rose-gold,everose-gold,black-ceramic,oysterflex,rubber,Men,40,full,high
+Update/Rolex_Batch01/IMG_4588.JPG,Rolex,Yacht-Master,Yacht-Master Black Dial Everose Gold Ceramic Bezel Oysterflex,black,rose-gold,everose-gold,black-ceramic,oysterflex,rubber,Men,40,full,high
+Update/Rolex_Batch01/IMG_4589.JPG,Rolex,Yacht-Master,Yacht-Master Black Dial Everose Gold Ceramic Bezel Oysterflex,black,rose-gold,everose-gold,black-ceramic,oysterflex,rubber,Men,40,box,high
+Update/Rolex_Batch01/IMG_4590.JPG,Rolex,Yacht-Master,Yacht-Master Black Dial Everose Gold Ceramic Bezel Oysterflex,black,rose-gold,everose-gold,black-ceramic,oysterflex,rubber,Men,40,bracelet,high
+Update/Rolex_Batch01/IMG_4591.JPG,Rolex,Yacht-Master,Yacht-Master Black Dial Everose Gold Ceramic Bezel Oysterflex,black,rose-gold,everose-gold,black-ceramic,oysterflex,rubber,Men,40,side,high
+Update/Rolex_Batch01/IMG_4592.JPG,Rolex,Yacht-Master,Yacht-Master Black Dial Everose Gold Ceramic Bezel Oysterflex,black,rose-gold,everose-gold,black-ceramic,oysterflex,rubber,Men,40,side,high
+Update/Rolex_Batch01/IMG_4593.JPG,Rolex,Yacht-Master,Yacht-Master Black Dial Everose Gold Ceramic Bezel Oysterflex,black,rose-gold,everose-gold,black-ceramic,oysterflex,rubber,Men,40,bracelet,high
+Update/Rolex_Batch01/IMG_4594.JPG,Rolex,Yacht-Master,Yacht-Master Black Dial Everose Gold Ceramic Bezel Oysterflex,black,rose-gold,everose-gold,black-ceramic,oysterflex,rubber,Men,40,dial,high
+Update/Rolex_Batch01/IMG_4595.JPG,Rolex,Yacht-Master,Yacht-Master Black Dial Everose Gold Ceramic Bezel Oysterflex,black,rose-gold,everose-gold,black-ceramic,oysterflex,rubber,Men,40,dial,high
+Update/Rolex_Batch01/IMG_4596.JPG,Rolex,Yacht-Master,Yacht-Master Black Dial Everose Gold Ceramic Bezel Oysterflex,black,rose-gold,everose-gold,black-ceramic,oysterflex,rubber,Men,40,full,high
+Update/Rolex_Batch01/IMG_4597.JPG,Rolex,Yacht-Master,Yacht-Master Black Dial Everose Gold Ceramic Bezel Oysterflex,black,rose-gold,everose-gold,black-ceramic,oysterflex,rubber,Men,40,full,high
+Update/Rolex_Batch01/IMG_4139.JPG,Rolex,Yacht-Master,Yacht-Master Black Dial Steel and Everose Gold Rolesor,black,steel-rosegold,steel-everosegold,rosegold-graduated,oyster,steel-everosegold,Men,40,full,high
+Update/Rolex_Batch01/IMG_4140.JPG,Rolex,Milgauss,Milgauss Green Dial Steel Green Crystal,green,steel,steel,smooth-steel,oyster,steel,Men,40,full,high
+Update/Rolex_Batch01/IMG_4141.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Black Dial Yellow Gold Ceramic Bezel,black,yellowgold,yellowgold,black-ceramic-tachymeter,oyster,yellowgold,Men,40,full,high
+Update/Rolex_Batch01/IMG_4142.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Black MOP Diamond Dial Yellow Gold Ceramic Bezel,black-mop,yellowgold,yellowgold,black-ceramic-tachymeter,rubber,rubber,Men,40,full,high
+Update/Rolex_Batch01/IMG_4143.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Black Dial Everose Gold Rainbow Sapphire Bezel,black,rosegold,everosegold,rainbow-sapphire,oyster,everosegold,Men,40,full,high
+Update/Rolex_Batch01/IMG_4144.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Sundust Dial Everose Gold Ceramic Bezel,sundust,rosegold,everosegold,black-ceramic-tachymeter,rubber,rubber,Men,40,full,high
+Update/Rolex_Batch01/IMG_4145.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Ice Blue Dial Platinum Brown Ceramic Bezel,ice-blue,platinum,platinum,brown-ceramic-tachymeter,oyster,platinum,Men,40,full,high
+Update/Rolex_Batch01/IMG_4146.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Black Diamond Dial Steel and Yellow Gold Rolesor,black,steel-yellowgold,steel-yellowgold,yellowgold-tachymeter,oyster,steel-yellowgold,Men,40,full,high
+Update/Rolex_Batch01/IMG_4147.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Sodalite Diamond Dial White Gold Ceramic Bezel,sodalite-blue,whitegold,whitegold,black-ceramic-tachymeter,rubber,rubber,Men,40,full,high
+Update/Rolex_Batch01/IMG_4148.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Black Dial Everose Gold Pink Subdials,black,rosegold,everosegold,rosegold-tachymeter,oyster,everosegold,Men,40,full,high
+Update/Rolex_Batch01/IMG_4149.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Meteorite Dial White Gold Ceramic Bezel,meteorite,whitegold,whitegold,black-ceramic-tachymeter,rubber,rubber,Men,40,full,high
+Update/Rolex_Batch01/IMG_4150.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona White Dial White Gold Brown Subdials,white,whitegold,whitegold,steel-tachymeter,rubber,rubber,Men,40,full,medium
+Update/Rolex_Batch01/IMG_4151.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Black Diamond Dial Yellow Gold Champagne Subdials,black,yellowgold,yellowgold,yellowgold-tachymeter,oyster,yellowgold,Men,40,full,high
+Update/Rolex_Batch01/IMG_4152.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Black Dial Yellow Gold Champagne Subdials,black,yellowgold,yellowgold,yellowgold-tachymeter,oyster,yellowgold,Men,40,full,high
+Update/Rolex_Batch01/IMG_4153.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Green Dial Yellow Gold,green,yellowgold,yellowgold,yellowgold-tachymeter,oyster,yellowgold,Men,40,full,high
+Update/Rolex_Batch01/IMG_4154.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona DiW Grey Dial Forged Carbon Gold Accents,grey,carbon,forged-carbon,carbon-gold-tachymeter,fabric,fabric,Men,40,full,medium
+Update/Rolex_Batch01/IMG_4155.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Black Dial Everose Gold Ceramic Bezel Pink Subdials,black,rosegold,everosegold,black-ceramic-tachymeter,rubber,rubber,Men,40,full,high
+Update/Rolex_Batch01/IMG_4156.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Champagne Dial Yellow Gold Black Subdials,champagne,yellowgold,yellowgold,yellowgold-tachymeter,oyster,yellowgold,Men,40,full,high
+Update/Rolex_Batch01/IMG_9267.JPG,Rolex,Yacht-Master,Yacht-Master White Gold Oysterflex,?,white,white-gold,?,strap,rubber,Men,42,side,medium
+Update/Rolex_Batch01/IMG_9269.JPG,Rolex,Yacht-Master,Yacht-Master White Gold Oysterflex,?,white,white-gold,?,strap,rubber,Men,42,bracelet,medium
+Update/Rolex_Batch01/IMG_9270.JPG,Rolex,Yacht-Master,Yacht-Master White Gold Oysterflex,?,white,white-gold,?,strap,rubber,Men,42,bracelet,medium
+Update/Rolex_Batch01/2a84164e57a622d415361388908f0fc4.JPG,Rolex,Datejust,Datejust Black Diamond Dial Steel Diamond Bezel Jubilee,black,steel,steel,diamond,jubilee,steel,Men,36,full,high
+Update/Rolex_Batch01/2aa415a561b29f27ab013354b8f19f02.JPG,Rolex,Day-Date,Day-Date White Dial Yellow Gold Fluted President,white,yellowgold,yellowgold,fluted,president,yellowgold,Men,40,other,high
+Update/Rolex_Batch01/2f3fdc0fb7eddc7ae77650d3ca516d51.JPG,Rolex,Datejust,Datejust Steel Oyster Clasp,?,steel,steel,?,oyster,steel,Men,,bracelet,low
+Update/Rolex_Batch01/309eb0a366531363d8ddfe8b11ac172c.JPG,Rolex,Day-Date,Day-Date Champagne Diamond Dial Yellow Gold Fluted President,champagne,yellowgold,yellowgold,fluted,president,yellowgold,Men,36,other,high
+Update/Rolex_Batch01/30e01469eadefedb31c60f095beb0f31.JPG,Rolex,Day-Date,Day-Date Silver Dial Yellow Gold Fluted President,silver,yellowgold,yellowgold,fluted,president,yellowgold,Men,,dial,medium
+Update/Rolex_Batch01/3244d652c30a9387b65003f616ed8c.JPG,Rolex,Datejust,Datejust Steel Jubilee,?,steel,steel,?,jubilee,steel,Men,,bracelet,low
+Update/Rolex_Batch01/3298023f4cee4df8350f689f95c6e700.JPG,Rolex,Datejust,Datejust Silver Dial Steel Smooth Bezel Jubilee,silver,steel,steel,smooth,jubilee,steel,Men,36,dial,high
+Update/Rolex_Batch01/32b9c3bcf0737ded196abbea9e3ebf89.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Rose Gold Brown Black Cerachrom Bezel,black,rosegold,rosegold,brown-black-ceramic,oyster,rosegold,Men,40,dial,high
+Update/Rolex_Batch01/33fc94fd7f9e2e12d842f580e1526ce6.JPG,Rolex,Day-Date,Day-Date Champagne Dial Yellow Gold Fluted,champagne,yellowgold,yellowgold,fluted,?,yellowgold,Men,36,dial,high
+Update/Rolex_Batch01/35b1c71ce3a941995651663b76053748.JPG,Rolex,Day-Date,Day-Date Champagne Dial Yellow Gold Fluted President,champagne,yellowgold,yellowgold,fluted,president,yellowgold,Men,40,full,high
+Update/Rolex_Batch01/35f71a96153bef830e46cb6fb18787ae.JPG,Rolex,Day-Date,Day-Date Green Dial Yellow Gold Fluted President,green,yellowgold,yellowgold,fluted,president,yellowgold,Men,40,full,high
+Update/Rolex_Batch01/3889c383d2aa1dd213c549f9da56b94d 2.JPG,Rolex,Day-Date,Day-Date Yellow Gold Fluted President,?,yellowgold,yellowgold,fluted,president,yellowgold,Men,,side,medium
+Update/Rolex_Batch01/3889c383d2aa1dd213c549f9da56b94d.JPG,Rolex,Day-Date,Day-Date Yellow Gold Fluted President,?,yellowgold,yellowgold,fluted,president,yellowgold,Men,,side,medium
+Update/Rolex_Batch01/39a0eaccc8ae347a7b628e7d59ea3c81.JPG,Rolex,Day-Date,Day-Date Champagne Dial Yellow Gold Fluted President,champagne,yellowgold,yellowgold,fluted,president,yellowgold,Men,40,full,high
+Update/Rolex_Batch01/3ac1f711ff9bb4c1a1184eb5cf449a3b.JPG,Rolex,GMT-Master II,GMT-Master II Steel Rose Gold Oyster Clasp,?,steel-rosegold,steel-rosegold,?,oyster,steel-rosegold,Men,,bracelet,low
+Update/Rolex_Batch01/3c045a873eb010297bb5b65c528dd49a.JPG,Rolex,Day-Date,Day-Date White Dial Rose Gold Fluted President,white,rosegold,rosegold,fluted,president,rosegold,Men,40,full,high
+Update/Rolex_Batch01/3ccfd04854108384e22aabe661c1e3a4.JPG,Rolex,Submariner,Submariner Steel Caseback Oyster,?,steel,steel,?,oyster,steel,Men,40,caseback,low
+Update/Rolex_Batch01/3d98b70b49b48f3e3f1913e5e09c85dc.JPG,Rolex,Air-King,Air-King Black Dial Steel Smooth Bezel Oyster,black,steel,steel,smooth,oyster,steel,Men,40,full,high
+Update/Rolex_Batch03/IMG_2161 2.JPG,Rolex,Datejust,Datejust Silver Diamond Dial Everose Gold Diamond Bezel President,silver,rose gold,everose gold,diamond,president,everose gold,Women,31,papers,medium
+Update/Rolex_Batch03/IMG_2162 2.JPG,Rolex,Datejust,Datejust Silver Diamond Dial Everose Gold Fluted Bezel President,silver,rose gold,everose gold,fluted,president,everose gold,Women,31,papers,medium
+Update/Rolex_Batch03/IMG_2163 2.JPG,Rolex,Datejust,Datejust Silver Diamond Dial Everose Gold Fluted Bezel President,silver,rose gold,everose gold,fluted,president,everose gold,Unisex,31,papers,low
+Update/Rolex_Batch03/IMG_2164 2.JPG,Rolex,Datejust,Datejust Silver Diamond Dial White Gold Diamond Bezel President,silver,white gold,white gold,diamond,president,white gold,Women,31,papers,medium
+Update/Rolex_Batch03/IMG_2165 2.JPG,Rolex,Datejust,Datejust Champagne Diamond Dial Yellow Gold Diamond Bezel President,champagne,yellow gold,yellow gold,diamond,president,yellow gold,Women,31,papers,low
+Update/Rolex_Batch03/IMG_2166 2.JPG,Rolex,Datejust,Datejust Champagne Diamond Dial Yellow Gold Fluted Bezel President,champagne,yellow gold,yellow gold,fluted,president,yellow gold,Unisex,31,papers,medium
+Update/Rolex_Batch03/IMG_2167 2.JPG,Rolex,Datejust,Datejust Champagne Diamond Dial Yellow Gold Fluted Bezel President,champagne,yellow gold,yellow gold,fluted,president,yellow gold,Unisex,31,wrist,medium
+Update/Rolex_Batch03/IMG_2193 2.JPG,Rolex,Day-Date,Day-Date White Mother Of Pearl Diamond Dial White Gold Diamond Bezel President,white mother of pearl,white gold,white gold,diamond,president,white gold,Unisex,36,papers,medium
+Update/Rolex_Batch03/IMG_2194 2.JPG,Rolex,Day-Date,Day-Date White Mother Of Pearl Diamond Dial White Gold Diamond Bezel President,white mother of pearl,white gold,white gold,diamond,president,white gold,Unisex,36,wrist,medium
+Update/Rolex_Batch03/IMG_2195 2.JPG,Rolex,Datejust,Datejust Black Diamond Dial Steel Everose Gold Fluted Bezel Jubilee,black,two-tone steel and rose gold,stainless steel and everose gold,fluted,jubilee,stainless steel and everose gold,Unisex,31,papers,medium
+Update/Rolex_Batch03/IMG_2196 2.JPG,Rolex,Datejust,Datejust Olive Green Diamond Dial Steel Everose Gold Fluted Bezel Jubilee,olive green,two-tone steel and rose gold,stainless steel and everose gold,fluted,jubilee,stainless steel and everose gold,Unisex,31,wrist,medium
+Update/Rolex_Batch03/IMG_2197 2.JPG,Rolex,Datejust,Datejust Black Diamond Dial White Gold Diamond Bezel President,black,white gold,white gold,diamond,president,white gold,Unisex,31,papers,medium
+Update/Rolex_Batch03/IMG_2198 2.JPG,Rolex,Datejust,Datejust Black Diamond Dial White Gold Diamond Bezel Jubilee,black,white gold,white gold,diamond,jubilee,white gold,Unisex,31,wrist,medium
+Update/Rolex_Batch03/IMG_2199 2.JPG,Rolex,Datejust,Datejust Pink Diamond Dial Steel Everose Gold Fluted Bezel Jubilee,pink,two-tone steel and rose gold,stainless steel and everose gold,fluted,jubilee,stainless steel and everose gold,Women,31,papers,medium
+Update/Rolex_Batch03/IMG_2200 2.JPG,Rolex,Datejust,Datejust Silver Diamond Dial Steel Everose Gold Fluted Bezel Jubilee,silver,two-tone steel and rose gold,stainless steel and everose gold,fluted,jubilee,stainless steel and everose gold,Unisex,31,wrist,medium
+Update/Rolex_Batch03/IMG_2201 2.JPG,Rolex,Datejust,Datejust Black Diamond Dial Steel Fluted Bezel President,black,white gold,white gold,fluted,president,white gold,Unisex,31,papers,low
+Update/Rolex_Batch03/IMG_2202 2.JPG,Rolex,Datejust,Datejust Black Diamond Dial White Gold Fluted Bezel President,black,white gold,white gold,fluted,president,white gold,Unisex,31,wrist,low
+Update/Rolex_Batch03/IMG_2203 2.JPG,Rolex,Datejust,Datejust Silver Diamond Dial Yellow Gold Diamond Bezel President,silver,yellow gold,yellow gold,diamond,president,yellow gold,Unisex,31,papers,medium
+Update/Rolex_Batch03/IMG_5304.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Pave Diamond Dial White Gold Diamond Bezel,diamond pave,white,white gold,diamond-set,bracelet,white gold,Men,40,dial,high
+Update/Rolex_Batch03/IMG_5305.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Champagne Dial Yellow Gold Black Ceramic Bezel Rubber Strap,champagne,gold,yellow gold,black ceramic tachymeter,strap,rubber,Men,40,dial,high
+Update/Rolex_Batch03/IMG_5306.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Chocolate Arabic Dial Everose Gold,chocolate,rose,everose gold,gold tachymeter,bracelet,everose gold,Men,40,dial,high
+Update/Rolex_Batch03/IMG_5307.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Black Arabic Dial White Gold,black,white,white gold,white gold tachymeter,bracelet,white gold,Men,40,dial,high
+Update/Rolex_Batch03/IMG_5308.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Black Dial Yellow Gold Steel Two-Tone,black,gold,two-tone steel and yellow gold,gold tachymeter,bracelet,two-tone steel and yellow gold,Men,40,dial,high
+Update/Rolex_Batch03/IMG_5309.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona White Dial Yellow Gold Steel Two-Tone,white,gold,two-tone steel and yellow gold,gold tachymeter,bracelet,two-tone steel and yellow gold,Men,40,dial,high
+Update/Rolex_Batch03/IMG_5310.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona White Dial Everose Gold,white,rose,everose gold,gold tachymeter,bracelet,everose gold,Men,40,dial,high
+Update/Rolex_Batch03/IMG_5311.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Mother-Of-Pearl Diamond Dial White Gold,black mother-of-pearl,white,white gold,white gold tachymeter,bracelet,white gold,Men,40,dial,medium
+Update/Rolex_Batch03/IMG_5346.JPG,Rolex,Datejust,Datejust Caseback Movement Stainless Steel,?,silver,stainless steel,?,bracelet,stainless steel,Men,36,movement,low
+Update/Rolex_Batch03/IMG_5347.JPG,Rolex,Datejust,Datejust Caseback Movement Stainless Steel,?,silver,stainless steel,?,bracelet,stainless steel,Men,36,movement,low
+Update/Rolex_Batch03/IMG_5348.JPG,Rolex,Datejust,Datejust Caseback Movement Stainless Steel,?,silver,stainless steel,?,bracelet,stainless steel,Men,36,movement,low
+Update/Rolex_Batch03/IMG_5350.JPG,Rolex,Datejust,Datejust Green Palm Motif Dial Steel Fluted Bezel Jubilee,green,silver,stainless steel,fluted white gold,bracelet,stainless steel,Men,36,wrist,high
+Update/Rolex_Batch03/IMG_5351.JPG,Rolex,Datejust,Datejust Caseback Movement Stainless Steel,?,silver,stainless steel,?,bracelet,stainless steel,Men,36,movement,low
+Update/Rolex_Batch03/IMG_5352.JPG,Rolex,Datejust,Datejust Caseback Movement Stainless Steel,?,silver,stainless steel,?,bracelet,stainless steel,Men,36,movement,low
+Update/Rolex_Batch03/IMG_5353.JPG,Rolex,Datejust,Datejust Caseback Movement Stainless Steel,?,silver,stainless steel,?,bracelet,stainless steel,Men,36,movement,low
+Update/Rolex_Batch03/IMG_5413.PNG,Rolex,Sky-Dweller,Sky-Dweller Collection Composite Fluted Bezel,assorted,assorted,assorted,fluted,assorted,assorted,Men,42,other,high
+Update/Rolex_Batch03/IMG_5414.PNG,Rolex,Sky-Dweller,Sky-Dweller Collection Composite Fluted Bezel,assorted,assorted,assorted,fluted,assorted,assorted,Men,42,other,high
+Update/Rolex_Batch03/IMG_5500.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Green Black Bezel,black,silver,stainless steel,green and black ceramic,bracelet,stainless steel,Men,40,full,high
+Update/Rolex_Batch02/IMG_9145.JPG,Rolex,Sky-Dweller,Sky-Dweller Blue Dial Steel Diamond Set,blue,silver,steel,diamond set,oyster,steel diamond set,Men,42,full,medium
+Update/Rolex_Batch02/IMG_9146.JPG,Rolex,Sky-Dweller,Sky-Dweller Diamond Pave Dial Two Tone Diamond Set,diamond pave,two-tone,steel and yellow gold,diamond set,oyster,steel and yellow gold diamond set,Men,42,full,medium
+Update/Rolex_Batch02/IMG_9147.JPG,Rolex,Sky-Dweller,Sky-Dweller Black Dial Two Tone Diamond Set,black,two-tone,steel and yellow gold,diamond set,oyster,steel and yellow gold diamond set,Men,42,full,medium
+Update/Rolex_Batch02/IMG_9148.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Two Tone Tachymeter,multi,two-tone,steel and yellow gold,tachymeter,oyster,steel and yellow gold,Men,40,other,low
+Update/Rolex_Batch02/IMG_9149.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Everose Gold Ceramic Bezel Rubber Strap,multi,rose gold,everose gold,ceramic tachymeter,rubber strap,rubber,Men,40,other,low
+Update/Rolex_Batch02/IMG_9150.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Champagne Dial Two Tone Tachymeter,champagne,two-tone,steel and yellow gold,tachymeter,oyster,steel and yellow gold,Men,40,dial,high
+Update/Rolex_Batch02/IMG_9151.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona White Dial Two Tone Tachymeter,white,two-tone,steel and yellow gold,tachymeter,oyster,steel and yellow gold,Men,40,full,high
+Update/Rolex_Batch02/IMG_9152.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Two Tone Tachymeter,multi,two-tone,steel and yellow gold,tachymeter,oyster,steel and yellow gold,Men,40,box,medium
+Update/Rolex_Batch02/IMG_9153.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Two Tone Tachymeter,multi,two-tone,steel and yellow gold,tachymeter,oyster,steel and yellow gold,Men,40,box,medium
+Update/Rolex_Batch02/IMG_9154.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Black Diamond Dial Two Tone Tachymeter,black,two-tone,steel and yellow gold,tachymeter,oyster,steel and yellow gold,Men,40,full,high
+Update/Rolex_Batch02/IMG_9155.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Black Dial Two Tone Tachymeter,black,two-tone,steel and yellow gold,tachymeter,oyster,steel and yellow gold,Men,40,full,high
+Update/Rolex_Batch02/IMG_9156.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Two Tone Tachymeter,?,two-tone,steel and yellow gold,tachymeter,oyster,steel and yellow gold,Men,40,movement,medium
+Update/Rolex_Batch02/IMG_9157.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Champagne Dial Two Tone Tachymeter,champagne,two-tone,steel and yellow gold,tachymeter,oyster,steel and yellow gold,Men,40,dial,high
+Update/Rolex_Batch02/IMG_9158.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona White Dial Steel Ceramic Bezel,white,silver,steel,ceramic tachymeter,oyster,steel,Men,40,dial,high
+Update/Rolex_Batch02/IMG_9159.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Black Dial Steel Ceramic Bezel,black,silver,steel,ceramic tachymeter,oyster,steel,Men,40,dial,high
+Update/Rolex_Batch02/IMG_9160.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Black Diamond Dial Two Tone Tachymeter,black,two-tone,steel and yellow gold,tachymeter,oyster,steel and yellow gold,Men,40,dial,high
+Update/Rolex_Batch02/IMG_9161.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona White Dial Two Tone Tachymeter,white,two-tone,steel and yellow gold,tachymeter,oyster,steel and yellow gold,Men,40,dial,high
+Update/Rolex_Batch02/IMG_9162.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Black Dial Two Tone Tachymeter,black,two-tone,steel and yellow gold,tachymeter,oyster,steel and yellow gold,Men,40,dial,high
+Update/Rolex_Batch02/IMG_9067.JPG,Rolex,Datejust,Datejust Blue Dial Steel Fluted Bezel Jubilee,blue,steel,steel,fluted white gold,jubilee,steel,Men,36,dial,high
+Update/Rolex_Batch02/IMG_9068.JPG,Rolex,Datejust,Datejust Steel Fluted Bezel Jubilee,?,steel,steel,?,jubilee,steel,Men,36,caseback,high
+Update/Rolex_Batch02/IMG_9069.JPG,Rolex,Datejust,Datejust Steel Jubilee Clasp,?,steel,steel,?,jubilee,steel,Men,36,bracelet,high
+Update/Rolex_Batch02/IMG_9071.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona White Panda Dial Steel Black Ceramic Bezel Oyster,white,steel,steel,black ceramic,oyster,steel,Men,40,wrist,high
+Update/Rolex_Batch02/IMG_9072.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona White Panda Dial Steel Black Ceramic Bezel Oyster,white,steel,steel,black ceramic,oyster,steel,Men,40,full,high
+Update/Rolex_Batch02/IMG_9073.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona White Panda Dial Steel Black Ceramic Bezel Oyster,white,steel,steel,black ceramic,oyster,steel,Men,40,side,high
+Update/Rolex_Batch02/IMG_9074.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona White Panda Dial Steel Black Ceramic Bezel Oyster,white,steel,steel,black ceramic,oyster,steel,Men,40,full,high
+Update/Rolex_Batch02/IMG_9075.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona White Panda Dial Steel Black Ceramic Bezel Oyster,white,steel,steel,black ceramic,oyster,steel,Men,40,full,high
+Update/Rolex_Batch02/IMG_9076.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Steel Oyster Caseback,?,steel,steel,?,oyster,steel,Men,40,caseback,high
+Update/Rolex_Batch02/IMG_9077.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Steel Oyster Clasp,?,steel,steel,?,oyster,steel,Men,40,bracelet,high
+Update/Rolex_Batch02/IMG_9081.JPG,Rolex,Datejust,Rolex Watch Collection Case,?,?,?,?,?,?,Men,,box,low
+Update/Rolex_Batch02/IMG_9107.JPG,Rolex,Datejust,Datejust Steel Fluted Bezel Jubilee Variants Poster,?,steel,steel,fluted white gold,jubilee,steel,Men,36,other,medium
+Update/Rolex_Batch02/IMG_9108.JPG,Rolex,Submariner,Submariner Steel Ceramic Bezel Oyster Variants Poster,?,steel,steel,ceramic,oyster,steel,Men,40,other,medium
+Update/Rolex_Batch02/IMG_9109.JPG,Rolex,Yacht-Master,Yacht-Master Steel Platinum Bezel Oyster Variants Poster,?,steel,steel,platinum,oyster,steel,Men,40,other,medium
+Update/Rolex_Batch02/IMG_9110.JPG,Rolex,Oyster Perpetual,Oyster Perpetual Steel Smooth Bezel Oyster Variants Poster,?,steel,steel,smooth,oyster,steel,Unisex,41,other,medium
+Update/Rolex_Batch02/IMG_9142.JPG,Rolex,Sky-Dweller,Sky-Dweller Pave Diamond Iced Out Variants Poster,pave,?,?,diamond,oyster,?,Men,42,other,medium
+Update/Rolex_Batch02/IMG_9143.JPG,Rolex,Sky-Dweller,Sky-Dweller Pave Diamond Iced Out Oyster Group,pave,?,?,diamond,oyster,?,Men,42,other,medium
+Update/Rolex_Batch02/IMG_9144.JPG,Rolex,Sky-Dweller,Sky-Dweller Pave Diamond Iced Out Steel Diamond Bezel Oyster,pave,steel,steel,diamond,oyster,steel,Men,42,full,high
+Update/Rolex_Batch02/IMG_7380.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Steel Oyster,?,silver,steel,engraved tachymeter,bracelet,steel,Men,40,side,high
+Update/Rolex_Batch02/IMG_7381.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Steel Oyster,?,silver,steel,engraved tachymeter,bracelet,steel,Men,40,side,high
+Update/Rolex_Batch02/IMG_7382.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Steel Oyster,?,silver,steel,engraved tachymeter,bracelet,steel,Men,40,caseback,high
+Update/Rolex_Batch02/IMG_7383.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Steel Oyster,?,silver,steel,engraved tachymeter,bracelet,steel,Men,40,bracelet,high
+Update/Rolex_Batch02/IMG_7447.JPG,Rolex,Datejust,Datejust Grey Dial Steel Fluted Bezel Jubilee,grey,silver,steel,fluted,bracelet,steel,Men,41,full,high
+Update/Rolex_Batch02/IMG_7448.JPG,Rolex,Datejust,Datejust Grey Dial Steel Fluted Bezel Jubilee,grey,silver,steel,fluted,bracelet,steel,Men,41,full,high
+Update/Rolex_Batch02/IMG_7449.JPG,Rolex,Datejust,Datejust Black Dial Steel Fluted Bezel Jubilee,black,silver,steel,fluted,bracelet,steel,Men,41,side,high
+Update/Rolex_Batch02/IMG_7450.JPG,Rolex,Datejust,Datejust Brown Dial Steel Fluted Bezel Jubilee,brown,silver,steel,fluted,bracelet,steel,Men,41,full,high
+Update/Rolex_Batch02/IMG_7451.JPG,Rolex,Datejust,Datejust Black Dial Steel Fluted Bezel Jubilee,black,silver,steel,fluted,bracelet,steel,Men,41,side,high
+Update/Rolex_Batch02/IMG_7452.JPG,Rolex,Datejust,Datejust Steel Jubilee,?,silver,steel,?,bracelet,steel,Men,41,caseback,medium
+Update/Rolex_Batch02/IMG_7453.JPG,Rolex,Datejust,Datejust Blue Dial Steel Fluted White Gold Bezel Jubilee,blue,silver,steel,fluted white gold,bracelet,steel,Men,41,full,high
+Update/Rolex_Batch02/IMG_7454.JPG,Rolex,Datejust,Datejust Blue Dial Steel Fluted White Gold Bezel Jubilee,blue,silver,steel,fluted white gold,bracelet,steel,Men,41,full,high
+Update/Rolex_Batch02/IMG_7455.JPG,Rolex,Datejust,Datejust Steel Fluted White Gold Bezel Jubilee,?,silver,steel,fluted white gold,bracelet,steel,Men,41,side,high
+Update/Rolex_Batch02/IMG_7456.JPG,Rolex,Datejust,Datejust Steel Jubilee,?,silver,steel,?,bracelet,steel,Men,41,caseback,high
+Update/Rolex_Batch02/IMG_7457.JPG,Rolex,Datejust,Datejust Steel Jubilee,?,silver,steel,?,bracelet,steel,Men,41,bracelet,high
+Update/Rolex_Batch02/IMG_7458.JPG,Rolex,Datejust,Datejust Steel Jubilee,?,silver,steel,?,bracelet,steel,Men,41,movement,high
+Update/Rolex_Batch02/IMG_7469.JPG,Rolex,Submariner,Submariner Date Blue Dial Diamond Set Sapphire Bezel Oyster,blue,silver,steel,blue sapphire diamond set,bracelet,steel,Men,40,full,medium
+Update/Rolex_Batch02/IMG_7470.JPG,Rolex,Submariner,Submariner Date Black Dial Diamond Set Sapphire Bezel Oyster,black,silver,steel,blue sapphire diamond set,bracelet,steel,Men,40,dial,medium
+Update/Rolex_Batch02/IMG_7136.JPG,Rolex,Datejust,Datejust Blue Floral Diamond Dial Steel Diamond Bezel,blue,silver,steel,diamond,oyster,steel,Women,31,side,high
+Update/Rolex_Batch02/IMG_7137.JPG,Rolex,Datejust,Datejust Blue Floral Diamond Dial Steel Diamond Bezel,blue,silver,steel,diamond,oyster,steel,Women,31,dial,high
+Update/Rolex_Batch02/IMG_7138.JPG,Rolex,Datejust,Datejust Blue Floral Diamond Dial Steel Diamond Bezel,blue,silver,steel,diamond,oyster,steel,Women,31,side,high
+Update/Rolex_Batch02/IMG_7139.JPG,Rolex,Datejust,Datejust Blue Floral Diamond Dial Steel Diamond Bezel,blue,silver,steel,diamond,oyster,steel,Women,31,caseback,high
+Update/Rolex_Batch02/IMG_7140.JPG,Rolex,Datejust,Datejust Blue Floral Diamond Dial Steel Diamond Bezel,blue,silver,steel,diamond,oyster,steel,Women,31,bracelet,high
+Update/Rolex_Batch02/IMG_7141.JPG,Rolex,Datejust,Datejust Blue Floral Diamond Dial Steel Diamond Bezel,blue,silver,steel,diamond,oyster,steel,Women,31,bracelet,high
+Update/Rolex_Batch02/IMG_7226.JPG,Rolex,Datejust,Datejust Blue Roman Dial Steel Fluted Bezel Jubilee,blue,silver,steel,fluted,jubilee,steel,Men,41,full,high
+Update/Rolex_Batch02/IMG_7227.JPG,Rolex,Datejust,Datejust Blue Roman Dial Steel Fluted Bezel Jubilee,blue,silver,steel,fluted,jubilee,steel,Men,41,full,high
+Update/Rolex_Batch02/IMG_7228.JPG,Rolex,Datejust,Datejust Blue Roman Dial Steel Fluted Bezel Jubilee,blue,silver,steel,fluted,jubilee,steel,Men,41,full,high
+Update/Rolex_Batch02/IMG_7229.JPG,Rolex,Datejust,Datejust Blue Roman Dial Steel Fluted Bezel Jubilee,blue,silver,steel,fluted,jubilee,steel,Men,41,dial,high
+Update/Rolex_Batch02/IMG_7230.JPG,Rolex,Datejust,Datejust Blue Roman Dial Steel Fluted Bezel Jubilee,blue,silver,steel,fluted,jubilee,steel,Men,41,full,high
+Update/Rolex_Batch02/IMG_7231.JPG,Rolex,Datejust,Datejust Blue Roman Dial Steel Fluted Bezel Jubilee,blue,silver,steel,fluted,jubilee,steel,Men,41,side,high
+Update/Rolex_Batch02/IMG_7232.JPG,Rolex,Datejust,Datejust Blue Roman Dial Steel Fluted Bezel Jubilee,blue,silver,steel,fluted,jubilee,steel,Men,41,side,high
+Update/Rolex_Batch02/IMG_7233.JPG,Rolex,Datejust,Datejust Blue Roman Dial Steel Fluted Bezel Jubilee,blue,silver,steel,fluted,jubilee,steel,Men,41,bracelet,high
+Update/Rolex_Batch02/IMG_7234.JPG,Rolex,Datejust,Datejust Blue Roman Dial Steel Fluted Bezel Jubilee,blue,silver,steel,fluted,jubilee,steel,Men,41,caseback,high
+Update/Rolex_Batch02/IMG_7285.JPG,Rolex,Datejust,Datejust Blue Dial Steel Fluted Bezel Jubilee,blue,silver,steel,fluted,jubilee,steel,Men,36,wrist,high
+Update/Rolex_Batch02/IMG_7286.JPG,Rolex,Datejust,Datejust Blue Dial Steel Fluted Bezel Jubilee,blue,silver,steel,fluted,jubilee,steel,Men,36,wrist,high
+Update/Rolex_Batch02/IMG_7287.JPG,Rolex,Datejust,Datejust Blue Dial Steel Fluted Bezel Jubilee,blue,silver,steel,fluted,jubilee,steel,Men,36,wrist,high
+Update/Rolex_Batch03/IMG_2593.JPG,Rolex,Datejust,Datejust Blue Dial Steel Diamond Bezel Jubilee,blue,silver,steel,diamond,jubilee,steel,Unisex,36,full,high
+Update/Rolex_Batch03/IMG_2594.JPG,Rolex,Datejust,Datejust Blue Dial Steel Diamond Bezel Jubilee,blue,silver,steel,diamond,jubilee,steel,Unisex,36,full,high
+Update/Rolex_Batch03/IMG_2595.JPG,Rolex,Datejust,Datejust Blue Dial Steel Diamond Bezel Jubilee,blue,silver,steel,diamond,jubilee,steel,Unisex,41,full,high
+Update/Rolex_Batch03/IMG_2605.JPG,Rolex,Day-Date,Day-Date Green Dial White Gold Fluted Bezel President,green,white,white gold,fluted,president,white gold,Men,40,box,high
+Update/Rolex_Batch03/IMG_2606.JPG,Rolex,Day-Date,Day-Date Green Dial White Gold Fluted Bezel President,green,white,white gold,fluted,president,white gold,Men,40,box,high
+Update/Rolex_Batch03/IMG_2607.JPG,Rolex,Day-Date,Day-Date Green Dial White Gold Fluted Bezel President,green,white,white gold,fluted,president,white gold,Men,40,box,high
+Update/Rolex_Batch03/IMG_2608.JPG,Rolex,Day-Date,Day-Date Green Dial White Gold Fluted Bezel President,green,white,white gold,fluted,president,white gold,Men,40,box,high
+Update/Rolex_Batch03/IMG_2609.JPG,Rolex,Day-Date,Day-Date Green Dial White Gold Fluted Bezel President,green,white,white gold,fluted,president,white gold,Men,40,dial,high
+Update/Rolex_Batch03/IMG_2610.JPG,Rolex,Day-Date,Day-Date Green Dial White Gold Fluted Bezel President,green,white,white gold,fluted,president,white gold,Men,40,bracelet,high
+Update/Rolex_Batch03/IMG_2661.JPG,Rolex,Yacht-Master,Yacht-Master Black Dial Steel Platinum Bezel Oyster,black,silver,steel,platinum,oyster,steel,Men,40,full,high
+Update/Rolex_Batch03/IMG_2662.JPG,Rolex,Yacht-Master,Yacht-Master Black Dial Steel Platinum Bezel Oyster,black,silver,steel,platinum,oyster,steel,Men,40,dial,high
+Update/Rolex_Batch03/IMG_2663.JPG,Rolex,Yacht-Master,Yacht-Master Black Dial Steel Platinum Bezel Oyster,black,silver,steel,platinum,oyster,steel,Men,40,full,high
+Update/Rolex_Batch03/IMG_2664.JPG,Rolex,Yacht-Master,Yacht-Master Black Dial Steel Platinum Bezel Oyster,black,silver,steel,platinum,oyster,steel,Men,40,full,high
+Update/Rolex_Batch03/IMG_2665.JPG,Rolex,Yacht-Master,Yacht-Master Black Dial Steel Platinum Bezel Oyster,black,silver,steel,platinum,oyster,steel,Men,40,side,high
+Update/Rolex_Batch03/IMG_2666.JPG,Rolex,Yacht-Master,Yacht-Master Black Dial Steel Platinum Bezel Oyster,black,silver,steel,platinum,oyster,steel,Men,40,side,high
+Update/Rolex_Batch03/IMG_2667.JPG,Rolex,Yacht-Master,Yacht-Master Black Dial Steel Platinum Bezel Oyster,black,silver,steel,platinum,oyster,steel,Men,40,caseback,high
+Update/Rolex_Batch03/IMG_2668.JPG,Rolex,Yacht-Master,Yacht-Master Black Dial Steel Platinum Bezel Oyster,black,silver,steel,platinum,oyster,steel,Men,40,bracelet,high
+Update/Rolex_Batch03/IMG_2669.JPG,Rolex,Yacht-Master,Yacht-Master Black Dial Steel Platinum Bezel Oyster,black,silver,steel,platinum,oyster,steel,Men,40,bracelet,high
+Update/Rolex_Batch02/IMG_9777.JPG,Rolex,Land-Dweller,Land-Dweller Ice Blue Dial Steel Fluted Bezel Jubilee,Ice Blue,Steel,Stainless Steel,Fluted,Jubilee,Stainless Steel,Men,36,full,high
+Update/Rolex_Batch02/IMG_9778.JPG,Rolex,Land-Dweller,Land-Dweller Ice Blue Dial Steel Fluted Bezel Jubilee,Ice Blue,Steel,Stainless Steel,Fluted,Jubilee,Stainless Steel,Men,36,dial,high
+Update/Rolex_Batch02/IMG_9779.JPG,Rolex,Land-Dweller,Land-Dweller Ice Blue Dial Steel Fluted Bezel Jubilee,Ice Blue,Steel,Stainless Steel,Fluted,Jubilee,Stainless Steel,Men,36,dial,high
+Update/Rolex_Batch02/IMG_9780.JPG,Rolex,Land-Dweller,Land-Dweller Ice Blue Dial Steel Fluted Bezel Jubilee,Ice Blue,Steel,Stainless Steel,Fluted,Jubilee,Stainless Steel,Men,36,side,high
+Update/Rolex_Batch02/IMG_9781.JPG,Rolex,Land-Dweller,Land-Dweller Ice Blue Dial Steel Fluted Bezel Jubilee,Ice Blue,Steel,Stainless Steel,Fluted,Jubilee,Stainless Steel,Men,36,dial,high
+Update/Rolex_Batch02/IMG_9782.JPG,Rolex,Land-Dweller,Land-Dweller Ice Blue Dial Steel Fluted Bezel Jubilee,Ice Blue,Steel,Stainless Steel,Fluted,Jubilee,Stainless Steel,Men,36,caseback,high
+Update/Rolex_Batch02/IMG_9783.JPG,Rolex,Land-Dweller,Land-Dweller Ice Blue Dial Steel Fluted Bezel Jubilee,Ice Blue,Steel,Stainless Steel,Fluted,Jubilee,Stainless Steel,Men,36,bracelet,high
+Update/Rolex_Batch02/IMG_9784.JPG,Rolex,Land-Dweller,Land-Dweller Ice Blue Dial Steel Fluted Bezel Jubilee,Ice Blue,Steel,Stainless Steel,Fluted,Jubilee,Stainless Steel,Men,36,bracelet,high
+Update/Rolex_Batch02/IMG_9785.JPG,Rolex,Land-Dweller,Land-Dweller Ice Blue Dial Steel Fluted Bezel Jubilee,Ice Blue,Steel,Stainless Steel,Fluted,Jubilee,Stainless Steel,Men,36,bracelet,high
+Update/Rolex_Batch02/IMG_9786.JPG,Rolex,Land-Dweller,Land-Dweller Ice Blue Dial Steel Fluted Bezel Jubilee,Ice Blue,Steel,Stainless Steel,Fluted,Jubilee,Stainless Steel,Men,36,caseback,high
+Update/Rolex_Batch02/IMG_9787.JPG,Rolex,Land-Dweller,Land-Dweller Ice Blue Dial Steel Fluted Bezel Jubilee,Ice Blue,Steel,Stainless Steel,Fluted,Jubilee,Stainless Steel,Men,36,movement,high
+Update/Rolex_Batch02/IMG_9788.JPG,Rolex,Land-Dweller,Land-Dweller Ice Blue Dial Steel Fluted Bezel Jubilee,Ice Blue,Steel,Stainless Steel,Fluted,Jubilee,Stainless Steel,Men,36,bracelet,high
+Update/Rolex_Batch02/IMG_9789.JPG,Rolex,Land-Dweller,Land-Dweller Ice Blue Dial Steel Fluted Bezel Jubilee,Ice Blue,Steel,Stainless Steel,Fluted,Jubilee,Stainless Steel,Men,36,dial,high
+Update/Rolex_Batch02/IMG_9790.JPG,Rolex,Land-Dweller,Land-Dweller Ice Blue Dial Steel Fluted Bezel Jubilee,Ice Blue,Steel,Stainless Steel,Fluted,Jubilee,Stainless Steel,Men,36,full,high
+Update/Rolex_Batch02/IMG_9791.JPG,Rolex,Land-Dweller,Land-Dweller Ice Blue Dial Steel Fluted Bezel Jubilee,Ice Blue,Steel,Stainless Steel,Fluted,Jubilee,Stainless Steel,Men,36,full,high
+Update/Rolex_Batch02/IMG_9793.JPG,Rolex,Land-Dweller,Land-Dweller Silver Dial Steel Fluted Bezel Jubilee,Silver,Steel,Stainless Steel,Fluted,Jubilee,Stainless Steel,Men,36,full,high
+Update/Rolex_Batch02/IMG_9794.JPG,Rolex,Land-Dweller,Land-Dweller Silver Dial Steel Fluted Bezel Jubilee,Silver,Steel,Stainless Steel,Fluted,Jubilee,Stainless Steel,Men,36,full,high
+Update/Rolex_Batch02/IMG_9795 2.JPG,Rolex,Land-Dweller,Land-Dweller Silver Dial Steel Fluted Bezel Jubilee,Silver,Steel,Stainless Steel,Fluted,Jubilee,Stainless Steel,Men,36,side,high
+Update/Rolex_Batch02/IMG_9537.JPG,Rolex,Day-Date,Day-Date Two-Tone Fluted Bezel Jubilee,?,two-tone,steel and gold,fluted,jubilee,steel and gold,Men,36,side,low
+Update/Rolex_Batch02/IMG_9538.JPG,Rolex,Day-Date,Day-Date Two-Tone Fluted Bezel Jubilee,?,two-tone,steel and gold,fluted,jubilee,steel and gold,Men,36,side,low
+Update/Rolex_Batch02/IMG_9539.JPG,Rolex,Day-Date,Day-Date Two-Tone Fluted Bezel Jubilee,?,two-tone,steel and gold,fluted,jubilee,steel and gold,Men,36,movement,low
+Update/Rolex_Batch02/IMG_9540.JPG,Rolex,Day-Date,Day-Date Two-Tone Fluted Bezel Jubilee,?,two-tone,steel and gold,fluted,jubilee,steel and gold,Men,36,movement,low
+Update/Rolex_Batch02/IMG_9543.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Black Ceramic Bezel Oyster,black,steel,stainless steel,black ceramic,oyster,stainless steel,Men,40,full,high
+Update/Rolex_Batch02/IMG_9544.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Black Ceramic Bezel Oyster,black,steel,stainless steel,black ceramic,oyster,stainless steel,Men,40,side,high
+Update/Rolex_Batch02/IMG_9545.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Black Ceramic Bezel Oyster,black,steel,stainless steel,black ceramic,oyster,stainless steel,Men,40,side,high
+Update/Rolex_Batch02/IMG_9546.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Black Ceramic Bezel Oyster,black,steel,stainless steel,black ceramic,oyster,stainless steel,Men,40,bracelet,high
+Update/Rolex_Batch02/IMG_9547.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Black Ceramic Bezel Oyster,black,steel,stainless steel,black ceramic,oyster,stainless steel,Men,40,caseback,high
+Update/Rolex_Batch02/IMG_9548.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Black Ceramic Bezel Oyster,black,steel,stainless steel,black ceramic,oyster,stainless steel,Men,40,bracelet,high
+Update/Rolex_Batch02/IMG_9549.JPG,Rolex,Oyster Perpetual,Oyster Perpetual Steel Caseback,?,steel,stainless steel,smooth,?,?,Unisex,,caseback,low
+Update/Rolex_Batch02/IMG_9550.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Black Ceramic Bezel Oyster,black,steel,stainless steel,black ceramic,oyster,stainless steel,Men,40,bracelet,medium
+Update/Rolex_Batch02/IMG_9551.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Black Ceramic Bezel Oyster,black,steel,stainless steel,black ceramic,oyster,stainless steel,Men,40,side,high
+Update/Rolex_Batch02/IMG_9552.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Black Ceramic Bezel Oyster,black,steel,stainless steel,black ceramic,oyster,stainless steel,Men,40,movement,high
+Update/Rolex_Batch02/IMG_9554.JPG,Rolex,Oyster Perpetual,Oyster Perpetual Turquoise Dial Steel Smooth Bezel Oyster,turquoise,steel,stainless steel,smooth,oyster,stainless steel,Unisex,41,box,high
+Update/Rolex_Batch02/IMG_9555.JPG,Rolex,Oyster Perpetual,Oyster Perpetual Turquoise Dial Steel Smooth Bezel Oyster,turquoise,steel,stainless steel,smooth,oyster,stainless steel,Unisex,41,full,high
+Update/Rolex_Batch02/IMG_9556.JPG,Rolex,Oyster Perpetual,Oyster Perpetual Turquoise Dial Steel Smooth Bezel Oyster,turquoise,steel,stainless steel,smooth,oyster,stainless steel,Unisex,41,full,high
+Update/Rolex_Batch02/IMG_9557.JPG,Rolex,Oyster Perpetual,Oyster Perpetual Turquoise Dial Steel Smooth Bezel Oyster,turquoise,steel,stainless steel,smooth,oyster,stainless steel,Unisex,41,full,high
+Update/Rolex_Batch02/IMG_9480 2.JPG,Rolex,Datejust,Datejust Silver Dial Two-Tone Fluted Bezel,silver,two-tone,steel and yellow gold,fluted,jubilee,steel,Unisex,31,side,medium
+Update/Rolex_Batch02/IMG_9480.JPG,Rolex,Datejust,Datejust Silver Diamond Dial Steel Fluted Bezel,silver,steel,steel,fluted white gold,jubilee,steel,Women,31,dial,high
+Update/Rolex_Batch02/IMG_9481 2.JPG,Rolex,Datejust,Datejust Two-Tone Oyster Clasp,?,two-tone,steel and yellow gold,?,oyster,steel and yellow gold,Unisex,31,caseback,medium
+Update/Rolex_Batch02/IMG_9481.JPG,Rolex,Datejust,Datejust Blue Roman Dial Steel Diamond Bezel,blue,steel,steel,diamond,jubilee,steel,Women,31,dial,high
+Update/Rolex_Batch02/IMG_9482 2.JPG,Rolex,Datejust,Datejust Two-Tone Fluted Bezel,?,two-tone,steel and yellow gold,fluted,oyster,steel and yellow gold,Unisex,31,side,low
+Update/Rolex_Batch02/IMG_9482.JPG,Rolex,Datejust,Datejust Brown Roman Dial Two-Tone Fluted Bezel,brown,two-tone,steel and yellow gold,fluted,jubilee,steel and yellow gold,Women,31,dial,high
+Update/Rolex_Batch02/IMG_9483.JPG,Rolex,Explorer,Explorer Black Dial Two-Tone Yellow Gold Bezel,black,two-tone,steel and yellow gold,smooth yellow gold,oyster,steel and yellow gold,Men,36,dial,high
+Update/Rolex_Batch02/IMG_9484.JPG,Rolex,Explorer,Explorer Black Dial Two-Tone Yellow Gold Bezel,black,two-tone,steel and yellow gold,smooth yellow gold,oyster,steel and yellow gold,Men,36,full,high
+Update/Rolex_Batch02/IMG_9489.JPG,Rolex,Cellini,Cellini Moonphase White Dial Rose Gold Leather Strap,white,rose gold,rose gold,domed,leather strap,leather,Men,39,box,medium
+Update/Rolex_Batch02/IMG_9519.JPG,Rolex,Oyster Perpetual,Oyster Perpetual Steel Smooth Bezel,?,steel,steel,smooth,oyster,steel,Unisex,36,caseback,medium
+Update/Rolex_Batch02/IMG_9520.JPG,Rolex,Oyster Perpetual,Oyster Perpetual Steel Smooth Bezel,?,steel,steel,smooth,oyster,steel,Unisex,36,side,medium
+Update/Rolex_Batch02/IMG_9521.JPG,Rolex,Oyster Perpetual,Oyster Perpetual Pink Dial Steel Smooth Bezel,pink,steel,steel,smooth,oyster,steel,Unisex,36,full,high
+Update/Rolex_Batch02/IMG_9522.JPG,Rolex,Oyster Perpetual,Oyster Perpetual Steel Oyster Clasp,?,steel,steel,smooth,oyster,steel,Unisex,36,bracelet,medium
+Update/Rolex_Batch02/IMG_9523.JPG,Rolex,Oyster Perpetual,Oyster Perpetual Pink Dial Steel Smooth Bezel,pink,steel,steel,smooth,oyster,steel,Unisex,36,dial,high
+Update/Rolex_Batch02/IMG_9524.JPG,Rolex,Oyster Perpetual,Oyster Perpetual Pink Dial Steel Smooth Bezel,pink,steel,steel,smooth,oyster,steel,Unisex,36,dial,high
+Update/Rolex_Batch02/IMG_9525.JPG,Rolex,Oyster Perpetual,Oyster Perpetual Pink Dial Steel Smooth Bezel,pink,steel,steel,smooth,oyster,steel,Unisex,36,dial,high
+Update/Rolex_Batch02/IMG_9526.JPG,Rolex,Oyster Perpetual,Oyster Perpetual Pink Dial Steel Smooth Bezel,pink,steel,steel,smooth,oyster,steel,Unisex,36,full,high
+Update/Rolex_Batch02/IMG_9527.JPG,Rolex,Oyster Perpetual,Oyster Perpetual Pink Dial Steel Smooth Bezel,pink,steel,steel,smooth,oyster,steel,Unisex,36,dial,high
+Update/Rolex_Batch02/IMG_9990.JPG,Rolex,Cellini,Cellini Moonphase White Dial Everose Gold Brown Leather,white,rose gold,rose gold,fluted,strap,leather,Men,39,bracelet,medium
+Update/Rolex_Batch02/IMG_9991.JPG,Rolex,Cellini,Cellini Moonphase White Dial Everose Gold Brown Leather,white,rose gold,rose gold,fluted,strap,leather,Men,39,full,high
+Update/Rolex_Batch02/IMG_9992.JPG,Rolex,Cellini,Cellini Moonphase White Dial Everose Gold Brown Leather,white,rose gold,rose gold,fluted,strap,leather,Men,39,dial,high
+Update/Rolex_Batch02/IMG_9993.JPG,Rolex,Cellini,Cellini Moonphase White Dial Everose Gold Brown Leather,white,rose gold,rose gold,fluted,strap,leather,Men,39,dial,high
+Update/Rolex_Batch02/IMG_9994.JPG,Rolex,Cellini,Cellini Moonphase White Dial Everose Gold Brown Leather,white,rose gold,rose gold,fluted,strap,leather,Men,39,side,high
+Update/Rolex_Batch02/IMG_9995.JPG,Rolex,Cellini,Cellini Moonphase White Dial Everose Gold Brown Leather,white,rose gold,rose gold,fluted,strap,leather,Men,39,movement,high
+Update/Rolex_Batch02/IMG_9996.JPG,Rolex,Cellini,Cellini Moonphase White Dial Everose Gold Brown Leather,white,rose gold,rose gold,fluted,strap,leather,Men,39,movement,high
+Update/Rolex_Batch03/IMG_0797 2.JPG,Rolex,Datejust,Datejust Champagne Dial Two-Tone Steel And Gold Fluted Bezel Jubilee,champagne,two-tone,steel and yellow gold,fluted,jubilee,steel and yellow gold,Men,41,dial,high
+Update/Rolex_Batch03/IMG_0798 2.JPG,Rolex,Datejust,Datejust Champagne Dial Two-Tone Steel And Gold Fluted Bezel Jubilee,champagne,two-tone,steel and yellow gold,fluted,jubilee,steel and yellow gold,Men,41,full,high
+Update/Rolex_Batch03/IMG_0799 2.JPG,Rolex,Datejust,Datejust Champagne Dial Two-Tone Steel And Gold Fluted Bezel Jubilee,champagne,two-tone,steel and yellow gold,fluted,jubilee,steel and yellow gold,Men,41,full,high
+Update/Rolex_Batch03/IMG_0800 2.JPG,Rolex,Datejust,Datejust Champagne Dial Two-Tone Steel And Gold Fluted Bezel Jubilee,champagne,two-tone,steel and yellow gold,fluted,jubilee,steel and yellow gold,Men,41,side,high
+Update/Rolex_Batch03/IMG_0801 2.JPG,Rolex,Datejust,Datejust Champagne Dial Two-Tone Steel And Gold Fluted Bezel Jubilee,champagne,two-tone,steel and yellow gold,fluted,jubilee,steel and yellow gold,Men,41,side,high
+Update/Rolex_Batch03/IMG_0852 2.JPG,Rolex,Datejust,Datejust Black Diamond Dial Steel Fluted Bezel Jubilee,black,silver,steel,fluted,jubilee,steel,Men,41,wrist,high
+Update/Rolex_Batch03/IMG_0853 2.JPG,Rolex,Datejust,Datejust Black Diamond Dial Steel Fluted Bezel Jubilee,black,silver,steel,fluted,jubilee,steel,Men,41,wrist,high
+Update/Rolex_Batch03/IMG_0854 2.JPG,Rolex,Datejust,Datejust Black Diamond Dial Steel Fluted Bezel Jubilee,black,silver,steel,fluted,jubilee,steel,Men,41,wrist,high
+Update/Rolex_Batch03/IMG_0855 2.JPG,Rolex,Datejust,Datejust Black Diamond Dial Steel Fluted Bezel Jubilee,black,silver,steel,fluted,jubilee,steel,Men,41,wrist,high
+Update/Rolex_Batch03/IMG_0856 2.JPG,Rolex,Datejust,Datejust Black Diamond Dial Steel Fluted Bezel Jubilee,black,silver,steel,fluted,jubilee,steel,Men,41,wrist,high
+Update/Rolex_Batch03/IMG_0857 2.JPG,Rolex,Datejust,Datejust Black Diamond Dial Steel Fluted Bezel Jubilee,black,silver,steel,fluted,jubilee,steel,Men,41,side,high
+Update/Rolex_Batch03/IMG_6981.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona White Dial Two-Tone Gold Bezel,white,two-tone,steel and yellow gold,yellow gold tachymeter,oyster bracelet,steel and yellow gold,Men,40,side,high
+Update/Rolex_Batch03/IMG_6986.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona White Diamond Dial Two-Tone Gold Bezel,white,two-tone,steel and yellow gold,yellow gold tachymeter,oyster bracelet,steel and yellow gold,Men,40,full,high
+Update/Rolex_Batch03/IMG_6987.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona White Diamond Dial Two-Tone Gold Bezel,white,two-tone,steel and yellow gold,yellow gold tachymeter,oyster bracelet,steel and yellow gold,Men,40,full,high
+Update/Rolex_Batch03/IMG_6988.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona White Diamond Dial Two-Tone Gold Bezel,white,two-tone,steel and yellow gold,yellow gold tachymeter,oyster bracelet,steel and yellow gold,Men,40,dial,high
+Update/Rolex_Batch03/IMG_6989.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona White Diamond Dial Two-Tone Gold Bezel,white,two-tone,steel and yellow gold,yellow gold tachymeter,oyster bracelet,steel and yellow gold,Men,40,side,high
+Update/Rolex_Batch03/IMG_6990.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona White Diamond Dial Two-Tone Gold Bezel,white,two-tone,steel and yellow gold,yellow gold tachymeter,oyster bracelet,steel and yellow gold,Men,40,dial,high
+Update/Rolex_Batch03/IMG_6995.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Blue Dial Platinum Engraved Bezel,blue,silver,platinum,platinum engraved tachymeter,oyster bracelet,platinum,Men,40,full,medium
+Update/Rolex_Batch03/IMG_6996.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Blue Dial Platinum Engraved Bezel,blue,silver,platinum,platinum engraved tachymeter,oyster bracelet,platinum,Men,40,full,medium
+Update/Rolex_Batch03/IMG_6997.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Blue Dial Platinum Engraved Bezel,blue,silver,platinum,platinum engraved tachymeter,oyster bracelet,platinum,Men,40,dial,medium
+Update/Rolex_Batch03/IMG_6998.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Blue Dial Platinum Engraved Bezel,blue,silver,platinum,platinum engraved tachymeter,oyster bracelet,platinum,Men,40,side,medium
+Update/Rolex_Batch03/IMG_6999.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Blue Dial Platinum Engraved Bezel,blue,silver,platinum,platinum engraved tachymeter,oyster bracelet,platinum,Men,40,dial,medium
+Update/Rolex_Batch03/IMG_7001.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Blue Dial Platinum Engraved Bezel,blue,silver,platinum,platinum engraved tachymeter,oyster bracelet,platinum,Men,40,side,medium
+Update/Rolex_Batch03/IMG_7002.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Platinum Engraved Bezel,?,silver,platinum,platinum engraved tachymeter,oyster bracelet,platinum,Men,40,side,medium
+Update/Rolex_Batch03/IMG_7003.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Platinum Engraved Bezel,?,silver,platinum,platinum engraved tachymeter,oyster bracelet,platinum,Men,40,caseback,high
+Update/Rolex_Batch03/IMG_7004.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Platinum Engraved Bezel,?,silver,platinum,platinum engraved tachymeter,oyster bracelet,platinum,Men,40,bracelet,medium
+Update/Rolex_Batch03/IMG_7005.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Black Diamond Dial Steel Bezel,black,silver,stainless steel,steel tachymeter,oyster bracelet,stainless steel,Men,40,full,high
+Update/Rolex_Batch03/IMG_7006.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Black Diamond Dial Steel Bezel,black,silver,stainless steel,steel tachymeter,oyster bracelet,stainless steel,Men,40,dial,high
+Update/Rolex_Batch03/IMG_7007.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Black Diamond Dial Steel Bezel,black,silver,stainless steel,steel tachymeter,oyster bracelet,stainless steel,Men,40,dial,high
+Update/Rolex_Batch03/IMG_2734.JPG,Rolex,Submariner,Submariner Black Dial Steel Green Bezel Oyster,black,steel,steel,green ceramic,oyster,steel,Men,41,box,high
+Update/Rolex_Batch03/IMG_2735.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona White Dial Steel Black Ceramic Bezel Oyster,white,steel,steel,black ceramic tachymeter,oyster,steel,Men,40,box,high
+Update/Rolex_Batch03/IMG_2736.JPG,Rolex,Day-Date,Day-Date Champagne Dial Yellow Gold Fluted Bezel President,champagne,yellow gold,yellow gold,fluted,president,yellow gold,Men,40,box,high
+Update/Rolex_Batch03/IMG_2737.JPG,Rolex,Day-Date,Day-Date Brown Diamond Dial Everose Gold Diamond Bezel President,brown,rose gold,everose gold,diamond,president,everose gold,Men,40,box,high
+Update/Rolex_Batch03/IMG_2738.JPG,Rolex,Datejust,Datejust Champagne Diamond Dial Two-Tone Yellow Gold Fluted Bezel Jubilee,champagne,two-tone steel and yellow gold,steel and yellow gold,fluted,jubilee,steel and yellow gold,Men,41,box,high
+Update/Rolex_Batch03/IMG_2739.JPG,Rolex,Day-Date,Day-Date Blue Diamond Dial White Gold Diamond Bezel President,blue,white gold,white gold,diamond,president,white gold,Men,36,box,high
+Update/Rolex_Batch03/IMG_2740.JPG,Rolex,Day-Date,Day-Date White Roman Dial White Gold Diamond Bezel President,white,white gold,white gold,diamond,president,white gold,Men,40,box,high
+Update/Rolex_Batch03/IMG_2741.JPG,Rolex,Datejust,Datejust Slate Roman Dial Steel Fluted Bezel Jubilee,slate grey,steel,steel and white gold,fluted,jubilee,steel,Men,41,box,high
+Update/Rolex_Batch03/IMG_2742.JPG,Rolex,Datejust,Datejust Brown Dial Two-Tone Everose Gold Fluted Bezel Jubilee,brown,two-tone steel and everose gold,steel and everose gold,fluted,jubilee,steel and everose gold,Men,41,box,high
+Update/Rolex_Batch03/IMG_2754.JPG,Rolex,Datejust,Datejust Black Mother-Of-Pearl Diamond Dial Two-Tone Everose Gold Fluted Bezel Jubilee,black mother-of-pearl,two-tone steel and everose gold,steel and everose gold,fluted,jubilee,steel and everose gold,Unisex,36,dial,high
+Update/Rolex_Batch03/IMG_2755.JPG,Rolex,Datejust,Datejust Black Mother-Of-Pearl Diamond Dial Two-Tone Everose Gold Fluted Bezel Jubilee,black mother-of-pearl,two-tone steel and everose gold,steel and everose gold,fluted,jubilee,steel and everose gold,Unisex,36,bracelet,high
+Update/Rolex_Batch03/IMG_2756.JPG,Rolex,Datejust,Datejust Black Mother-Of-Pearl Diamond Dial Two-Tone Everose Gold Fluted Bezel Jubilee,black mother-of-pearl,two-tone steel and everose gold,steel and everose gold,fluted,jubilee,steel and everose gold,Unisex,36,side,high
+Update/Rolex_Batch03/IMG_2757.JPG,Rolex,Datejust,Datejust Black Mother-Of-Pearl Diamond Dial Two-Tone Everose Gold Fluted Bezel Jubilee,black mother-of-pearl,two-tone steel and everose gold,steel and everose gold,fluted,jubilee,steel and everose gold,Unisex,36,side,high
+Update/Rolex_Batch03/IMG_2758.JPG,Rolex,Datejust,Datejust Black Mother-Of-Pearl Diamond Dial Two-Tone Everose Gold Fluted Bezel Jubilee,black mother-of-pearl,two-tone steel and everose gold,steel and everose gold,fluted,jubilee,steel and everose gold,Unisex,36,side,high
+Update/Rolex_Batch03/IMG_2759.JPG,Rolex,Datejust,Datejust Black Mother-Of-Pearl Diamond Dial Two-Tone Everose Gold Fluted Bezel Jubilee,black mother-of-pearl,two-tone steel and everose gold,steel and everose gold,fluted,jubilee,steel and everose gold,Unisex,36,side,high
+Update/Rolex_Batch03/IMG_2760.JPG,Rolex,Datejust,Datejust Black Mother-Of-Pearl Diamond Dial Two-Tone Everose Gold Fluted Bezel Jubilee,black mother-of-pearl,two-tone steel and everose gold,steel and everose gold,fluted,jubilee,steel and everose gold,Unisex,36,dial,high
+Update/Rolex_Batch03/IMG_2761.JPG,Rolex,Datejust,Datejust Black Mother-Of-Pearl Diamond Dial Two-Tone Everose Gold Fluted Bezel Jubilee,black mother-of-pearl,two-tone steel and everose gold,steel and everose gold,fluted,jubilee,steel and everose gold,Unisex,36,dial,high
+Update/Rolex_Batch03/IMG_2762.JPG,Rolex,Datejust,Datejust Black Mother-Of-Pearl Diamond Dial Two-Tone Everose Gold Fluted Bezel Jubilee,black mother-of-pearl,two-tone steel and everose gold,steel and everose gold,fluted,jubilee,steel and everose gold,Unisex,36,dial,high
+Update/Rolex_Batch02/IMG_8366.JPG,Rolex,Yacht-Master,Yacht-Master Black Dial Steel Platinum Bezel Oysterflex,black,steel,stainless steel,platinum,strap,rubber,Men,42,full,high
+Update/Rolex_Batch02/IMG_8367.JPG,Rolex,Yacht-Master,Yacht-Master Black Dial Steel Platinum Bezel Oysterflex,black,steel,stainless steel,platinum,strap,rubber,Men,42,side,high
+Update/Rolex_Batch02/IMG_8437.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Blue Black Bezel Rubber Strap,black,steel,stainless steel,blue black,strap,rubber,Men,40,other,medium
+Update/Rolex_Batch02/IMG_8438.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Blue Black Bezel Rubber Strap,black,steel,stainless steel,blue black,strap,rubber,Men,40,other,medium
+Update/Rolex_Batch02/IMG_8439.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Blue Black Bezel Rubber Strap,black,steel,stainless steel,blue black,strap,rubber,Men,40,other,medium
+Update/Rolex_Batch02/IMG_8440.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Green Black Bezel Rubber Strap,black,steel,stainless steel,green black,strap,rubber,Men,40,other,medium
+Update/Rolex_Batch02/IMG_8441.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Green Black Bezel Rubber Strap,black,steel,stainless steel,green black,strap,rubber,Men,40,other,medium
+Update/Rolex_Batch02/IMG_8442.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona White Dial Steel Black Ceramic Bezel Rubber Strap,white,steel,stainless steel,black ceramic,strap,rubber,Men,40,full,high
+Update/Rolex_Batch02/IMG_8443.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Blue Black Bezel Rubber Strap,black,steel,stainless steel,blue black,strap,rubber,Men,40,full,high
+Update/Rolex_Batch02/IMG_8444.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Green Black Bezel Rubber Strap,black,steel,stainless steel,green black,strap,rubber,Men,40,full,high
+Update/Rolex_Batch02/IMG_8492.JPG,Rolex,Submariner,Submariner Black Dial Steel Black Ceramic Bezel Oyster Bracelet,black,steel,stainless steel,black ceramic,bracelet,stainless steel,Men,41,full,high
+Update/Rolex_Batch02/IMG_8493.JPG,Rolex,Submariner,Submariner Black Dial Steel Black Ceramic Bezel Oyster Bracelet,black,steel,stainless steel,black ceramic,bracelet,stainless steel,Men,41,full,high
+Update/Rolex_Batch02/IMG_8494.JPG,Rolex,Submariner,Submariner Black Dial Steel Black Ceramic Bezel Oyster Bracelet,black,steel,stainless steel,black ceramic,bracelet,stainless steel,Men,41,full,high
+Update/Rolex_Batch02/IMG_8495.JPG,Rolex,Submariner,Submariner Black Dial Steel Black Ceramic Bezel Oyster Bracelet,black,steel,stainless steel,black ceramic,bracelet,stainless steel,Men,41,side,high
+Update/Rolex_Batch02/IMG_8496.JPG,Rolex,Submariner,Submariner Black Dial Steel Black Ceramic Bezel Oyster Bracelet,black,steel,stainless steel,black ceramic,bracelet,stainless steel,Men,41,side,high
+Update/Rolex_Batch02/IMG_8497.JPG,Rolex,Submariner,Submariner Black Dial Steel Black Ceramic Bezel Oyster Bracelet,black,steel,stainless steel,black ceramic,bracelet,stainless steel,Men,41,side,high
+Update/Rolex_Batch02/IMG_8498.JPG,Rolex,Submariner,Submariner Black Dial Steel Black Ceramic Bezel Oyster Bracelet,black,steel,stainless steel,black ceramic,bracelet,stainless steel,Men,41,caseback,high
+Update/Rolex_Batch02/IMG_8499.JPG,Rolex,Submariner,Submariner Black Dial Steel Black Ceramic Bezel Oyster Bracelet,black,steel,stainless steel,black ceramic,bracelet,stainless steel,Men,41,bracelet,high
+Update/Rolex_Batch03/IMG_3915.JPG,Rolex,Datejust,Datejust Steel Oyster,?,silver,steel,?,bracelet,steel,Unisex,,caseback,low
+Update/Rolex_Batch03/IMG_3951.JPG,Rolex,Submariner,Submariner Multicolor Phantomlab Transparent Custom,multicolor,clear,sapphire,clear,strap,rubber,Men,40,full,medium
+Update/Rolex_Batch03/IMG_3952.JPG,Rolex,Submariner,Submariner Multicolor Phantomlab Transparent Custom,multicolor,clear,sapphire,clear,strap,rubber,Men,40,full,medium
+Update/Rolex_Batch03/IMG_3953.JPG,Rolex,Submariner,Submariner Multicolor Phantomlab Transparent Custom,multicolor,clear,sapphire,clear,strap,rubber,Men,40,full,medium
+Update/Rolex_Batch03/IMG_3954.JPG,Rolex,Submariner,Submariner Multicolor Phantomlab Transparent Custom,multicolor,clear,sapphire,clear,strap,rubber,Men,40,dial,medium
+Update/Rolex_Batch03/IMG_3955.JPG,Rolex,Submariner,Submariner Multicolor Phantomlab Transparent Custom,multicolor,clear,sapphire,clear,strap,rubber,Men,40,dial,medium
+Update/Rolex_Batch03/IMG_3956.JPG,Rolex,Submariner,Submariner Multicolor Phantomlab Transparent Custom,multicolor,clear,sapphire,clear,strap,rubber,Men,40,side,medium
+Update/Rolex_Batch03/IMG_3957.JPG,Rolex,Submariner,Submariner Multicolor Phantomlab Transparent Custom,multicolor,clear,sapphire,clear,strap,rubber,Men,40,caseback,medium
+Update/Rolex_Batch03/IMG_3958.JPG,Rolex,Submariner,Submariner Multicolor Phantomlab Transparent Custom,multicolor,clear,sapphire,clear,strap,rubber,Men,40,bracelet,medium
+Update/Rolex_Batch03/IMG_3959.JPG,Rolex,Submariner,Submariner Multicolor Phantomlab Transparent Custom,multicolor,clear,sapphire,clear,strap,rubber,Men,40,bracelet,medium
+Update/Rolex_Batch03/IMG_4088.JPG,Rolex,Day-Date,Day-Date Meteorite Yellow Gold Diamond Bezel President,meteorite,gold,yellow gold,diamond,bracelet,yellow gold,Men,40,full,high
+Update/Rolex_Batch03/IMG_4089.JPG,Rolex,Day-Date,Day-Date Meteorite Yellow Gold Diamond Bezel President,meteorite,gold,yellow gold,diamond,bracelet,yellow gold,Men,40,dial,high
+Update/Rolex_Batch03/IMG_4091.JPG,Rolex,Day-Date,Day-Date Meteorite Yellow Gold Diamond Bezel President,meteorite,gold,yellow gold,diamond,bracelet,yellow gold,Men,40,full,high
+Update/Rolex_Batch03/IMG_4092.JPG,Rolex,Day-Date,Day-Date Meteorite Yellow Gold Diamond Bezel President,meteorite,gold,yellow gold,diamond,bracelet,yellow gold,Men,40,dial,high
+Update/Rolex_Batch03/IMG_4093.JPG,Rolex,Day-Date,Day-Date Meteorite Yellow Gold Diamond Bezel President,meteorite,gold,yellow gold,diamond,bracelet,yellow gold,Men,40,side,high
+Update/Rolex_Batch03/IMG_4094.JPG,Rolex,Day-Date,Day-Date Meteorite Yellow Gold Diamond Bezel President,meteorite,gold,yellow gold,diamond,bracelet,yellow gold,Men,40,full,high
+Update/Rolex_Batch03/IMG_4095.JPG,Rolex,Day-Date,Day-Date Meteorite Yellow Gold Diamond Bezel President,meteorite,gold,yellow gold,diamond,bracelet,yellow gold,Men,40,dial,high
+Update/Rolex_Batch03/IMG_4096.JPG,Rolex,Day-Date,Day-Date Meteorite Yellow Gold Diamond Bezel President,meteorite,gold,yellow gold,diamond,bracelet,yellow gold,Men,40,full,high
+Update/Rolex_Batch03/IMG_3377.JPG,Rolex,Datejust,Datejust Champagne Palm Dial Two-Tone Gold Fluted Bezel Jubilee,champagne,two-tone,steel and yellow gold,fluted gold,jubilee,steel and yellow gold,Men,36,side,high
+Update/Rolex_Batch03/IMG_3378.JPG,Rolex,Datejust,Datejust Champagne Palm Dial Two-Tone Gold Fluted Bezel Jubilee,champagne,two-tone,steel and yellow gold,fluted gold,jubilee,steel and yellow gold,Men,36,dial,high
+Update/Rolex_Batch03/IMG_3379.JPG,Rolex,Datejust,Datejust Champagne Palm Dial Two-Tone Gold Fluted Bezel Jubilee,champagne,two-tone,steel and yellow gold,fluted gold,jubilee,steel and yellow gold,Men,36,side,high
+Update/Rolex_Batch03/IMG_3380.JPG,Rolex,Datejust,Datejust Champagne Palm Dial Two-Tone Gold Fluted Bezel Jubilee,champagne,two-tone,steel and yellow gold,fluted gold,jubilee,steel and yellow gold,Men,36,caseback,high
+Update/Rolex_Batch03/IMG_3381.JPG,Rolex,Datejust,Datejust Champagne Palm Dial Two-Tone Gold Fluted Bezel Jubilee,champagne,two-tone,steel and yellow gold,fluted gold,jubilee,steel and yellow gold,Men,36,box,high
+Update/Rolex_Batch03/IMG_3469.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Pepsi Bezel Oyster,black,steel,steel,blue and red ceramic,oyster,steel,Men,40,full,high
+Update/Rolex_Batch03/IMG_3470.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Batman Bezel Oyster,black,steel,steel,blue and black ceramic,oyster,steel,Men,40,full,high
+Update/Rolex_Batch03/IMG_3471.JPG,Rolex,Datejust,Datejust Blue Diamond Dial Steel Fluted White Gold Bezel Jubilee,blue,steel,steel,fluted white gold,jubilee,steel,Men,41,full,high
+Update/Rolex_Batch03/IMG_3472.JPG,Rolex,Datejust,Datejust White Mother Of Pearl Diamond Dial Two-Tone Everose Fluted Bezel Jubilee,white mother of pearl,two-tone,steel and everose gold,fluted everose gold,jubilee,steel and everose gold,Women,31,full,high
+Update/Rolex_Batch03/IMG_3473.JPG,Rolex,Datejust,Datejust Slate Diamond Dial Steel Fluted White Gold Bezel Jubilee,slate,steel,steel,fluted white gold,jubilee,steel,Men,41,full,high
+Update/Rolex_Batch03/IMG_3611.JPG,Rolex,Day-Date,Day-Date Green Diamond Dial Everose Gold Fluted Bezel President,green,rose gold,everose gold,fluted everose gold,president,everose gold,Men,40,dial,high
+Update/Rolex_Batch03/IMG_3612.JPG,Rolex,Day-Date,Day-Date Green Diamond Dial Everose Gold Fluted Bezel President,green,rose gold,everose gold,fluted everose gold,president,everose gold,Men,40,dial,high
+Update/Rolex_Batch03/IMG_3613.JPG,Rolex,Day-Date,Day-Date Green Diamond Dial Everose Gold Fluted Bezel President,green,rose gold,everose gold,fluted everose gold,president,everose gold,Men,40,side,high
+Update/Rolex_Batch03/IMG_3614.JPG,Rolex,Day-Date,Day-Date Green Diamond Dial Everose Gold Fluted Bezel President,green,rose gold,everose gold,fluted everose gold,president,everose gold,Men,40,side,high
+Update/Rolex_Batch03/IMG_3615.JPG,Rolex,Day-Date,Day-Date Green Diamond Dial Everose Gold Fluted Bezel President,green,rose gold,everose gold,fluted everose gold,president,everose gold,Men,40,caseback,high
+Update/Rolex_Batch03/IMG_3617.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Everose Gold Root Beer Bezel Oyster,black,rose gold,everose gold,brown and black ceramic,oyster,everose gold,Men,40,papers,high
+Update/Rolex_Batch03/IMG_3618.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Everose Gold Root Beer Bezel Oyster,black,rose gold,everose gold,brown and black ceramic,oyster,everose gold,Men,40,box,high
+Update/Rolex_Batch03/IMG_3619.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Everose Gold Root Beer Bezel Oyster,black,rose gold,everose gold,brown and black ceramic,oyster,everose gold,Men,40,box,high
+Update/Rolex_Batch02/IMG_1610.JPG,Cartier,Santos,Santos Blue Dial Steel Bracelet With Blue Leather Strap,blue,steel,stainless steel,steel screw-set,bracelet,stainless steel,Men,40,full,high
+Update/Rolex_Batch02/IMG_1611.JPG,Cartier,Santos,Santos Blue Dial Steel Bracelet,blue,steel,stainless steel,steel screw-set,bracelet,stainless steel,Men,40,dial,high
+Update/Rolex_Batch02/IMG_1612.JPG,Cartier,Santos,Santos Blue Dial Steel Bracelet,blue,steel,stainless steel,steel screw-set,bracelet,stainless steel,Men,40,dial,high
+Update/Rolex_Batch02/IMG_1613.JPG,Cartier,Santos,Santos Blue Dial Steel Bracelet,blue,steel,stainless steel,steel screw-set,bracelet,stainless steel,Men,40,dial,high
+Update/Rolex_Batch02/IMG_1614.JPG,Cartier,Santos,Santos Blue Dial Steel Bracelet,blue,steel,stainless steel,steel screw-set,bracelet,stainless steel,Men,40,full,high
+Update/Rolex_Batch02/IMG_1616.JPG,Cartier,Santos,Santos Blue Dial Steel Bracelet,blue,steel,stainless steel,steel screw-set,bracelet,stainless steel,Men,40,bracelet,high
+Update/Rolex_Batch02/IMG_1617.JPG,Cartier,Santos,Santos Blue Leather Straps,?,?,?,?,strap,leather,Men,,other,medium
+Update/Rolex_Batch02/IMG_1618.JPG,Cartier,Santos,Santos Steel QuickSwitch Clasp,?,steel,stainless steel,?,bracelet,stainless steel,Men,,bracelet,medium
+Update/Rolex_Batch02/IMG_1620.JPG,Rolex,Datejust,Datejust Steel Movement Jubilee,?,steel,stainless steel,?,bracelet,stainless steel,Men,,movement,medium
+Update/Rolex_Batch02/IMG_1621.JPG,Rolex,Datejust,Datejust Steel Movement 3235 Jubilee,?,steel,stainless steel,?,bracelet,stainless steel,Men,,movement,medium
+Update/Rolex_Batch02/IMG_1622.JPG,Rolex,Datejust,Datejust Steel Movement 3235 Jubilee,?,steel,stainless steel,?,bracelet,stainless steel,Men,,movement,medium
+Update/Rolex_Batch02/IMG_1623.JPG,Rolex,Datejust,Datejust Rhodium Dial Steel Fluted Bezel Jubilee,rhodium gray,steel,stainless steel,fluted white gold,bracelet,stainless steel,Men,41,full,high
+Update/Rolex_Batch02/IMG_1624.JPG,Rolex,Datejust,Datejust Rhodium Dial Steel Fluted Bezel Jubilee,rhodium gray,steel,stainless steel,fluted white gold,bracelet,stainless steel,Men,41,full,high
+Update/Rolex_Batch02/IMG_1625.JPG,Rolex,Datejust,Datejust Rhodium Dial Steel Fluted Bezel Jubilee,rhodium gray,steel,stainless steel,fluted white gold,bracelet,stainless steel,Men,41,dial,high
+Update/Rolex_Batch02/IMG_1626.JPG,Rolex,Datejust,Datejust Steel Fluted Bezel Jubilee,?,steel,stainless steel,fluted white gold,bracelet,stainless steel,Men,41,side,high
+Update/Rolex_Batch02/IMG_1627.JPG,Rolex,Datejust,Datejust Steel Jubilee Caseback,?,steel,stainless steel,?,bracelet,stainless steel,Men,41,caseback,high
+Update/Rolex_Batch02/IMG_1628.JPG,Rolex,Datejust,Datejust Steel Jubilee Clasp,?,steel,stainless steel,?,bracelet,stainless steel,Men,41,bracelet,high
+Update/Rolex_Batch02/IMG_1629.JPG,Rolex,Datejust,Datejust Steel Fluted Bezel Jubilee Collection,multi,steel,stainless steel,fluted white gold,bracelet,stainless steel,Men,41,other,medium
+Update/Rolex_Batch03/IMG_3062.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Green Dial Yellow Gold Tachymeter Bezel,green,gold,yellow gold,gold tachymeter,oysterflex,rubber,Men,40,side,medium
+Update/Rolex_Batch03/IMG_3063.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Green Dial Yellow Gold Tachymeter Bezel,green,gold,yellow gold,gold tachymeter,oysterflex,rubber,Men,40,bracelet,medium
+Update/Rolex_Batch03/IMG_3065.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Green Dial Yellow Gold Oyster Bracelet,green,gold,yellow gold,gold tachymeter,oyster,yellow gold,Men,40,full,high
+Update/Rolex_Batch03/IMG_3066.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Green Dial Yellow Gold Oyster Bracelet,green,gold,yellow gold,gold tachymeter,oyster,yellow gold,Men,40,dial,high
+Update/Rolex_Batch03/IMG_3067.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Green Dial Yellow Gold Oyster Bracelet,green,gold,yellow gold,gold tachymeter,oyster,yellow gold,Men,40,dial,high
+Update/Rolex_Batch03/IMG_3068.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Green Dial Yellow Gold Oyster Bracelet,green,gold,yellow gold,gold tachymeter,oyster,yellow gold,Men,40,dial,high
+Update/Rolex_Batch03/IMG_3069.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Green Dial Yellow Gold Oyster Bracelet,green,gold,yellow gold,gold tachymeter,oyster,yellow gold,Men,40,side,high
+Update/Rolex_Batch03/IMG_3070.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Green Dial Yellow Gold Oyster Bracelet,green,gold,yellow gold,gold tachymeter,oyster,yellow gold,Men,40,side,high
+Update/Rolex_Batch03/IMG_3071.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Green Dial Yellow Gold Oyster Bracelet,green,gold,yellow gold,gold tachymeter,oyster,yellow gold,Men,40,caseback,high
+Update/Rolex_Batch03/IMG_3072.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Green Dial Yellow Gold Oyster Bracelet,green,gold,yellow gold,gold tachymeter,oyster,yellow gold,Men,40,side,high
+Update/Rolex_Batch03/IMG_3073.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Green Dial Yellow Gold Oyster Bracelet,green,gold,yellow gold,gold tachymeter,oyster,yellow gold,Men,40,bracelet,high
+Update/Rolex_Batch03/IMG_3075.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona White Panda Dial Steel Ceramic Bezel Oyster Bracelet,white,silver,stainless steel,black ceramic tachymeter,oyster,stainless steel,Men,40,full,high
+Update/Rolex_Batch03/IMG_3076.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona White Panda Dial Steel Ceramic Bezel Oyster Bracelet,white,silver,stainless steel,black ceramic tachymeter,oyster,stainless steel,Men,40,full,high
+Update/Rolex_Batch03/IMG_3077.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona White Panda Dial Steel Ceramic Bezel Oyster Bracelet,white,silver,stainless steel,black ceramic tachymeter,oyster,stainless steel,Men,40,side,high
+Update/Rolex_Batch03/IMG_3078.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona White Panda Dial Steel Ceramic Bezel Oyster Bracelet,white,silver,stainless steel,black ceramic tachymeter,oyster,stainless steel,Men,40,side,high
+Update/Rolex_Batch03/IMG_3079.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona White Panda Dial Steel Ceramic Bezel Oyster Bracelet,white,silver,stainless steel,black ceramic tachymeter,oyster,stainless steel,Men,40,dial,high
+Update/Rolex_Batch03/IMG_3080.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona White Panda Dial Steel Ceramic Bezel Oyster Bracelet,white,silver,stainless steel,black ceramic tachymeter,oyster,stainless steel,Men,40,dial,high
+Update/Rolex_Batch03/IMG_3081.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona White Panda Dial Steel Ceramic Bezel Oyster Bracelet,white,silver,stainless steel,black ceramic tachymeter,oyster,stainless steel,Men,40,bracelet,high
+Update/Rolex_Batch03/IMG_7101.JPG,Hublot,Big Bang,Big Bang Black Dial Rose Gold Ceramic Bezel Rubber Strap,black,rose gold,rose gold,black ceramic,strap,rubber,Men,44,dial,high
+Update/Rolex_Batch03/IMG_7102.JPG,Hublot,Big Bang,Big Bang Black Dial Rose Gold Ceramic Bezel Rubber Strap,black,rose gold,rose gold,black ceramic,strap,rubber,Men,44,side,high
+Update/Rolex_Batch03/IMG_7103.JPG,Hublot,Big Bang,Big Bang Black Dial Rose Gold Ceramic Bezel Rubber Strap,black,rose gold,rose gold,black ceramic,strap,rubber,Men,44,side,high
+Update/Rolex_Batch03/IMG_7104.JPG,Hublot,Big Bang,Big Bang Black Dial Rose Gold Ceramic Bezel Rubber Strap,black,rose gold,rose gold,black ceramic,strap,rubber,Men,44,caseback,high
+Update/Rolex_Batch03/IMG_7105.JPG,Hublot,Big Bang,Big Bang Black Dial Rose Gold Ceramic Bezel Rubber Strap,black,rose gold,rose gold,black ceramic,strap,rubber,Men,44,bracelet,high
+Update/Rolex_Batch03/IMG_7107.JPG,Hublot,Big Bang Unico,Big Bang Unico Skeleton Dial White Ceramic Rubber Strap,skeleton,white,ceramic,white ceramic,strap,rubber,Men,42,wrist,high
+Update/Rolex_Batch03/IMG_7108.JPG,Hublot,Big Bang Unico,Big Bang Unico Skeleton Dial Yellow Ceramic Rubber Strap,skeleton,yellow,ceramic,yellow ceramic,strap,rubber,Men,42,wrist,high
+Update/Rolex_Batch03/IMG_7109.JPG,Hublot,Big Bang Unico,Big Bang Unico Skeleton Dial Blue Ceramic Rubber Strap,skeleton,blue,ceramic,blue ceramic,strap,rubber,Men,42,wrist,high
+Update/Rolex_Batch03/IMG_7110.JPG,Hublot,Big Bang Unico,Big Bang Unico Skeleton Dial Black Ceramic Rubber Strap,skeleton,black,ceramic,black ceramic,strap,rubber,Men,42,wrist,high
+Update/Rolex_Batch03/IMG_7119.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Green Black Bezel,black,steel,stainless steel,green black ceramic,bracelet,stainless steel,Men,40,full,high
+Update/Rolex_Batch03/IMG_7169.JPG,Rolex,Datejust,Datejust Green Palm Dial Steel Fluted Bezel Jubilee,green,steel,stainless steel,fluted white gold,bracelet,stainless steel,Men,36,wrist,high
+Update/Rolex_Batch03/IMG_7182.JPG,Rolex,Datejust,Datejust Olive Green Diamond Dial Two-Tone Yellow Gold Diamond Bezel Jubilee,olive green,two-tone steel and yellow gold,steel and yellow gold,diamond yellow gold,bracelet,steel and yellow gold,Women,31,dial,high
+Update/Rolex_Batch03/IMG_7183.JPG,Rolex,Datejust,Datejust Olive Green Diamond Dial Two-Tone Yellow Gold Diamond Bezel Jubilee,olive green,two-tone steel and yellow gold,steel and yellow gold,diamond yellow gold,bracelet,steel and yellow gold,Women,31,dial,high
+Update/Rolex_Batch03/IMG_7184.JPG,Rolex,Datejust,Datejust Pink Diamond Dial Steel Diamond Bezel Jubilee,pink,steel,stainless steel,diamond,bracelet,stainless steel,Women,31,dial,high
+Update/Rolex_Batch03/IMG_7185.JPG,Rolex,Datejust,Datejust Silver Diamond Dial Two-Tone Yellow Gold Fluted Bezel Jubilee,silver,two-tone steel and yellow gold,steel and yellow gold,fluted yellow gold,bracelet,steel and yellow gold,Women,31,dial,high
+Update/Rolex_Batch03/IMG_7186.JPG,Rolex,Datejust,Datejust White Mother Of Pearl Diamond Dial Steel Fluted Bezel Jubilee,white mother of pearl,steel,stainless steel,fluted white gold,bracelet,stainless steel,Women,31,dial,high
+Update/Rolex_Batch03/IMG_7187.JPG,Rolex,Datejust,Datejust Champagne Diamond Dial Two-Tone Yellow Gold Fluted Bezel Jubilee,champagne,two-tone steel and yellow gold,steel and yellow gold,fluted yellow gold,bracelet,steel and yellow gold,Women,31,dial,high
+Update/Rolex_Batch03/IMG_7188.JPG,Rolex,Datejust,Datejust White Mother Of Pearl Diamond Dial Two-Tone Everose Gold Diamond Bezel Jubilee,white mother of pearl,two-tone steel and rose gold,steel and everose gold,diamond everose gold,bracelet,steel and everose gold,Women,31,dial,high
+Update/Rolex_Batch03/IMG_5096.JPG,Rolex,Datejust,Datejust Slate Roman Dial Steel Fluted Bezel Jubilee,slate,steel,steel,fluted white gold,jubilee,steel,Women,31,dial,high
+Update/Rolex_Batch03/IMG_5097.JPG,Rolex,Datejust,Datejust Slate Roman Dial Steel Fluted Bezel Jubilee,slate,steel,steel,fluted white gold,jubilee,steel,Women,31,full,high
+Update/Rolex_Batch03/IMG_5098.JPG,Rolex,Datejust,Datejust Pink Diamond Dial Two-Tone Everose Diamond Bezel Jubilee,pink,two-tone steel and everose,steel and everose gold,diamond,jubilee,steel and everose gold,Women,31,full,high
+Update/Rolex_Batch03/IMG_5099.JPG,Rolex,Datejust,Datejust Pink Diamond Dial Two-Tone Everose Diamond Bezel Jubilee,pink,two-tone steel and everose,steel and everose gold,diamond,jubilee,steel and everose gold,Women,31,dial,high
+Update/Rolex_Batch03/IMG_5100.JPG,Rolex,Datejust,Datejust Pink Diamond Dial Two-Tone Everose Diamond Bezel Jubilee,pink,two-tone steel and everose,steel and everose gold,diamond,jubilee,steel and everose gold,Women,31,dial,high
+Update/Rolex_Batch03/IMG_5118.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Black Ceramic Bezel Oyster,black,steel,steel,black ceramic,oyster,steel,Men,40,dial,high
+Update/Rolex_Batch03/IMG_5119.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Black Ceramic Bezel Oyster,black,steel,steel,black ceramic,oyster,steel,Men,40,dial,high
+Update/Rolex_Batch03/IMG_5120.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Black Ceramic Bezel Oyster,black,steel,steel,black ceramic,oyster,steel,Men,40,dial,high
+Update/Rolex_Batch03/IMG_5121.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Black Ceramic Bezel Oyster,black,steel,steel,black ceramic,oyster,steel,Men,40,side,high
+Update/Rolex_Batch03/IMG_5122.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Black Ceramic Bezel Oyster,black,steel,steel,black ceramic,oyster,steel,Men,40,side,high
+Update/Rolex_Batch03/IMG_5123.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Black Ceramic Bezel Oyster,black,steel,steel,black ceramic,oyster,steel,Men,40,bracelet,high
+Update/Rolex_Batch03/IMG_5124.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Black Ceramic Bezel Oyster,black,steel,steel,black ceramic,oyster,steel,Men,40,caseback,high
+Update/Rolex_Batch03/IMG_5137.JPG,Rolex,GMT-Master II,GMT-Master II Pepsi Black Dial Steel Blue Red Ceramic Bezel Oyster,black,steel,steel,blue and red ceramic,oyster,steel,Men,40,full,high
+Update/Rolex_Batch03/IMG_5138.JPG,Rolex,GMT-Master II,GMT-Master II Pepsi Black Dial Steel Blue Red Ceramic Bezel Oyster,black,steel,steel,blue and red ceramic,oyster,steel,Men,40,dial,high
+Update/Rolex_Batch03/IMG_5139.JPG,Rolex,GMT-Master II,GMT-Master II Pepsi Black Dial Steel Blue Red Ceramic Bezel Oyster,black,steel,steel,blue and red ceramic,oyster,steel,Men,40,dial,high
+Update/Rolex_Batch03/IMG_5140.JPG,Rolex,GMT-Master II,GMT-Master II Pepsi Black Dial Steel Blue Red Ceramic Bezel Oyster,black,steel,steel,blue and red ceramic,oyster,steel,Men,40,side,high
+Update/Rolex_Batch03/IMG_5141.JPG,Rolex,GMT-Master II,GMT-Master II Pepsi Black Dial Steel Blue Red Ceramic Bezel Oyster,black,steel,steel,blue and red ceramic,oyster,steel,Men,40,side,high
+Update/Rolex_Batch03/IMG_5142.JPG,Rolex,GMT-Master II,GMT-Master II Pepsi Black Dial Steel Blue Red Ceramic Bezel Oyster,black,steel,steel,blue and red ceramic,oyster,steel,Men,40,bracelet,high
+Update/Rolex_Batch02/IMG_1634.JPG,Rolex,GMT-Master II,Gmt-Master Ii Black Dial Steel Pepsi And Batman Bezel,black,steel,stainless steel,ceramic red/blue and blue/black,bracelet,stainless steel,Men,40,other,medium
+Update/Rolex_Batch02/IMG_1635.JPG,Audemars Piguet,Royal Oak Offshore,Royal Oak Offshore Black Dial Ceramic Rose Gold Chronograph,black,black,ceramic,ceramic,strap,rubber,Men,44,other,medium
+Update/Rolex_Batch02/IMG_1636.JPG,IWC,Aquatimer Chronograph,Aquatimer Chronograph Blue Dial Steel Rubber Strap,blue,steel,stainless steel,internal rotating steel,strap,rubber,Men,44,other,medium
+Update/Rolex_Batch02/IMG_1638.JPG,Audemars Piguet,Royal Oak Offshore,Royal Oak Offshore Steel Ceramic Bezel Leather Strap Chronograph,black,steel,stainless steel,ceramic,strap,leather,Men,44,other,medium
+Update/Rolex_Batch02/IMG_1640.JPG,Hublot,Big Bang Sang Bleu II,Big Bang Sang Bleu Ii White Ceramic Rubber Strap,black,white,ceramic,ceramic,strap,rubber,Men,45,other,medium
+Update/Rolex_Batch02/IMG_1641.JPG,Hublot,Big Bang Sang Bleu II,Big Bang Sang Bleu Ii Black Ceramic Rubber Strap,black,black,ceramic,ceramic,strap,rubber,Men,45,other,medium
+Update/Rolex_Batch02/IMG_1643.JPG,Richard Mille,RM 12-01,Rm Tourbillon Sapphire Crystal Transparent Case Rubber Strap,skeleton,transparent,sapphire crystal,sapphire crystal,strap,rubber,Men,50,other,low
+Update/Rolex_Batch02/IMG_1778.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Silver Dial Steel Black Tachymeter Bezel,silver,steel,stainless steel,black tachymeter,bracelet,stainless steel,Men,37,full,high
+Update/Rolex_Batch02/IMG_1779.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Silver Dial Steel Black Tachymeter Bezel,silver,steel,stainless steel,black tachymeter,bracelet,stainless steel,Men,37,dial,high
+Update/Rolex_Batch02/IMG_1780.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Silver Dial Steel Black Tachymeter Bezel,silver,steel,stainless steel,black tachymeter,bracelet,stainless steel,Men,37,side,high
+Update/Rolex_Batch02/IMG_1781.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Silver Dial Steel Black Tachymeter Bezel,silver,steel,stainless steel,black tachymeter,bracelet,stainless steel,Men,37,bracelet,high
+Update/Rolex_Batch02/IMG_1782.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Silver Dial Steel Black Tachymeter Bezel,silver,steel,stainless steel,black tachymeter,bracelet,stainless steel,Men,37,caseback,high
+Update/Rolex_Batch02/IMG_1783.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Silver Dial Steel Black Tachymeter Bezel,silver,steel,stainless steel,black tachymeter,bracelet,stainless steel,Men,37,bracelet,high
+Update/Rolex_Batch02/IMG_1784.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Champagne Dial Two-Tone Gold Tachymeter Bezel,champagne,two-tone gold,steel and yellow gold,yellow gold tachymeter,bracelet,steel and yellow gold,Men,40,other,medium
+Update/Rolex_Batch02/IMG_1785.JPG,Rolex,Submariner,Submariner Date Black Dial Steel Green Bezel,black,steel,stainless steel,green ceramic,bracelet,stainless steel,Men,41,full,high
+Update/Rolex_Batch02/IMG_1786.JPG,Rolex,Submariner,Submariner Date Black Dial Steel Green Bezel,black,steel,stainless steel,green ceramic,bracelet,stainless steel,Men,41,full,high
+Update/Rolex_Batch02/IMG_1787.JPG,Rolex,Submariner,Submariner Date Black Dial Steel Green Bezel,black,steel,stainless steel,green ceramic,bracelet,stainless steel,Men,41,side,high
+Update/Rolex_Batch02/IMG_1788.JPG,Rolex,Submariner,Submariner Date Black Dial Steel Green Bezel,black,steel,stainless steel,green ceramic,bracelet,stainless steel,Men,41,caseback,high
+Update/Rolex_Batch03/IMG_6938.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Steel Grey Dial White Gold Black Ceramic Bezel Rubber Strap,steel grey,white,white gold,black ceramic,rubber strap,rubber,Men,40,side,medium
+Update/Rolex_Batch03/IMG_6939.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Steel Grey Dial White Gold Black Ceramic Bezel Rubber Strap,steel grey,white,white gold,black ceramic,rubber strap,rubber,Men,40,caseback,high
+Update/Rolex_Batch03/IMG_6940.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Steel Grey Dial White Gold Black Ceramic Bezel Rubber Strap,steel grey,white,white gold,black ceramic,rubber strap,rubber,Men,40,bracelet,high
+Update/Rolex_Batch03/IMG_6941.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Steel Grey Dial White Gold Black Ceramic Bezel Rubber Strap,steel grey,white,white gold,black ceramic,rubber strap,rubber,Men,40,full,high
+Update/Rolex_Batch03/IMG_6942.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Steel Grey Dial White Gold Black Ceramic Bezel Rubber Strap,steel grey,white,white gold,black ceramic,rubber strap,rubber,Men,40,full,high
+Update/Rolex_Batch03/IMG_6943.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Steel Grey Dial White Gold Black Ceramic Bezel Rubber Strap,steel grey,white,white gold,black ceramic,rubber strap,rubber,Men,40,full,high
+Update/Rolex_Batch03/IMG_6944.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Steel Grey Dial White Gold Black Ceramic Bezel Rubber Strap,steel grey,white,white gold,black ceramic,rubber strap,rubber,Men,40,full,high
+Update/Rolex_Batch03/IMG_6945.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Steel Grey Dial White Gold Black Ceramic Bezel Rubber Strap,steel grey,white,white gold,black ceramic,rubber strap,rubber,Men,40,full,high
+Update/Rolex_Batch03/IMG_6950.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Ice Blue Dial Platinum Brown Ceramic Bezel Oyster Bracelet,ice blue,silver,platinum,brown ceramic,oyster bracelet,platinum,Men,40,full,high
+Update/Rolex_Batch03/IMG_6951.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Ice Blue Dial Platinum Brown Ceramic Bezel Oyster Bracelet,ice blue,silver,platinum,brown ceramic,oyster bracelet,platinum,Men,40,full,high
+Update/Rolex_Batch03/IMG_6952.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Ice Blue Dial Platinum Brown Ceramic Bezel Oyster Bracelet,ice blue,silver,platinum,brown ceramic,oyster bracelet,platinum,Men,40,full,high
+Update/Rolex_Batch03/IMG_6953.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Ice Blue Dial Platinum Brown Ceramic Bezel Oyster Bracelet,ice blue,silver,platinum,brown ceramic,oyster bracelet,platinum,Men,40,full,high
+Update/Rolex_Batch03/IMG_6954.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Ice Blue Dial Platinum Brown Ceramic Bezel Oyster Bracelet,ice blue,silver,platinum,brown ceramic,oyster bracelet,platinum,Men,40,full,high
+Update/Rolex_Batch03/IMG_6955.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Ice Blue Dial Platinum Brown Ceramic Bezel Oyster Bracelet,ice blue,silver,platinum,brown ceramic,oyster bracelet,platinum,Men,40,side,high
+Update/Rolex_Batch03/IMG_6956.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Ice Blue Dial Platinum Brown Ceramic Bezel Oyster Bracelet,ice blue,silver,platinum,brown ceramic,oyster bracelet,platinum,Men,40,side,high
+Update/Rolex_Batch03/IMG_6957.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Ice Blue Dial Platinum Brown Ceramic Bezel Oyster Bracelet,ice blue,silver,platinum,brown ceramic,oyster bracelet,platinum,Men,40,caseback,high
+Update/Rolex_Batch03/IMG_6958.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Ice Blue Dial Platinum Brown Ceramic Bezel Oyster Bracelet,ice blue,silver,platinum,brown ceramic,oyster bracelet,platinum,Men,40,bracelet,high
+Update/Rolex_Batch03/IMG_6959.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Champagne Dial Two-Tone Steel Yellow Gold Tachymeter Bezel Oyster Bracelet,champagne,two-tone,steel and yellow gold,yellow gold tachymeter,oyster bracelet,steel and yellow gold,Men,40,full,high
+Update/Rolex_Batch02/IMG_9558.JPG,Rolex,Oyster Perpetual,Oyster Perpetual Turquoise Blue Steel Oyster,turquoise blue,steel,steel,smooth,oyster,steel,Men,41,side,medium
+Update/Rolex_Batch02/IMG_9559.JPG,Rolex,Oyster Perpetual,Oyster Perpetual Turquoise Blue Steel Oyster,turquoise blue,steel,steel,smooth,oyster,steel,Men,41,side,medium
+Update/Rolex_Batch02/IMG_9560.JPG,Rolex,Oyster Perpetual,Oyster Perpetual Turquoise Blue Steel Oyster,turquoise blue,steel,steel,smooth,oyster,steel,Men,41,caseback,medium
+Update/Rolex_Batch02/IMG_9561.JPG,Rolex,Oyster Perpetual,Oyster Perpetual Turquoise Blue Steel Oyster,turquoise blue,steel,steel,smooth,oyster,steel,Men,41,caseback,medium
+Update/Rolex_Batch02/IMG_9562.JPG,Rolex,Oyster Perpetual,Oyster Perpetual Turquoise Blue Steel Oyster,turquoise blue,steel,steel,smooth,oyster,steel,Men,41,bracelet,medium
+Update/Rolex_Batch02/IMG_9563.JPG,Rolex,Oyster Perpetual,Oyster Perpetual Turquoise Blue Steel Oyster,turquoise blue,steel,steel,smooth,oyster,steel,Men,41,dial,high
+Update/Rolex_Batch02/IMG_9564.JPG,Rolex,Oyster Perpetual,Oyster Perpetual Turquoise Blue Steel Oyster,turquoise blue,steel,steel,smooth,oyster,steel,Men,41,dial,high
+Update/Rolex_Batch02/IMG_9565.JPG,Rolex,Oyster Perpetual,Oyster Perpetual Turquoise Blue Steel Oyster,turquoise blue,steel,steel,smooth,oyster,steel,Men,41,dial,high
+Update/Rolex_Batch02/IMG_9566.JPG,Rolex,Oyster Perpetual,Oyster Perpetual Turquoise Blue Steel Oyster,turquoise blue,steel,steel,smooth,oyster,steel,Men,41,dial,high
+Update/Rolex_Batch02/IMG_9567.JPG,Rolex,Oyster Perpetual,Oyster Perpetual Turquoise Blue Steel Oyster,turquoise blue,steel,steel,smooth,oyster,steel,Men,41,full,high
+Update/Rolex_Batch02/IMG_9568.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Ice Blue Platinum Brown Ceramic Bezel Oyster,ice blue,platinum,platinum,brown ceramic,oyster,platinum,Men,40,full,high
+Update/Rolex_Batch02/IMG_9569.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Ice Blue Platinum Brown Ceramic Bezel Oyster,ice blue,platinum,platinum,brown ceramic,oyster,platinum,Men,40,full,high
+Update/Rolex_Batch02/IMG_9570.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Ice Blue Platinum Brown Ceramic Bezel Oyster,ice blue,platinum,platinum,brown ceramic,oyster,platinum,Men,40,dial,high
+Update/Rolex_Batch02/IMG_9571.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Ice Blue Platinum Brown Ceramic Bezel Oyster,ice blue,platinum,platinum,brown ceramic,oyster,platinum,Men,40,dial,high
+Update/Rolex_Batch02/IMG_9572.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Ice Blue Platinum Brown Ceramic Bezel Oyster,ice blue,platinum,platinum,brown ceramic,oyster,platinum,Men,40,side,high
+Update/Rolex_Batch02/IMG_9573.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Ice Blue Platinum Brown Ceramic Bezel Oyster,ice blue,platinum,platinum,brown ceramic,oyster,platinum,Men,40,side,high
+Update/Rolex_Batch02/IMG_9574.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Ice Blue Platinum Brown Ceramic Bezel Oyster,ice blue,platinum,platinum,brown ceramic,oyster,platinum,Men,40,movement,high
+Update/Rolex_Batch02/IMG_9575.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Ice Blue Platinum Brown Ceramic Bezel Oyster,ice blue,platinum,platinum,brown ceramic,oyster,platinum,Men,40,bracelet,high
+Update/Rolex_Batch03/IMG_4283.JPG,Rolex,Day-Date,Day-Date Purple Dial White Gold Diamond Bezel Diamond President,Purple,White,White Gold,Diamond,President,White Gold,Men,36,full,medium
+Update/Rolex_Batch03/IMG_4284.JPG,Rolex,Datejust,Datejust Blue Diamond Dial Steel Diamond Bezel Jubilee,Blue,Silver,Steel,Diamond,Jubilee,Steel,Men,36,full,medium
+Update/Rolex_Batch03/IMG_4394.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Pepsi Bezel Jubilee,Black,Silver,Steel,Pepsi,Jubilee,Steel,Men,40,full,high
+Update/Rolex_Batch03/IMG_4395.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Pepsi Bezel Jubilee,Black,Silver,Steel,Pepsi,Jubilee,Steel,Men,40,full,high
+Update/Rolex_Batch03/IMG_4397.JPG,Rolex,Submariner,Submariner Date Black Dial Steel Ceramic Bezel Oyster,Black,Silver,Steel,Ceramic,Oyster,Steel,Men,41,full,high
+Update/Rolex_Batch03/IMG_4457.PNG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Batman Bezel Oyster,Black,Silver,Steel,Batman,Oyster,Steel,Men,40,box,high
+Update/Rolex_Batch03/IMG_4458.PNG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Batman Bezel Oyster,Black,Silver,Steel,Batman,Oyster,Steel,Men,40,box,high
+Update/Rolex_Batch03/IMG_4459.PNG,Rolex,Submariner,Submariner Date Black Dial Steel Ceramic Bezel Oyster,Black,Silver,Steel,Ceramic,Oyster,Steel,Men,41,wrist,high
+Update/Rolex_Batch03/IMG_4460.PNG,Rolex,Submariner,Submariner Black Dial Steel Ceramic Bezel Oyster,Black,Silver,Steel,Ceramic,Oyster,Steel,Men,41,box,high
+Update/Rolex_Batch03/IMG_4477.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Black Dial Steel Ceramic Bezel Oyster,Black,Silver,Steel,Ceramic,Oyster,Steel,Men,40,other,medium
+Update/Rolex_Batch03/IMG_4478.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Black Dial Steel Ceramic Bezel Oyster,Black,Silver,Steel,Ceramic,Oyster,Steel,Men,40,wrist,medium
+Update/Rolex_Batch03/IMG_4479.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Black Dial Steel Ceramic Bezel Oyster,Black,Silver,Steel,Ceramic,Oyster,Steel,Men,40,dial,medium
+Update/Rolex_Batch03/IMG_4481.JPG,Rolex,Yacht-Master,Yacht-Master Black Dial Steel Ceramic Bezel Rubber Strap,Black,Silver,Steel,Ceramic,Oysterflex,Rubber,Men,42,full,high
+Update/Rolex_Batch03/IMG_4482.JPG,Rolex,Yacht-Master,Yacht-Master Black Dial Steel Ceramic Bezel Rubber Strap,Black,Silver,Steel,Ceramic,Oysterflex,Rubber,Men,42,side,high
+Update/Rolex_Batch03/IMG_4483.JPG,Rolex,Yacht-Master,Yacht-Master Black Dial Steel Ceramic Bezel Rubber Strap,Black,Silver,Steel,Ceramic,Oysterflex,Rubber,Men,42,full,high
+Update/Rolex_Batch03/IMG_4484.JPG,Rolex,Yacht-Master,Yacht-Master Black Dial Steel Ceramic Bezel Rubber Strap,Black,Silver,Steel,Ceramic,Oysterflex,Rubber,Men,42,dial,high
+Update/Rolex_Batch03/IMG_4485.JPG,Rolex,Yacht-Master,Yacht-Master Steel Ceramic Bezel Rubber Strap,?,Silver,Steel,Ceramic,Oysterflex,Rubber,Men,42,side,high
+Update/Rolex_Batch03/IMG_4486.JPG,Rolex,Yacht-Master,Yacht-Master Black Dial Steel Ceramic Bezel Rubber Strap,Black,Silver,Steel,Ceramic,Oysterflex,Rubber,Men,42,dial,high
+Update/Rolex_Batch02/IMG_7888.JPG,Rolex,Datejust,Datejust Black Diamond Dial Steel Fluted Bezel Oyster,black,silver,steel,fluted,oyster,steel,Men,41,full,high
+Update/Rolex_Batch02/IMG_7889.JPG,Rolex,Datejust,Datejust Grey Diamond Dial Steel Fluted Bezel Jubilee,grey,silver,steel,fluted,jubilee,steel,Men,41,full,high
+Update/Rolex_Batch02/IMG_7890.JPG,Rolex,Datejust,Datejust Champagne Diamond Dial Two-Tone Yellow Gold Fluted Bezel Oyster,champagne,two-tone,steel and yellow gold,fluted,oyster,steel and yellow gold,Men,41,full,high
+Update/Rolex_Batch02/IMG_7891.JPG,Rolex,Datejust,Datejust Black Diamond Dial Two-Tone Yellow Gold Fluted Bezel Jubilee,black,two-tone,steel and yellow gold,fluted,jubilee,steel and yellow gold,Men,41,full,high
+Update/Rolex_Batch02/IMG_7892.JPG,Rolex,Datejust,Datejust Champagne Diamond Dial Two-Tone Rose Gold Fluted Bezel Jubilee,champagne,two-tone,steel and rose gold,fluted,jubilee,steel and rose gold,Men,41,full,high
+Update/Rolex_Batch02/IMG_7893.JPG,Rolex,Datejust,Datejust Blue Diamond Dial Steel Fluted Bezel Jubilee,blue,silver,steel,fluted,jubilee,steel,Men,41,full,high
+Update/Rolex_Batch02/IMG_7894.JPG,Rolex,Day-Date,Day-Date Silver Baguette Dial White Gold Diamond Bezel President,silver,silver,white gold,diamond,president,white gold,Men,40,full,high
+Update/Rolex_Batch02/IMG_7895.JPG,Rolex,Datejust,Datejust Brown Diamond Dial Two-Tone Rose Gold Fluted Bezel Jubilee,brown,two-tone,steel and rose gold,fluted,jubilee,steel and rose gold,Men,41,full,high
+Update/Rolex_Batch02/IMG_7896.JPG,Rolex,Day-Date,Day-Date Rhodium Dial White Gold Fluted Bezel President,grey,silver,white gold,fluted,president,white gold,Men,40,full,high
+Update/Rolex_Batch02/IMG_7897.JPG,Rolex,Day-Date,Day-Date Rhodium Dial White Gold Diamond Bezel President,grey,silver,white gold,diamond,president,white gold,Men,40,full,high
+Update/Rolex_Batch02/IMG_7898.JPG,Rolex,Day-Date,Day-Date Green Dial White Gold Diamond Bezel President,green,silver,white gold,diamond,president,white gold,Men,40,full,high
+Update/Rolex_Batch02/IMG_7899.JPG,Rolex,Day-Date,Day-Date Blue Dial White Gold Fluted Bezel President,blue,silver,white gold,fluted,president,white gold,Men,40,full,high
+Update/Rolex_Batch02/IMG_7900.JPG,Rolex,Day-Date,Day-Date Champagne Baguette Dial Yellow Gold Diamond Bezel President,champagne,gold,yellow gold,diamond,president,yellow gold,Men,40,full,high
+Update/Rolex_Batch02/IMG_7901.JPG,Rolex,Day-Date,Day-Date Blue Dial White Gold Diamond Bezel President,blue,silver,white gold,diamond,president,white gold,Men,40,full,high
+Update/Rolex_Batch02/IMG_7902.JPG,Rolex,Day-Date,Day-Date Champagne Dial Yellow Gold Fluted Bezel President,champagne,gold,yellow gold,fluted,president,yellow gold,Men,40,full,high
+Update/Rolex_Batch02/IMG_7903.JPG,Rolex,Day-Date,Day-Date Brown Diamond Dial Rose Gold Diamond Bezel President,brown,gold,rose gold,diamond,president,rose gold,Men,40,full,high
+Update/Rolex_Batch02/IMG_7904.JPG,Rolex,Day-Date,Day-Date Black Diamond Dial Yellow Gold Fluted Bezel President,black,gold,yellow gold,fluted,president,yellow gold,Men,40,full,high
+Update/Rolex_Batch02/IMG_7905.JPG,Rolex,Day-Date,Day-Date Brown Dial Rose Gold Fluted Bezel President,brown,gold,rose gold,fluted,president,rose gold,Men,40,full,high
+Update/Rolex_Batch02/IMG_0178.JPG,Rolex,Submariner,Submariner Black Dial Two-Tone Steel And Gold Oyster,black,two-tone,steel and yellow gold,black gold-trim,bracelet,steel and yellow gold,Men,40,caseback,high
+Update/Rolex_Batch02/IMG_0179 2.JPG,Rolex,Milgauss,Milgauss Green Dial Stainless Steel Smooth Bezel Oyster,green,silver,stainless steel,smooth steel,bracelet,stainless steel,Men,40,wrist,high
+Update/Rolex_Batch02/IMG_0179.JPG,Rolex,Submariner,Submariner Black Dial Two-Tone Steel And Gold Oyster,black,two-tone,steel and yellow gold,black gold-trim,bracelet,steel and yellow gold,Men,40,caseback,high
+Update/Rolex_Batch02/IMG_0180 2.JPG,Rolex,Milgauss,Milgauss Green Dial Stainless Steel Smooth Bezel Oyster,green,silver,stainless steel,smooth steel,bracelet,stainless steel,Men,40,wrist,high
+Update/Rolex_Batch02/IMG_0180.JPG,Rolex,Milgauss,Milgauss Green Dial Stainless Steel Smooth Bezel Oyster,green,silver,stainless steel,smooth steel,bracelet,stainless steel,Men,40,movement,high
+Update/Rolex_Batch02/IMG_0181 2.JPG,Rolex,Milgauss,Milgauss Green Dial Stainless Steel Smooth Bezel Oyster,green,silver,stainless steel,smooth steel,bracelet,stainless steel,Men,40,dial,high
+Update/Rolex_Batch02/IMG_0181.JPG,Rolex,Submariner,Submariner Black Dial Two-Tone Steel And Gold Oyster,black,two-tone,steel and yellow gold,black gold-trim,bracelet,steel and yellow gold,Men,40,full,high
+Update/Rolex_Batch02/IMG_0182 2.JPG,Rolex,Submariner,Submariner Black Dial Two-Tone Steel And Gold Oyster,black,two-tone,steel and yellow gold,black gold-trim,bracelet,steel and yellow gold,Men,40,full,high
+Update/Rolex_Batch02/IMG_0182.JPG,Rolex,Submariner,Submariner Black Dial Two-Tone Steel And Gold Oyster,black,two-tone,steel and yellow gold,black gold-trim,bracelet,steel and yellow gold,Men,40,full,high
+Update/Rolex_Batch02/IMG_0183.JPG,Rolex,Milgauss,Milgauss Green Dial Stainless Steel Smooth Bezel Oyster,green,silver,stainless steel,smooth steel,bracelet,stainless steel,Men,40,bracelet,high
+Update/Rolex_Batch02/IMG_0184 2.JPG,Rolex,Submariner,Submariner Black Dial Two-Tone Steel And Gold Oyster,black,two-tone,steel and yellow gold,black gold-trim,bracelet,steel and yellow gold,Men,40,full,high
+Update/Rolex_Batch02/IMG_0184.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Grey Dial White Gold Diamond Bezel Rubber Strap,grey,white,white gold,diamond-set,strap,rubber,Men,40,box,high
+Update/Rolex_Batch02/IMG_0185 2.JPG,Rolex,Submariner,Submariner Black Dial Two-Tone Steel And Gold Oyster,black,two-tone,steel and yellow gold,black gold-trim,bracelet,steel and yellow gold,Men,40,side,high
+Update/Rolex_Batch02/IMG_0185.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Grey Dial White Gold Diamond Bezel Rubber Strap,grey,white,white gold,diamond-set,strap,rubber,Men,40,dial,high
+Update/Rolex_Batch02/IMG_0186 2.JPG,Rolex,Submariner,Submariner Black Dial Two-Tone Steel And Gold Oyster,black,two-tone,steel and yellow gold,black gold-trim,bracelet,steel and yellow gold,Men,40,side,high
+Update/Rolex_Batch02/IMG_0186.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Grey Dial White Gold Diamond Bezel Rubber Strap,grey,white,white gold,diamond-set,strap,rubber,Men,40,caseback,high
+Update/Rolex_Batch02/IMG_0187 2.JPG,Rolex,Submariner,Submariner Black Dial Two-Tone Steel And Gold Oyster,black,two-tone,steel and yellow gold,black gold-trim,bracelet,steel and yellow gold,Men,40,caseback,high
+Update/Rolex_Batch02/IMG_0187.JPG,Rolex,Submariner,Submariner Black Dial Two-Tone Steel And Gold Oyster,black,two-tone,steel and yellow gold,black gold-trim,bracelet,steel and yellow gold,Men,40,caseback,high
+Update/Rolex_Batch03/IMG_4744.JPG,Rolex,Day-Date,Day-Date Blue Dial White Gold Fluted Bezel President,blue,white,white gold,fluted,president,white gold,Men,36,dial,high
+Update/Rolex_Batch03/IMG_4745.JPG,Rolex,Submariner,Submariner Date Black Dial Steel Green Bezel Oyster,black,silver,steel,green ceramic,oyster,steel,Men,41,dial,high
+Update/Rolex_Batch03/IMG_4746.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Black Dial Steel Ceramic Bezel Oyster,black,silver,steel,black ceramic tachymeter,oyster,steel,Men,40,dial,high
+Update/Rolex_Batch03/IMG_4747.JPG,Rolex,Submariner,Submariner Date Green Dial Steel Green Bezel Oyster,green,silver,steel,green ceramic,oyster,steel,Men,40,dial,high
+Update/Rolex_Batch03/IMG_4795.JPG,Rolex,Datejust,Datejust Blue Computer Dial Steel Fluted Bezel Jubilee,blue,silver,steel,fluted,jubilee,steel,Men,36,dial,high
+Update/Rolex_Batch03/IMG_4796.JPG,Rolex,Datejust,Datejust Blue Computer Dial Steel Fluted Bezel Jubilee,blue,silver,steel,fluted,jubilee,steel,Men,36,wrist,high
+Update/Rolex_Batch03/IMG_4797.JPG,Rolex,Datejust,Datejust Blue Computer Dial Steel Fluted Bezel Jubilee,blue,silver,steel,fluted,jubilee,steel,Men,36,dial,high
+Update/Rolex_Batch03/IMG_4798.JPG,Rolex,Datejust,Datejust Blue Computer Dial Steel Fluted Bezel Jubilee,blue,silver,steel,fluted,jubilee,steel,Men,36,side,high
+Update/Rolex_Batch03/IMG_4799.JPG,Rolex,Datejust,Datejust Blue Computer Dial Steel Fluted Bezel Jubilee,blue,silver,steel,fluted,jubilee,steel,Men,36,dial,high
+Update/Rolex_Batch03/IMG_4855.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Green Black Bezel Jubilee,black,silver,steel,green black ceramic,jubilee,steel,Men,40,other,high
+Update/Rolex_Batch03/IMG_4856.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Green Black Bezel Jubilee,black,silver,steel,green black ceramic,jubilee,steel,Men,40,dial,high
+Update/Rolex_Batch03/IMG_4857.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Green Black Bezel Jubilee,black,silver,steel,green black ceramic,jubilee,steel,Men,40,dial,high
+Update/Rolex_Batch03/IMG_4858.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Green Black Bezel Jubilee,black,silver,steel,green black ceramic,jubilee,steel,Men,40,full,high
+Update/Rolex_Batch03/IMG_4859.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Green Black Bezel Jubilee,black,silver,steel,green black ceramic,jubilee,steel,Men,40,full,high
+Update/Rolex_Batch03/IMG_4860.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Green Black Bezel Jubilee,black,silver,steel,green black ceramic,jubilee,steel,Men,40,side,high
+Update/Rolex_Batch03/IMG_4861.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Green Black Bezel Jubilee,black,silver,steel,green black ceramic,jubilee,steel,Men,40,caseback,high
+Update/Rolex_Batch03/IMG_4862.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Green Black Bezel Jubilee,black,silver,steel,green black ceramic,jubilee,steel,Men,40,bracelet,high
+Update/Rolex_Batch03/IMG_4863.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Green Black Bezel Jubilee,black,silver,steel,green black ceramic,jubilee,steel,Men,40,bracelet,high
+Update/Rolex_Batch03/IMG_5524.JPG,Rolex,GMT-Master II,GMT-Master II Oyster Steel Clasp,?,steel,steel,?,oyster,steel,Men,40,bracelet,low
+Update/Rolex_Batch03/IMG_5525.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Pepsi Bezel,black,steel,steel,ceramic pepsi,jubilee,steel,Men,40,other,medium
+Update/Rolex_Batch03/IMG_5526.JPG,Rolex,GMT-Master II,GMT-Master II Black Dial Steel Pepsi Bezel,black,steel,steel,ceramic pepsi,jubilee,steel,Men,40,other,medium
+Update/Rolex_Batch03/IMG_5534.JPG,Rolex,Sky-Dweller,Sky-Dweller Everose Gold Fluted Bezel Oysterflex,?,rose gold,everose gold,fluted,oysterflex,rubber,Men,42,side,low
+Update/Rolex_Batch03/IMG_5536.JPG,Rolex,Sky-Dweller,Sky-Dweller Black Dial Yellow Gold Fluted Bezel Oysterflex,black,yellow gold,yellow gold,fluted,oysterflex,rubber,Men,42,dial,high
+Update/Rolex_Batch03/IMG_5537.JPG,Rolex,Sky-Dweller,Sky-Dweller Black Dial Yellow Gold Fluted Bezel Oysterflex,black,yellow gold,yellow gold,fluted,oysterflex,rubber,Men,42,full,high
+Update/Rolex_Batch03/IMG_5538.JPG,Rolex,Sky-Dweller,Sky-Dweller Black Dial Yellow Gold Fluted Bezel Oysterflex,black,yellow gold,yellow gold,fluted,oysterflex,rubber,Men,42,full,high
+Update/Rolex_Batch03/IMG_5539.JPG,Rolex,Sky-Dweller,Sky-Dweller Black Dial Yellow Gold Fluted Bezel Oysterflex,black,yellow gold,yellow gold,fluted,oysterflex,rubber,Men,42,full,high
+Update/Rolex_Batch03/IMG_5540.JPG,Rolex,Sky-Dweller,Sky-Dweller Black Dial Yellow Gold Fluted Bezel Oysterflex,black,yellow gold,yellow gold,fluted,oysterflex,rubber,Men,42,dial,high
+Update/Rolex_Batch03/IMG_5541.JPG,Rolex,Sky-Dweller,Sky-Dweller Black Dial Yellow Gold Fluted Bezel Oysterflex,black,yellow gold,yellow gold,fluted,oysterflex,rubber,Men,42,dial,high
+Update/Rolex_Batch03/IMG_5542.JPG,Rolex,Sky-Dweller,Sky-Dweller Black Dial Yellow Gold Fluted Bezel Oysterflex,black,yellow gold,yellow gold,fluted,oysterflex,rubber,Men,42,side,high
+Update/Rolex_Batch03/IMG_5543.JPG,Rolex,Sky-Dweller,Sky-Dweller Black Dial Yellow Gold Fluted Bezel Oysterflex,black,yellow gold,yellow gold,fluted,oysterflex,rubber,Men,42,side,high
+Update/Rolex_Batch03/IMG_5544.JPG,Rolex,Sky-Dweller,Sky-Dweller Yellow Gold Fluted Bezel Oysterflex,?,yellow gold,yellow gold,fluted,oysterflex,rubber,Men,42,caseback,high
+Update/Rolex_Batch03/IMG_5545.JPG,Rolex,Sky-Dweller,Sky-Dweller Champagne Dial Yellow Gold Fluted Bezel Oysterflex,champagne,yellow gold,yellow gold,fluted,oysterflex,rubber,Men,42,dial,high
+Update/Rolex_Batch03/IMG_5546.JPG,Rolex,Sky-Dweller,Sky-Dweller Champagne Dial Yellow Gold Fluted Bezel Oysterflex,champagne,yellow gold,yellow gold,fluted,oysterflex,rubber,Men,42,full,high
+Update/Rolex_Batch03/IMG_5547.JPG,Rolex,Sky-Dweller,Sky-Dweller Champagne Dial Yellow Gold Fluted Bezel Oysterflex,champagne,yellow gold,yellow gold,fluted,oysterflex,rubber,Men,42,full,high
+Update/Rolex_Batch03/IMG_5548.JPG,Rolex,Sky-Dweller,Sky-Dweller Champagne Dial Yellow Gold Fluted Bezel Oysterflex,champagne,yellow gold,yellow gold,fluted,oysterflex,rubber,Men,42,dial,high
+Update/Rolex_Batch03/IMG_5549.JPG,Rolex,Sky-Dweller,Sky-Dweller Champagne Dial Yellow Gold Fluted Bezel Oysterflex,champagne,yellow gold,yellow gold,fluted,oysterflex,rubber,Men,42,full,high
+Update/Rolex_Batch03/IMG_7189.JPG,Rolex,Datejust,Datejust Blue Roman Dial Steel Fluted Bezel Jubilee,blue,silver,steel,fluted white gold,jubilee,steel,Unisex,31,dial,high
+Update/Rolex_Batch03/IMG_7190.JPG,Rolex,Datejust,Datejust White Mother Of Pearl Diamond Dial Two Tone Everose Diamond Bezel Jubilee,white mother of pearl,two-tone,steel and rose gold,diamond,jubilee,steel and rose gold,Women,31,dial,high
+Update/Rolex_Batch03/IMG_7199.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Black Dial Everose Gold Ceramic Bezel Oyster,black,rose gold,rose gold,black ceramic,oyster,rose gold,Men,40,full,high
+Update/Rolex_Batch03/IMG_7200.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Black Diamond Dial Yellow Gold Tachymeter Bezel Oyster,black,yellow gold,yellow gold,engraved tachymeter yellow gold,oyster,yellow gold,Men,40,full,high
+Update/Rolex_Batch03/IMG_7201.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona White Dial Steel Tachymeter Bezel Oyster,white,silver,steel,engraved tachymeter steel,oyster,steel,Men,40,full,high
+Update/Rolex_Batch03/IMG_7202.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Steel Grey Dial Steel Ceramic Bezel Oyster,grey,silver,steel,black ceramic,oyster,steel,Men,40,full,high
+Update/Rolex_Batch03/IMG_7203.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Ice Blue Dial Steel Brown Ceramic Bezel Oyster,ice blue,silver,steel,brown ceramic,oyster,steel,Men,40,full,medium
+Update/Rolex_Batch03/IMG_7204.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Steel Grey Dial Steel Tachymeter Bezel Oyster,grey,silver,steel,engraved tachymeter steel,oyster,steel,Men,40,full,high
+Update/Rolex_Batch03/IMG_7205.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona White Dial Steel Ceramic Bezel Oyster,white,silver,steel,black ceramic,oyster,steel,Men,40,full,high
+Update/Rolex_Batch03/IMG_7206.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Black Dial Steel Ceramic Bezel Oyster,black,silver,steel,black ceramic,oyster,steel,Men,40,full,high
+Update/Rolex_Batch03/IMG_7207.JPG,Rolex,Cosmograph Daytona,Cosmograph Daytona Champagne Dial Yellow Gold Ceramic Bezel Oysterflex,champagne,yellow gold,yellow gold,black ceramic,oysterflex,rubber,Men,40,full,high
