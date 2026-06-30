@@ -1,0 +1,174 @@
+# Tag vocabulary (1124 watches)
+
+- Rolex - 940
+- Men - 881
+- Strap - 788
+- Standard (37-40mm) - 498
+- Stainless Steel - 402
+- Steel - 370
+- Fluted Bezel - 348
+- Bracelet - 336
+- Date - 321
+- Diamond-Set - 313
+- Datejust - 297
+- Large (41-43mm) - 228
+- Chronograph - 213
+- Two-Tone - 213
+- Black - 205
+- Rose Gold - 205
+- Ceramic Bezel - 195
+- Cosmograph Daytona - 193
+- Rubber - 181
+- Mid (33-36mm) - 178
+- Diamond Bezel - 164
+- Yellow Gold - 151
+- Unisex - 143
+- Day-Date - 141
+- Diver/Sport - 139
+- ? - 127
+- Ladies (<33mm) - 123
+- Tachymeter Bezel - 121
+- Smooth Bezel - 104
+- Blue - 103
+- GMT/World Time - 103
+- Women - 100
+- White - 98
+- White Gold - 81
+- Green - 77
+- Oversized (44mm+) - 66
+- GMT-Master II - 66
+- Gray - 65
+- Silver - 63
+- Submariner - 61
+- Leather - 59
+- Yellowgold - 52
+- Richard Mille - 51
+- Skeleton - 50
+- Carbon - 47
+- Brown - 47
+- Yacht-Master - 46
+- Champagne - 40
+- Mother of Pearl - 38
+- Mixed - 37
+- Oyster Perpetual - 29
+- Sky-Dweller - 28
+- Fabric - 26
+- Cartier - 25
+- 1908 - 24
+- Pink - 24
+- Omega - 23
+- Patek Philippe - 22
+- Steel-Yellowgold - 21
+- Meteorite - 20
+- Whitegold - 19
+- Hublot - 19
+- Multi - 18
+- Moonphase - 16
+- Assorted - 16
+- Ceramic - 15
+- Seamaster Aqua Terra - 15
+- Titanium - 15
+- Turquoise - 15
+- Steel And Gold - 15
+- Platinum - 14
+- Audemars Piguet - 13
+- Nautilus - 13
+- Royal Oak - 12
+- Ice Blue - 12
+- Cellini - 12
+- Rosegold - 12
+- Octagonal Bezel - 11
+- Diamond Pave - 11
+- Jaeger-LeCoultre - 11
+- Steel-Everose - 10
+- RM 055 - 9
+- Quartz Tpt - 9
+- Pave Diamond - 9
+- Steel-Rosegold - 9
+- Gold - 9
+- Land-Dweller - 9
+- Santos - 9
+- Spirit of Big Bang - 9
+- Vacheron Constantin - 9
+- Overseas - 9
+- RM 035 - 8
+- Everosegold - 8
+- Rhodium - 8
+- Everose-Gold - 8
+- Deepsea - 8
+- Explorer - 8
+- Milgauss - 8
+- Multicolor - 8
+- Purple - 8
+- Panthere - 8
+- Classic Fusion - 8
+- Sapphire Crystal - 7
+- RM 35-02 - 7
+- Steel-Everosegold - 7
+- Various - 7
+- Yellow-Gold - 7
+- IWC - 6
+- Tourbillon - 6
+- Master Ultra Thin Moon - 6
+- Speedmaster - 5
+- RM 35-01 - 5
+- RM 35-03 - 5
+- Sundust - 5
+- Sea-Dweller - 5
+- Tank - 5
+- Ingenieur - 5
+- Canvas - 5
+- RM 67-01 - 4
+- Pave - 4
+- Everose - 4
+- RM 11-03 - 3
+- Air-King - 3
+- Yellow - 3
+- Diamond-Set Steel - 3
+- Light Blue - 3
+- Master Control - 3
+- Cubitus - 3
+- Calatrava - 2
+- RM 27-03 - 2
+- RM 88 - 2
+- White-Gold - 2
+- Cream - 2
+- Sapphire - 2
+- Breitling - 2
+- Navitimer - 2
+- Santos-Dumont - 2
+- Big Bang - 2
+- Master Geographic - 2
+- Seamaster Diver 300M - 2
+- RM 27-04 - 2
+- Diamond-Pave - 2
+- Pilot's Watch - 1
+- RM 21-02 - 1
+- RM 61-01 - 1
+- RM 65-01 - 1
+- Black Dlc Steel - 1
+- Diamond-Set Gold - 1
+- Dlc Steel - 1
+- Code 11.59 - 1
+- Ballon Bleu - 1
+- Franck Muller - 1
+- Vanguard - 1
+- Salmon - 1
+- Constellation - 1
+- Aquanaut - 1
+- Complications - 1
+- Grand Complications - 1
+- World Time - 1
+- Piaget - 1
+- Polo - 1
+- RM 56-02 - 1
+- Roger Dubuis - 1
+- Excalibur - 1
+- Burgundy - 1
+- Steel-Everose-Gold - 1
+- Unknown - 1
+- Gold/Steel - 1
+- Explorer II - 1
+- White Rolesor - 1
+- Red - 1
+- Steel Diamond Set - 1
