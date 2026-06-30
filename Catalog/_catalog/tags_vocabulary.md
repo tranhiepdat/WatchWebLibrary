@@ -1,97 +1,102 @@
-# Tag vocabulary (1124 watches)
+# Tag vocabulary (1161 watches)
 
 - Rolex - 940
-- Men - 881
-- Strap - 788
-- Standard (37-40mm) - 498
-- Stainless Steel - 402
-- Steel - 370
+- Men - 917
+- Strap - 818
+- Standard (37-40mm) - 508
+- Stainless Steel - 416
+- Steel - 376
 - Fluted Bezel - 348
-- Bracelet - 336
+- Bracelet - 343
 - Date - 321
-- Diamond-Set - 313
+- Diamond-Set - 319
 - Datejust - 297
-- Large (41-43mm) - 228
-- Chronograph - 213
-- Two-Tone - 213
-- Black - 205
-- Rose Gold - 205
-- Ceramic Bezel - 195
+- Large (41-43mm) - 235
+- Chronograph - 219
+- Black - 219
+- Rose Gold - 216
+- Two-Tone - 215
+- Ceramic Bezel - 203
+- Rubber - 199
 - Cosmograph Daytona - 193
-- Rubber - 181
 - Mid (33-36mm) - 178
-- Diamond Bezel - 164
+- Diamond Bezel - 170
 - Yellow Gold - 151
-- Unisex - 143
+- Unisex - 144
 - Day-Date - 141
 - Diver/Sport - 139
-- ? - 127
+- ? - 131
 - Ladies (<33mm) - 123
 - Tachymeter Bezel - 121
+- Blue - 112
 - Smooth Bezel - 104
-- Blue - 103
 - GMT/World Time - 103
 - Women - 100
-- White - 98
-- White Gold - 81
-- Green - 77
-- Oversized (44mm+) - 66
+- White - 99
+- Oversized (44mm+) - 83
+- White Gold - 82
+- Green - 78
+- Leather - 70
 - GMT-Master II - 66
 - Gray - 65
-- Silver - 63
+- Silver - 64
 - Submariner - 61
-- Leather - 59
-- Yellowgold - 52
-- Richard Mille - 51
-- Skeleton - 50
-- Carbon - 47
+- Skeleton - 57
+- Richard Mille - 57
+- Yellowgold - 53
+- Carbon - 48
 - Brown - 47
 - Yacht-Master - 46
 - Champagne - 40
 - Mother of Pearl - 38
 - Mixed - 37
+- Patek Philippe - 29
 - Oyster Perpetual - 29
+- Cartier - 29
+- Hublot - 29
 - Sky-Dweller - 28
 - Fabric - 26
-- Cartier - 25
+- Omega - 25
 - 1908 - 24
 - Pink - 24
-- Omega - 23
-- Patek Philippe - 22
 - Steel-Yellowgold - 21
+- Moonphase - 20
 - Meteorite - 20
+- Ceramic - 19
 - Whitegold - 19
-- Hublot - 19
+- Audemars Piguet - 18
 - Multi - 18
-- Moonphase - 16
+- Titanium - 16
 - Assorted - 16
-- Ceramic - 15
+- Steel And Gold - 16
 - Seamaster Aqua Terra - 15
-- Titanium - 15
+- Nautilus - 15
 - Turquoise - 15
-- Steel And Gold - 15
+- Royal Oak - 14
+- Octagonal Bezel - 14
 - Platinum - 14
-- Audemars Piguet - 13
-- Nautilus - 13
-- Royal Oak - 12
+- Santos - 13
 - Ice Blue - 12
 - Cellini - 12
 - Rosegold - 12
-- Octagonal Bezel - 11
+- Classic Fusion - 12
+- Jaeger-LeCoultre - 12
 - Diamond Pave - 11
-- Jaeger-LeCoultre - 11
 - Steel-Everose - 10
 - RM 055 - 9
+- Tourbillon - 9
 - Quartz Tpt - 9
+- Sapphire Crystal - 9
 - Pave Diamond - 9
 - Steel-Rosegold - 9
 - Gold - 9
 - Land-Dweller - 9
-- Santos - 9
 - Spirit of Big Bang - 9
 - Vacheron Constantin - 9
 - Overseas - 9
+- IWC - 8
 - RM 035 - 8
+- RM 35-02 - 8
 - Everosegold - 8
 - Rhodium - 8
 - Everose-Gold - 8
@@ -101,15 +106,13 @@
 - Multicolor - 8
 - Purple - 8
 - Panthere - 8
-- Classic Fusion - 8
-- Sapphire Crystal - 7
-- RM 35-02 - 7
 - Steel-Everosegold - 7
 - Various - 7
 - Yellow-Gold - 7
-- IWC - 6
-- Tourbillon - 6
+- Integrated Bracelet Sport - 7
+- Big Bang - 6
 - Master Ultra Thin Moon - 6
+- Diamond Markers - 6
 - Speedmaster - 5
 - RM 35-01 - 5
 - RM 35-03 - 5
@@ -120,7 +123,9 @@
 - Canvas - 5
 - RM 67-01 - 4
 - Pave - 4
+- Complications - 4
 - Everose - 4
+- Calatrava - 3
 - RM 11-03 - 3
 - Air-King - 3
 - Yellow - 3
@@ -128,7 +133,8 @@
 - Light Blue - 3
 - Master Control - 3
 - Cubitus - 3
-- Calatrava - 2
+- Royal Oak Offshore - 3
+- Annual Calendar - 3
 - RM 27-03 - 2
 - RM 88 - 2
 - White-Gold - 2
@@ -137,11 +143,12 @@
 - Breitling - 2
 - Navitimer - 2
 - Santos-Dumont - 2
-- Big Bang - 2
 - Master Geographic - 2
 - Seamaster Diver 300M - 2
+- Aquanaut - 2
 - RM 27-04 - 2
 - Diamond-Pave - 2
+- Perpetual Calendar - 2
 - Pilot's Watch - 1
 - RM 21-02 - 1
 - RM 61-01 - 1
@@ -155,8 +162,6 @@
 - Vanguard - 1
 - Salmon - 1
 - Constellation - 1
-- Aquanaut - 1
-- Complications - 1
 - Grand Complications - 1
 - World Time - 1
 - Piaget - 1
@@ -172,3 +177,17 @@
 - White Rolesor - 1
 - Red - 1
 - Steel Diamond Set - 1
+- Big Bang Unico - 1
+- Big Bang Sang Bleu II - 1
+- Aquatimer Chronograph - 1
+- Rotating Bezel - 1
+- Portugieser Perpetual Calendar - 1
+- Master Ultra Thin Perpetual Calendar - 1
+- Seamaster - 1
+- Seamaster Planet Ocean - 1
+- Diver - 1
+- RM 027 - 1
+- RM 12-01 - 1
+- RM 011 - 1
+- RM 052 - 1
+- RM 056 - 1

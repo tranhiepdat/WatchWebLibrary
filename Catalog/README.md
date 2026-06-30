@@ -7,8 +7,7 @@ Organized warehouse photo library, ready for the web.
 Catalog/
   <Brand>/<Model>/<Watch name>/<Watch name> - NN.jpg     # web-ready (>=3 photos)
   _ToCheck/                                               # needs your review:
-      Non-Rolex/<Brand> - <name>/...                      #   non-Rolex mixed into a Rolex batch
-      _Random/...                                         #   non-watch (box / QC paper / etc.)
+      _Random/...                                         #   unidentified images (box / QC paper / etc.)
   _catalog/                                               # machine-readable metadata (split for git push)
       catalog_00..NN.csv      # one row per watch: sku, brand, model, name, colours, status, folder
       tags_00..NN.csv         # sku, status, folder, all_tags (for web filters)
@@ -22,7 +21,9 @@ NeedMorePhotos/
 - **`NeedMorePhotos/`** = watches with **<=2 photos** → held back so the web team never
   publishes incomplete listings. (`status = need_photos`) Shoot more angles, then move
   the folder into `Catalog/`.
-- **`_ToCheck/`** = images that were mixed in and need a human decision.
+- **`_ToCheck/_Random/`** = a few unidentified images (not clearly a watch) left for a
+  human decision. Identified non-Rolex watches that were mixed into the Rolex batch have
+  already been filed under their real brand.
 
 ## Metadata is split
 `catalog.csv`/`tags.csv` would be too large for this environment's git push limit, so
