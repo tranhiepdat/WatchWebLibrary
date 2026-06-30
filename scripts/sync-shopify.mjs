@@ -45,11 +45,18 @@ function parseCSV(text) {
 const enc = p => p.split("/").map(encodeURIComponent).join("/");
 const jsdelivr = relPath => `https://cdn.jsdelivr.net/gh/${REPO}@${REF}/${enc(relPath)}`;
 
-// tags live in tags.csv -> map folder -> all_tags
+// catalog + tags are split into Catalog/_catalog/{catalog,tags}_NN.csv parts
+const CATDIR = "Catalog/_catalog";
+function readParts(prefix) {
+  let rows = [];
+  try {
+    for (const f of readdirSync(CATDIR).filter(n => n.startsWith(prefix) && n.endsWith(".csv")).sort())
+      rows = rows.concat(parseCSV(readFileSync(`${CATDIR}/${f}`, "utf8")));
+  } catch { /* optional */ }
+  return rows;
+}
 const tagsByFolder = {};
-try {
-  for (const t of parseCSV(readFileSync("Catalog/tags.csv", "utf8"))) tagsByFolder[t.folder] = t.all_tags;
-} catch { /* tags.csv optional */ }
+for (const t of readParts("tags_")) tagsByFolder[t.folder] = t.all_tags;
 
 // ---- build image URLs for a watch from its folder ----
 function imageUrls(folder) {
@@ -125,9 +132,11 @@ async function upsert(w) {
 }
 
 // ---- main ----
-const all = parseCSV(readFileSync("Catalog/catalog.csv", "utf8"));
+// Only sync web-ready watches; watches with status=need_photos (<=2 photos, in
+// NeedMorePhotos/) are held back so incomplete listings never reach the store.
+const all = readParts("catalog_").filter(w => w.status === "web_ready");
 const watches = only.length ? all.filter(w => only.includes(w.sku)) : all;
-console.log(`Syncing ${watches.length} watches to ${STORE} (status=${STATUS})`);
+console.log(`Syncing ${watches.length} web-ready watches to ${STORE} (status=${STATUS}); need_photos held back.`);
 
 let ok = 0, fail = 0;
 for (const w of watches) {
