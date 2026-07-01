@@ -1,0 +1,85 @@
+---
+import { photoPath, resized, srcset, DETAIL_WIDTHS } from "../data/images";
+
+interface Props {
+  folder: string;
+  photos: string[];
+  name: string;
+}
+const { folder, photos, name } = Astro.props;
+const paths = photos.map((f) => photoPath(folder, f));
+---
+
+<div class="gallery">
+  <!-- Main viewer: horizontal scroll-snap (swipe on mobile) -->
+  <div class="relative">
+    <div id="gallery-main" class="flex overflow-x-auto snap-x snap-mandatory no-scrollbar aspect-square bg-paper-2 border border-line">
+      {
+        paths.map((p, i) => (
+          <div class="shrink-0 w-full snap-center aspect-square flex items-center justify-center">
+            <img
+              src={resized(p, 1200, "inside")}
+              srcset={srcset(p, DETAIL_WIDTHS, "inside")}
+              sizes="(max-width: 1024px) 100vw, 640px"
+              alt={`${name} — photo ${i + 1}`}
+              loading={i === 0 ? "eager" : "lazy"}
+              fetchpriority={i === 0 ? "high" : "auto"}
+              decoding="async"
+              class="max-w-full max-h-full object-contain"
+            />
+          </div>
+        ))
+      }
+    </div>
+    {
+      paths.length > 1 && (
+        <>
+          <button type="button" data-gallery-prev aria-label="Previous"
+            class="hidden sm:flex absolute left-2 top-1/2 -translate-y-1/2 w-9 h-9 items-center justify-center bg-paper/80 border border-line hover:border-accent">‹</button>
+          <button type="button" data-gallery-next aria-label="Next"
+            class="hidden sm:flex absolute right-2 top-1/2 -translate-y-1/2 w-9 h-9 items-center justify-center bg-paper/80 border border-line hover:border-accent">›</button>
+        </>
+      )
+    }
+  </div>
+
+  <!-- Thumbnail rail -->
+  {
+    paths.length > 1 && (
+      <div id="gallery-thumbs" class="mt-3 flex gap-2 overflow-x-auto no-scrollbar pb-1">
+        {paths.map((p, i) => (
+          <button type="button" data-thumb={i} class="shrink-0 w-16 h-16 border border-line overflow-hidden opacity-70 hover:opacity-100 data-[active]:opacity-100 data-[active]:border-accent-deep">
+            <img src={resized(p, 160)} width="64" height="64" alt="" loading="lazy" decoding="async" class="w-full h-full object-cover" />
+          </button>
+        ))}
+      </div>
+    )
+  }
+</div>
+
+<script>
+  const main = document.getElementById("gallery-main");
+  if (main) {
+    const slides = Array.from(main.children) as HTMLElement[];
+    const thumbs = Array.from(document.querySelectorAll<HTMLElement>("[data-thumb]"));
+    const setActive = (i: number) => thumbs.forEach((t, j) => (j === i ? t.setAttribute("data-active", "") : t.removeAttribute("data-active")));
+    const scrollTo = (i: number) => slides[i]?.scrollIntoView({ behavior: "smooth", inline: "center", block: "nearest" });
+
+    thumbs.forEach((t) => t.addEventListener("click", () => scrollTo(Number(t.dataset.thumb))));
+
+    document.querySelector("[data-gallery-prev]")?.addEventListener("click", () => {
+      main.scrollBy({ left: -main.clientWidth, behavior: "smooth" });
+    });
+    document.querySelector("[data-gallery-next]")?.addEventListener("click", () => {
+      main.scrollBy({ left: main.clientWidth, behavior: "smooth" });
+    });
+
+    // Track active slide via scroll position
+    let raf = 0;
+    main.addEventListener("scroll", () => {
+      cancelAnimationFrame(raf);
+      raf = requestAnimationFrame(() => setActive(Math.round(main.scrollLeft / main.clientWidth)));
+    });
+    setActive(0);
+  }
+</script>

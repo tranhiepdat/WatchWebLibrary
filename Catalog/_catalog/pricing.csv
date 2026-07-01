@@ -1,0 +1,19 @@
+key,price_range
+# ---------------------------------------------------------------------------
+# Price table for the catalog website.  Everything defaults to "Contact".
+# Fill this in gradually — the site rebuilds automatically after you save.
+#
+# HOW MATCHING WORKS (most specific wins):
+#   1) exact SKU            e.g.  ROL-001,"$28,000 - $32,000"
+#   2) Brand/Model          e.g.  Rolex/Submariner,"$12,000 - $18,000"
+#   3) Brand                e.g.  Rolex,"From $8,000"
+#   4) no match / blank  ->  shows "Contact"
+#
+# Lines starting with # are ignored. Wrap any value containing a comma in
+# "double quotes". Delete a row (or blank its price) to go back to "Contact".
+#
+# Examples (remove the # to activate, edit the numbers):
+# Rolex,"From $8,000"
+# Rolex/Cosmograph Daytona,"$30,000 - $60,000"
+# ROL-001,"$45,000"
+# ---------------------------------------------------------------------------

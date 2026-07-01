@@ -1,0 +1,60 @@
+name: Deploy catalog site
+
+# Builds the browse-only catalog site (site/) from the CSV metadata and deploys
+# it to Cloudflare Pages. Independent of the Shopify sync workflow.
+#
+# We DO NOT use Cloudflare Pages' native Git integration: it would clone the
+# whole ~3 GB repo (2 GB of images) on Cloudflare's builder. Instead we build
+# here with a blobless + sparse checkout (only the ~0.5 MB of CSVs + site/) and
+# upload just the small dist/ via Wrangler. Images load at runtime from jsDelivr.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "Catalog/_catalog/**"
+      - "site/**"
+      - ".github/workflows/deploy-catalog.yml"
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-catalog
+  cancel-in-progress: true
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (blobless + sparse — no image blobs)
+        uses: actions/checkout@v4
+        with:
+          filter: blob:none
+          sparse-checkout: |
+            Catalog/_catalog
+            site
+          sparse-checkout-cone-mode: false
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+          cache-dependency-path: site/package-lock.json
+
+      - name: Install dependencies
+        working-directory: site
+        run: npm ci
+
+      - name: Build site
+        working-directory: site
+        env:
+          GIT_SHA: ${{ github.sha }}                # pin image URLs to this commit (no stale CDN)
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          SITE_URL: ${{ vars.SITE_URL }}            # optional: set repo variable to your custom domain
+        run: npm run build
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy site/dist --project-name=watch-catalog --branch=main

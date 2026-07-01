@@ -1,0 +1,14 @@
+---
+import type { Watch } from "../data/types";
+import WatchCard from "./WatchCard.astro";
+
+interface Props {
+  watches: Watch[];
+  eagerCount?: number;
+}
+const { watches, eagerCount = 4 } = Astro.props;
+---
+
+<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-x-4 gap-y-8">
+  {watches.map((w, i) => <WatchCard watch={w} eager={i < eagerCount} />)}
+</div>

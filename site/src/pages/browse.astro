@@ -1,0 +1,140 @@
+---
+import Base from "../layouts/Base.astro";
+import FilterSheet from "../components/FilterSheet.astro";
+import WatchCard from "../components/WatchCard.astro";
+import { watches } from "../data/catalog";
+import { buildFacetIndex, watchFacetValues } from "../data/facets";
+
+const facets = buildFacetIndex(watches);
+---
+
+<Base title="Browse" description="Browse the full collection">
+  <div class="mx-auto max-w-6xl px-4 py-8">
+    <!-- Toolbar -->
+    <div class="flex items-center justify-between gap-4 mb-6">
+      <div>
+        <h1 class="font-display text-3xl">Browse</h1>
+        <p class="text-sm text-muted mt-1">
+          <span id="result-count">{watches.length}</span> of {watches.length} pieces
+        </p>
+      </div>
+      <div class="flex items-center gap-2">
+        <button
+          type="button"
+          id="clear-filters"
+          hidden
+          class="text-sm text-muted underline underline-offset-2 hover:text-ink"
+        >
+          Clear
+        </button>
+        <button
+          type="button"
+          id="open-filters"
+          class="lg:hidden text-sm px-4 py-2 border border-ink bg-ink text-paper"
+        >
+          Filters <span id="active-count"></span>
+        </button>
+      </div>
+    </div>
+
+    <div class="lg:grid lg:grid-cols-[240px_1fr] lg:gap-8">
+      <FilterSheet facets={facets} />
+
+      <div>
+        <div id="watch-grid" class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-4 gap-x-4 gap-y-8">
+          {
+            watches.map((w, i) => (
+              <div class="watch-item" data-name={w.name.toLowerCase()} data-facets={JSON.stringify(watchFacetValues(w))}>
+                <WatchCard watch={w} eager={i < 6} />
+              </div>
+            ))
+          }
+        </div>
+        <p id="empty-state" hidden class="text-center text-muted py-20">
+          No watches match these filters.
+        </p>
+      </div>
+    </div>
+  </div>
+</Base>
+
+<script>
+  type Facets = Record<string, string[]>;
+  interface Item { el: HTMLElement; facets: Facets; }
+
+  const panel = document.getElementById("filter-panel")!;
+  const grid = document.getElementById("watch-grid")!;
+  const resultCount = document.getElementById("result-count")!;
+  const activeCount = document.getElementById("active-count")!;
+  const emptyState = document.getElementById("empty-state")!;
+  const clearBtn = document.getElementById("clear-filters") as HTMLButtonElement;
+  const openBtn = document.getElementById("open-filters")!;
+  const checkboxes = Array.from(
+    document.querySelectorAll<HTMLInputElement>('input[type="checkbox"][data-facet-key]')
+  );
+
+  const items: Item[] = Array.from(grid.querySelectorAll<HTMLElement>(".watch-item")).map((el) => ({
+    el,
+    facets: JSON.parse(el.dataset.facets || "{}") as Facets,
+  }));
+
+  function selected(): Map<string, Set<string>> {
+    const m = new Map<string, Set<string>>();
+    for (const cb of checkboxes) {
+      if (!cb.checked) continue;
+      const key = cb.dataset.facetKey!;
+      if (!m.has(key)) m.set(key, new Set());
+      m.get(key)!.add(cb.value);
+    }
+    return m;
+  }
+
+  function apply() {
+    const sel = selected();
+    let visible = 0;
+    for (const it of items) {
+      let ok = true;
+      for (const [key, values] of sel) {
+        const vals = it.facets[key] || [];
+        if (!vals.some((v) => values.has(v))) { ok = false; break; }
+      }
+      it.el.hidden = !ok;
+      if (ok) visible++;
+    }
+    resultCount.textContent = String(visible);
+    emptyState.hidden = visible !== 0;
+    const activeGroups = sel.size;
+    const activeVals = Array.from(sel.values()).reduce((n, s) => n + s.size, 0);
+    activeCount.textContent = activeVals ? `(${activeVals})` : "";
+    clearBtn.hidden = activeGroups === 0;
+    syncUrl(sel);
+  }
+
+  function syncUrl(sel: Map<string, Set<string>>) {
+    const params = new URLSearchParams();
+    for (const [key, values] of sel) params.set(key, Array.from(values).join(","));
+    const qs = params.toString();
+    history.replaceState(null, "", qs ? `?${qs}` : location.pathname);
+  }
+
+  function restoreFromUrl() {
+    const params = new URLSearchParams(location.search);
+    for (const cb of checkboxes) {
+      const raw = params.get(cb.dataset.facetKey!);
+      if (raw && raw.split(",").includes(cb.value)) cb.checked = true;
+    }
+  }
+
+  checkboxes.forEach((cb) => cb.addEventListener("change", apply));
+  clearBtn.addEventListener("click", () => {
+    checkboxes.forEach((cb) => (cb.checked = false));
+    apply();
+  });
+
+  // Mobile slide-over open/close
+  openBtn.addEventListener("click", () => panel.classList.remove("hidden"));
+  panel.querySelector("[data-close-filters]")?.addEventListener("click", () => panel.classList.add("hidden"));
+
+  restoreFromUrl();
+  apply();
+</script>

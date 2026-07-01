@@ -1,0 +1,14 @@
+---
+interface Props {
+  price: string | null;
+  class?: string;
+}
+const { price, class: cls = "" } = Astro.props;
+---
+{
+  price ? (
+    <span class:list={["text-ink", cls]}>{price}</span>
+  ) : (
+    <span class:list={["text-muted", cls]}>Contact</span>
+  )
+}

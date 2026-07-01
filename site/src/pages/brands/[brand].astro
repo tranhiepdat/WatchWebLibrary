@@ -1,0 +1,48 @@
+---
+import Base from "../../layouts/Base.astro";
+import WatchGrid from "../../components/WatchGrid.astro";
+import { brands, watchesForBrand, collectionsForBrand } from "../../data/catalog";
+
+export function getStaticPaths() {
+  return brands.map((brand) => ({ params: { brand } }));
+}
+
+const { brand } = Astro.params;
+const all = watchesForBrand(brand!);
+const collections = collectionsForBrand(brand!);
+const grouped = collections.length > 1;
+const modelSlug = (m: string) => encodeURIComponent(m);
+---
+
+<Base title={brand} description={`${brand} — ${all.length} pieces`}>
+  <div class="mx-auto max-w-6xl px-4 py-10">
+    <p class="eyebrow">Maison</p>
+    <h1 class="font-display text-4xl sm:text-5xl mt-2">{brand}</h1>
+    <p class="text-muted mt-2">{all.length} pieces · {collections.length} collections</p>
+
+    {
+      grouped ? (
+        <div class="mt-10 space-y-14">
+          {collections.map((c) => (
+            <section>
+              <div class="flex items-baseline justify-between mb-5 border-b border-line pb-2">
+                <h2 class="font-display text-2xl">{c.model}</h2>
+                <a
+                  href={`/brands/${encodeURIComponent(brand!)}/${modelSlug(c.model)}`}
+                  class="text-sm text-muted hover:text-accent-deep"
+                >
+                  View all {c.count} →
+                </a>
+              </div>
+              <WatchGrid watches={watchesForBrand(brand!).filter((w) => w.model === c.model).slice(0, 8)} eagerCount={0} />
+            </section>
+          ))}
+        </div>
+      ) : (
+        <div class="mt-10">
+          <WatchGrid watches={all} />
+        </div>
+      )
+    }
+  </div>
+</Base>

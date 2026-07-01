@@ -1,0 +1,40 @@
+---
+import type { Watch } from "../data/types";
+interface Props {
+  watch: Watch;
+}
+const { watch } = Astro.props;
+
+const clean = (s: string) => (s && s.trim() !== "?" ? s.trim() : "");
+const rows: [string, string][] = [
+  ["Maison", watch.brand],
+  ["Collection", watch.model],
+  ["Dial", watch.dialColor ?? ""],
+  ["Case Material", watch.materials.join(", ")],
+  ["Bezel", clean(watch.bezel)],
+  ["Bracelet / Strap", [watch.strapType, clean(watch.strapMaterial)].filter(Boolean).join(" · ")],
+  ["Case Size", watch.sizeMm ? `${watch.sizeMm} mm` : ""],
+  ["Gender", clean(watch.gender)],
+].filter(([, v]) => v);
+---
+
+<dl class="divide-y divide-line border-t border-line">
+  {
+    rows.map(([label, value]) => (
+      <div class="flex justify-between gap-4 py-3 text-sm">
+        <dt class="text-muted">{label}</dt>
+        <dd class="text-right">{value}</dd>
+      </div>
+    ))
+  }
+</dl>
+
+{
+  watch.tags.length > 0 && (
+    <div class="mt-6 flex flex-wrap gap-2">
+      {watch.tags.map((t) => (
+        <span class="text-xs px-2.5 py-1 border border-line text-muted">{t}</span>
+      ))}
+    </div>
+  )
+}

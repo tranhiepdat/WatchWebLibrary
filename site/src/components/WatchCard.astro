@@ -1,0 +1,34 @@
+---
+import type { Watch } from "../data/types";
+import { photoPath, resized, srcset, CARD_WIDTHS } from "../data/images";
+import PriceTag from "./PriceTag.astro";
+
+interface Props {
+  watch: Watch;
+  eager?: boolean;
+}
+const { watch, eager = false } = Astro.props;
+const path = photoPath(watch.folder, watch.photos[0]);
+---
+
+<a href={`/watch/${watch.sku}`} class="group block">
+  <div class="aspect-square overflow-hidden bg-paper-2 border border-line">
+    <img
+      src={resized(path, 600)}
+      srcset={srcset(path, CARD_WIDTHS)}
+      sizes="(max-width: 640px) 50vw, (max-width: 1024px) 33vw, 300px"
+      width="600"
+      height="600"
+      alt={watch.name}
+      loading={eager ? "eager" : "lazy"}
+      fetchpriority={eager ? "high" : "auto"}
+      decoding="async"
+      class="w-full h-full object-cover transition-opacity duration-300 group-hover:opacity-90"
+    />
+  </div>
+  <div class="pt-3">
+    <p class="eyebrow">{watch.brand}</p>
+    <h3 class="font-display text-lg leading-snug mt-0.5 line-clamp-2">{watch.name}</h3>
+    <p class="text-sm mt-1"><PriceTag price={watch.price} /></p>
+  </div>
+</a>

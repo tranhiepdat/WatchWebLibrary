@@ -1,0 +1,52 @@
+---
+import Base from "../../layouts/Base.astro";
+import Gallery from "../../components/Gallery.astro";
+import SpecsTable from "../../components/SpecsTable.astro";
+import PriceTag from "../../components/PriceTag.astro";
+import { watches, bySku } from "../../data/catalog";
+
+export function getStaticPaths() {
+  return watches.map((w) => ({ params: { sku: w.sku } }));
+}
+
+const { sku } = Astro.params;
+const watch = bySku.get(sku!)!;
+---
+
+<Base title={watch.name} description={`${watch.brand} ${watch.model}`}>
+  <div class="mx-auto max-w-6xl px-4 py-8">
+    <nav class="text-sm text-muted mb-6">
+      <a href="/" class="hover:text-ink">Home</a>
+      <span class="mx-1">/</span>
+      <a href={`/brands/${encodeURIComponent(watch.brand)}`} class="hover:text-ink">{watch.brand}</a>
+      <span class="mx-1">/</span>
+      <a href={`/brands/${encodeURIComponent(watch.brand)}/${encodeURIComponent(watch.model)}`} class="hover:text-ink">{watch.model}</a>
+    </nav>
+
+    <div class="grid lg:grid-cols-2 gap-8 lg:gap-12">
+      <!-- Gallery -->
+      <div>
+        <Gallery folder={watch.folder} photos={watch.photos} name={watch.name} />
+      </div>
+
+      <!-- Details -->
+      <div class="lg:pt-4">
+        <p class="eyebrow">{watch.brand} · {watch.model}</p>
+        <h1 class="font-display text-3xl sm:text-4xl mt-2 leading-tight">{watch.name}</h1>
+
+        <div class="mt-5 flex items-baseline gap-3">
+          <span class="text-2xl font-display"><PriceTag price={watch.price} /></span>
+          {!watch.price && <span class="text-sm text-muted">— price on request</span>}
+        </div>
+
+        <div class="mt-8">
+          <SpecsTable watch={watch} />
+        </div>
+
+        <div class="mt-8 p-4 bg-paper-2 border border-line text-sm text-muted">
+          Interested in this piece? Note the reference <span class="text-ink font-medium">{watch.sku}</span> and contact us for availability and pricing.
+        </div>
+      </div>
+    </div>
+  </div>
+</Base>

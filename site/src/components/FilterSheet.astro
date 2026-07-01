@@ -1,0 +1,42 @@
+---
+import type { FacetGroup } from "../data/types";
+interface Props {
+  facets: FacetGroup[];
+}
+const { facets } = Astro.props;
+---
+
+<!-- Filter panel: left rail on desktop, slide-over on mobile -->
+<aside
+  id="filter-panel"
+  class="hidden lg:block fixed lg:static inset-0 z-40 bg-paper lg:bg-transparent overflow-y-auto lg:overflow-visible"
+>
+  <div class="lg:sticky lg:top-20 p-4 lg:p-0">
+    <div class="flex items-center justify-between mb-4 lg:hidden">
+      <h2 class="font-display text-2xl">Filters</h2>
+      <button type="button" data-close-filters class="text-sm text-muted px-3 py-1 border border-line">Done</button>
+    </div>
+
+    {
+      facets.map((group) => (
+        <details class="border-b border-line py-3" open={group.key === "brand"}>
+          <summary class="flex items-center justify-between cursor-pointer list-none select-none">
+            <span class="eyebrow">{group.label}</span>
+            <span class="text-muted text-xs">+</span>
+          </summary>
+          <ul class="mt-3 space-y-2 max-h-64 overflow-y-auto no-scrollbar pr-1">
+            {group.values.map((v) => (
+              <li>
+                <label class="flex items-center gap-2 text-sm cursor-pointer">
+                  <input type="checkbox" data-facet-key={group.key} value={v.value} class="accent-[var(--color-accent-deep)]" />
+                  <span class="flex-1">{v.value}</span>
+                  <span class="text-muted text-xs">{v.count}</span>
+                </label>
+              </li>
+            ))}
+          </ul>
+        </details>
+      ))
+    }
+  </div>
+</aside>
