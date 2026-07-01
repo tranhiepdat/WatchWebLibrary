@@ -13,7 +13,11 @@ const { sku } = Astro.params;
 const watch = bySku.get(sku!)!;
 ---
 
-<Base title={watch.name} description={`${watch.brand} ${watch.model}`}>
+<Base
+  title={watch.name}
+  description={`${watch.brand} ${watch.model}`}
+  whatsapp={{ name: watch.name, brand: watch.brand, sku: watch.sku }}
+>
   <div class="mx-auto max-w-6xl px-4 py-8">
     <nav class="text-sm text-muted mb-6">
       <a href="/" class="hover:text-ink">Home</a>
@@ -25,12 +29,12 @@ const watch = bySku.get(sku!)!;
 
     <div class="grid lg:grid-cols-2 gap-8 lg:gap-12">
       <!-- Gallery -->
-      <div>
+      <div class="min-w-0">
         <Gallery folder={watch.folder} photos={watch.photos} name={watch.name} />
       </div>
 
       <!-- Details -->
-      <div class="lg:pt-4">
+      <div class="min-w-0 lg:pt-4">
         <p class="eyebrow">{watch.brand} · {watch.model}</p>
         <h1 class="font-display text-3xl sm:text-4xl mt-2 leading-tight">{watch.name}</h1>
 

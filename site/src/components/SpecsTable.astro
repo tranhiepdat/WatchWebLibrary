@@ -7,7 +7,7 @@ const { watch } = Astro.props;
 
 const clean = (s: string) => (s && s.trim() !== "?" ? s.trim() : "");
 const rows: [string, string][] = [
-  ["Maison", watch.brand],
+  ["Brand", watch.brand],
   ["Collection", watch.model],
   ["Dial", watch.dialColor ?? ""],
   ["Case Material", watch.materials.join(", ")],

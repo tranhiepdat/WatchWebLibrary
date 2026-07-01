@@ -8,47 +8,77 @@ interface Props {
 }
 const { folder, photos, name } = Astro.props;
 const paths = photos.map((f) => photoPath(folder, f));
+const many = paths.length > 1;
 ---
 
-<div class="gallery">
-  <!-- Main viewer: horizontal scroll-snap (swipe on mobile) -->
-  <div class="relative">
-    <div id="gallery-main" class="flex overflow-x-auto snap-x snap-mandatory no-scrollbar aspect-square bg-paper-2 border border-line">
+<div class="gallery w-full min-w-0">
+  <!-- Main viewer: native horizontal swipe (scroll-snap), width-safe -->
+  <div class="relative w-full max-w-full">
+    <div
+      id="gallery-main"
+      class="flex w-full max-w-full overflow-x-auto snap-x snap-mandatory no-scrollbar aspect-square bg-paper-2 border border-line"
+    >
       {
         paths.map((p, i) => (
-          <div class="shrink-0 w-full snap-center aspect-square flex items-center justify-center">
+          <div class="snap-center shrink-0 basis-full w-full aspect-square flex items-center justify-center">
             <img
               src={resized(p, 1200, "inside")}
               srcset={srcset(p, DETAIL_WIDTHS, "inside")}
               sizes="(max-width: 1024px) 100vw, 640px"
               alt={`${name} — photo ${i + 1}`}
+              width="1000"
+              height="1000"
               loading={i === 0 ? "eager" : "lazy"}
               fetchpriority={i === 0 ? "high" : "auto"}
               decoding="async"
-              class="max-w-full max-h-full object-contain"
+              class="max-w-full max-h-full w-auto h-auto object-contain"
             />
           </div>
         ))
       }
     </div>
+
     {
-      paths.length > 1 && (
+      many && (
         <>
-          <button type="button" data-gallery-prev aria-label="Previous"
-            class="hidden sm:flex absolute left-2 top-1/2 -translate-y-1/2 w-9 h-9 items-center justify-center bg-paper/80 border border-line hover:border-accent">‹</button>
-          <button type="button" data-gallery-next aria-label="Next"
-            class="hidden sm:flex absolute right-2 top-1/2 -translate-y-1/2 w-9 h-9 items-center justify-center bg-paper/80 border border-line hover:border-accent">›</button>
+          <button
+            type="button"
+            data-gallery-prev
+            aria-label="Previous photo"
+            class="absolute left-2 top-1/2 -translate-y-1/2 w-10 h-10 flex items-center justify-center rounded-full bg-paper/85 border border-line text-lg hover:border-accent active:scale-95"
+          >
+            ‹
+          </button>
+          <button
+            type="button"
+            data-gallery-next
+            aria-label="Next photo"
+            class="absolute right-2 top-1/2 -translate-y-1/2 w-10 h-10 flex items-center justify-center rounded-full bg-paper/85 border border-line text-lg hover:border-accent active:scale-95"
+          >
+            ›
+          </button>
+          <div
+            id="gallery-counter"
+            class="absolute bottom-2 right-2 bg-ink/70 text-paper text-xs px-2 py-1 rounded-full tabular-nums"
+          >
+            1 / {paths.length}
+          </div>
         </>
       )
     }
   </div>
 
-  <!-- Thumbnail rail -->
+  <!-- Thumbnail rail (scrolls independently; can't widen the page) -->
   {
-    paths.length > 1 && (
-      <div id="gallery-thumbs" class="mt-3 flex gap-2 overflow-x-auto no-scrollbar pb-1">
+    many && (
+      <div id="gallery-thumbs" class="mt-3 flex gap-2 overflow-x-auto no-scrollbar w-full max-w-full pb-1">
         {paths.map((p, i) => (
-          <button type="button" data-thumb={i} class="shrink-0 w-16 h-16 border border-line overflow-hidden opacity-70 hover:opacity-100 data-[active]:opacity-100 data-[active]:border-accent-deep">
+          <button
+            type="button"
+            data-thumb={i}
+            aria-label={`Go to photo ${i + 1}`}
+            class="shrink-0 w-16 h-16 border border-line overflow-hidden opacity-60 hover:opacity-100 data-[active]:opacity-100 data-[active]:border-accent-deep"
+          >
             <img src={resized(p, 160)} width="64" height="64" alt="" loading="lazy" decoding="async" class="w-full h-full object-cover" />
           </button>
         ))}
@@ -62,23 +92,29 @@ const paths = photos.map((f) => photoPath(folder, f));
   if (main) {
     const slides = Array.from(main.children) as HTMLElement[];
     const thumbs = Array.from(document.querySelectorAll<HTMLElement>("[data-thumb]"));
-    const setActive = (i: number) => thumbs.forEach((t, j) => (j === i ? t.setAttribute("data-active", "") : t.removeAttribute("data-active")));
-    const scrollTo = (i: number) => slides[i]?.scrollIntoView({ behavior: "smooth", inline: "center", block: "nearest" });
+    const counter = document.getElementById("gallery-counter");
+    const total = slides.length;
 
-    thumbs.forEach((t) => t.addEventListener("click", () => scrollTo(Number(t.dataset.thumb))));
+    const setActive = (i: number) => {
+      thumbs.forEach((t, j) => (j === i ? t.setAttribute("data-active", "") : t.removeAttribute("data-active")));
+      if (counter) counter.textContent = `${i + 1} / ${total}`;
+      const active = thumbs[i];
+      if (active) active.scrollIntoView({ inline: "nearest", block: "nearest" });
+    };
+    const go = (i: number) => slides[Math.max(0, Math.min(total - 1, i))]?.scrollIntoView({ behavior: "smooth", inline: "center", block: "nearest" });
 
-    document.querySelector("[data-gallery-prev]")?.addEventListener("click", () => {
-      main.scrollBy({ left: -main.clientWidth, behavior: "smooth" });
-    });
-    document.querySelector("[data-gallery-next]")?.addEventListener("click", () => {
-      main.scrollBy({ left: main.clientWidth, behavior: "smooth" });
-    });
+    let current = 0;
+    thumbs.forEach((t) => t.addEventListener("click", () => go(Number(t.dataset.thumb))));
+    document.querySelector("[data-gallery-prev]")?.addEventListener("click", () => go(current - 1));
+    document.querySelector("[data-gallery-next]")?.addEventListener("click", () => go(current + 1));
 
-    // Track active slide via scroll position
     let raf = 0;
     main.addEventListener("scroll", () => {
       cancelAnimationFrame(raf);
-      raf = requestAnimationFrame(() => setActive(Math.round(main.scrollLeft / main.clientWidth)));
+      raf = requestAnimationFrame(() => {
+        const i = Math.round(main.scrollLeft / main.clientWidth);
+        if (i !== current) { current = i; setActive(i); }
+      });
     });
     setActive(0);
   }

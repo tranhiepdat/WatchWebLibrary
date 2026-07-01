@@ -66,10 +66,11 @@ Do this once. Steps in **your** Cloudflare dashboard are marked 👤.
    - `CLOUDFLARE_ACCOUNT_ID` = your account ID
    - *(optional variable)* `SITE_URL` = your custom domain, e.g. `https://catalog.example.com`
 3. **First deploy.** Run the **Deploy catalog site** workflow (Actions tab → Run workflow), or
-   push any change under `site/`. It creates the Cloudflare Pages project **`watch-catalog`**
-   and publishes to `watch-catalog.pages.dev`.
+   push any change under `site/`. It creates the Cloudflare Pages project **`watch-catalog`** and
+   publishes it — note the exact URL Cloudflare prints (it may add a suffix, e.g.
+   `watch-catalog-c0c.pages.dev`). Use that URL below.
 4. **👤 Gate it with Cloudflare Access** (Zero Trust → Access → Applications → *Add* → Self-hosted):
-   - Application domains: add **both** `watch-catalog.pages.dev` **and** your custom domain.
+   - Application domains: add **both** your `*.pages.dev` URL **and** your custom domain.
    - Policy = **Allow**, Include = the buyer **emails** (or "emails ending in …"). Buyers get a
      one-time PIN by email. Session ~30 days.
 5. **👤 Custom domain** (Pages project → Custom domains → *Set up a domain*): add

@@ -2,12 +2,14 @@
 import "../styles/global.css";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
+import WhatsAppButton from "../components/WhatsAppButton.astro";
 
 interface Props {
   title?: string;
   description?: string;
+  whatsapp?: { name: string; brand: string; sku: string };
 }
-const { title, description = "Private watch catalogue" } = Astro.props;
+const { title, description = "Private watch catalogue", whatsapp } = Astro.props;
 const fullTitle = title ? `${title} · The Collection` : "The Collection";
 ---
 
@@ -36,5 +38,6 @@ const fullTitle = title ? `${title} · The Collection` : "The Collection";
       <slot />
     </main>
     <Footer />
+    <WhatsAppButton product={whatsapp} />
   </body>
 </html>
